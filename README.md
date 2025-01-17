@@ -12,6 +12,6 @@ This analysis leverages Python and SQL to uncover key insights into the achievem
 - Five Jupyter Notebooks dedicated to retrieving, preprocessing, exploring, and visualizing Formula One data.
 - A PDF presentation offering an in-depth analysis and interpretation of the results.
 - Datasets sourced from the [formula1.com](https://formula1.com) website and [F1DB](https://github.com/f1db/f1db).
+- An SQLite database used to centralize the data for structured storage and efficient querying.
 - Custom datasets generated using Jupyter for analytical purposes.
 - Charts and maps created in Jupyter to support our analysis.
-- An SQLite database used to centralize the data for structured storage and efficient querying.
