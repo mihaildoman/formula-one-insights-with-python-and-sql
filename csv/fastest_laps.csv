@@ -1,0 +1,1125 @@
+Season,Round,GrandPrix,Driver,Constructor,LapTime
+1950,1,Great Britain,Nino Farina,Alfa Romeo,1:50.600
+1950,2,Monaco,Juan Manuel Fangio,Alfa Romeo,1:51.000
+1950,3,Indianapolis,Johnnie Parsons,Kurtis Kraft,
+1950,4,Switzerland,Nino Farina,Alfa Romeo,2:41.600
+1950,5,Belgium,Nino Farina,Alfa Romeo,4:34.100
+1950,6,France,Juan Manuel Fangio,Alfa Romeo,2:35.600
+1950,7,Italy,Juan Manuel Fangio,Alfa Romeo,2:00.000
+1951,1,Switzerland,Juan Manuel Fangio,Alfa Romeo,2:51.100
+1951,2,Indianapolis,Lee Wallard,Kurtis Kraft,1:07.260
+1951,3,Belgium,Juan Manuel Fangio,Alfa Romeo,4:22.100
+1951,4,France,Juan Manuel Fangio,Alfa Romeo,2:27.800
+1951,5,Great Britain,Nino Farina,Alfa Romeo,1:44.000
+1951,6,Germany,Juan Manuel Fangio,Alfa Romeo,9:55.800
+1951,7,Italy,Nino Farina,Alfa Romeo,1:56.500
+1951,8,Spain,Juan Manuel Fangio,Alfa Romeo,2:16.930
+1952,1,Switzerland,Piero Taruffi,Ferrari,2:49.100
+1952,2,Indianapolis,Bill Vukovich,Kurtis Kraft,1:06.600
+1952,3,Belgium,Alberto Ascari,Ferrari,4:55.000
+1952,4,France,Alberto Ascari,Ferrari,2:17.300
+1952,5,Great Britain,Alberto Ascari,Ferrari,1:52.000
+1952,6,Germany,Alberto Ascari,Ferrari,10:05.100
+1952,7,Netherlands,Alberto Ascari,Ferrari,1:49.800
+1952,8,Italy,Alberto Ascari,Ferrari,2:06.100
+1953,1,Argentina,Alberto Ascari,Ferrari,1:48.400
+1953,2,Indianapolis,Bill Vukovich,Kurtis Kraft,1:06.240
+1953,3,Netherlands,Luigi Villoresi,Ferrari,1:52.800
+1953,4,Belgium,Jose Froilan Gonzalez,Maserati,4:34.000
+1953,5,France,Juan Manuel Fangio,Maserati,2:41.100
+1953,6,Great Britain,Alberto Ascari,Ferrari,1:50.000
+1953,7,Germany,Alberto Ascari,Ferrari,9:56.000
+1953,8,Switzerland,Alberto Ascari,Ferrari,2:41.300
+1953,9,Italy,Juan Manuel Fangio,Maserati,2:04.500
+1954,1,Argentina,Jose Froilan Gonzalez,Ferrari,1:48.200
+1954,2,Indianapolis,Jack McGrath,Kurtis Kraft,1:04.040
+1954,3,Belgium,Juan Manuel Fangio,Maserati,4:25.500
+1954,4,France,Hans Herrmann,Mercedes,2:32.900
+1954,5,Great Britain,Alberto Ascari,Maserati,1:50.000
+1954,6,Germany,Karl Kling,Mercedes,9:55.100
+1954,7,Switzerland,Juan Manuel Fangio,Mercedes,2:39.700
+1954,8,Italy,Jose Froilan Gonzalez,Ferrari,2:00.800
+1954,9,Spain,Alberto Ascari,Lancia,2:20.400
+1955,1,Argentina,Juan Manuel Fangio,Mercedes,1:48.300
+1955,2,Monaco,Juan Manuel Fangio,Mercedes,1:42.400
+1955,3,Indianapolis,Bill Vukovich,Kurtis Kraft,1:03.670
+1955,4,Belgium,Juan Manuel Fangio,Mercedes,4:20.600
+1955,5,Netherlands,Roberto Mieres,Maserati,1:40.900
+1955,6,Great Britain,Stirling Moss,Mercedes,2:00.400
+1955,7,Italy,Stirling Moss,Mercedes,2:46.900
+1956,1,Argentina,Juan Manuel Fangio,Ferrari,1:45.300
+1956,2,Monaco,Juan Manuel Fangio,Ferrari,1:44.400
+1956,3,Indianapolis,Paul Russo,Kurtis Kraft,1:02.320
+1956,4,Belgium,Stirling Moss,Maserati,4:14.700
+1956,5,France,Juan Manuel Fangio,Ferrari,2:25.800
+1956,6,Great Britain,Stirling Moss,Maserati,1:43.200
+1956,7,Germany,Juan Manuel Fangio,Ferrari,9:41.600
+1956,8,Italy,Stirling Moss,Maserati,2:45.500
+1957,1,Argentina,Stirling Moss,Maserati,1:44.700
+1957,2,Monaco,Juan Manuel Fangio,Maserati,1:45.600
+1957,3,Indianapolis,Jim Rathmann,Epperly,1:02.750
+1957,4,France,Luigi Musso,Ferrari,2:22.400
+1957,5,Great Britain,Stirling Moss,Vanwall,1:59.200
+1957,6,Germany,Juan Manuel Fangio,Maserati,9:17.400
+1957,7,Pescara,Stirling Moss,Vanwall,9:44.600
+1957,8,Italy,Tony Brooks,Vanwall,1:43.700
+1958,1,Argentina,Juan Manuel Fangio,Maserati,1:41.800
+1958,2,Monaco,Mike Hawthorn,Ferrari,1:40.600
+1958,3,Netherlands,Stirling Moss,Vanwall,1:37.600
+1958,4,Indianapolis,Tony Bettenhausen,Epperly,1:02.370
+1958,5,Belgium,Mike Hawthorn,Ferrari,3:58.300
+1958,6,France,Mike Hawthorn,Ferrari,2:24.900
+1958,7,Great Britain,Mike Hawthorn,Ferrari,1:40.800
+1958,8,Germany,Stirling Moss,Vanwall,9:09.200
+1958,9,Portugal,Mike Hawthorn,Ferrari,2:32.270
+1958,10,Italy,Phil Hill,Ferrari,1:42.900
+1958,11,Morocco,Stirling Moss,Vanwall,2:22.500
+1959,1,Monaco,Jack Brabham,Cooper,1:40.400
+1959,2,Indianapolis,Johnny Thomson,Lesovsky,1:01.890
+1959,3,Netherlands,Stirling Moss,Cooper,1:36.700
+1959,4,France,Stirling Moss,BRM,2:22.800
+1959,5,Great Britain,Stirling Moss,BRM,1:57.000
+1959,6,Germany,Tony Brooks,Ferrari,2:04.500
+1959,7,Portugal,Stirling Moss,Cooper,2:05.070
+1959,8,Italy,Phil Hill,Ferrari,1:40.400
+1959,9,United States of America,Maurice Trintignant,Cooper,3:05.000
+1960,1,Argentina,Stirling Moss,Cooper,1:38.900
+1960,2,Monaco,Bruce McLaren,Lotus,1:36.200
+1960,3,Indianapolis,Jim Rathmann,Watson,1:01.590
+1960,4,Netherlands,Stirling Moss,Lotus,1:33.800
+1960,5,Belgium,Phil Hill,Ferrari,3:51.900
+1960,6,France,Jack Brabham,Cooper,2:17.500
+1960,7,Great Britain,Graham Hill,BRM,1:34.400
+1960,8,Portugal,John Surtees,Lotus,2:27.530
+1960,9,Italy,Phil Hill,Ferrari,2:43.600
+1960,10,United States of America,Jack Brabham,Cooper,1:56.300
+1961,1,Monaco,Richie Ginther,Ferrari,1:36.300
+1961,2,Netherlands,Jim Clark,Lotus,1:35.500
+1961,3,Belgium,Richie Ginther,Ferrari,3:59.800
+1961,4,France,Phil Hill,Ferrari,2:27.100
+1961,5,Great Britain,Tony Brooks,BRM,1:57.800
+1961,6,Germany,Phil Hill,Ferrari,8:57.800
+1961,7,Italy,Giancarlo Baghetti,Ferrari,2:48.400
+1961,8,United States of America,Jack Brabham,Cooper,1:18.200
+1962,1,Netherlands,Bruce McLaren,Cooper,1:34.400
+1962,2,Monaco,Jim Clark,Lotus,1:35.500
+1962,3,Belgium,Jim Clark,Lotus,3:55.600
+1962,4,France,Graham Hill,BRM,2:16.900
+1962,5,Great Britain,Jim Clark,Lotus,1:55.000
+1962,6,Germany,Graham Hill,BRM,10:12.200
+1962,7,Italy,Graham Hill,BRM,1:42.300
+1962,8,United States of America,Jim Clark,Lotus,1:15.000
+1962,9,South Africa,Jim Clark,Lotus,1:31.000
+1963,1,Monaco,John Surtees,Ferrari,1:34.500
+1963,2,Belgium,Jim Clark,Lotus,3:58.100
+1963,3,Netherlands,Jim Clark,Lotus,1:33.700
+1963,4,France,Jim Clark,Lotus,2:21.600
+1963,5,Great Britain,John Surtees,Ferrari,1:36.000
+1963,6,Germany,John Surtees,Ferrari,8:47.000
+1963,7,Italy,Jim Clark,Lotus,1:38.900
+1963,8,United States of America,Jim Clark,Lotus,1:14.500
+1963,9,Mexico,Jim Clark,Lotus,1:58.100
+1963,10,South Africa,Dan Gurney,Brabham,1:29.100
+1964,1,Monaco,Graham Hill,BRM,1:33.900
+1964,2,Netherlands,Jim Clark,Lotus,1:32.800
+1964,3,Belgium,Dan Gurney,Brabham,3:49.200
+1964,4,France,Jack Brabham,Brabham,2:11.400
+1964,5,Great Britain,Jim Clark,Lotus,1:38.800
+1964,6,Germany,John Surtees,Ferrari,8:39.000
+1964,7,Austria,Dan Gurney,Brabham,1:10.560
+1964,8,Italy,John Surtees,Ferrari,1:38.800
+1964,9,United States of America,Jim Clark,Lotus,1:12.700
+1964,10,Mexico,Jim Clark,Lotus,1:58.370
+1965,1,South Africa,Jim Clark,Lotus,1:27.600
+1965,2,Monaco,Graham Hill,BRM,1:31.700
+1965,3,Belgium,Jim Clark,Lotus,4:12.900
+1965,4,France,Jim Clark,Lotus,3:18.900
+1965,5,Great Britain,Graham Hill,BRM,1:32.200
+1965,6,Netherlands,Jim Clark,Lotus,1:30.600
+1965,7,Germany,Jim Clark,Lotus,8:24.100
+1965,8,Italy,Jim Clark,Lotus,1:36.400
+1965,9,United States of America,Graham Hill,BRM,1:11.900
+1965,10,Mexico,Dan Gurney,Brabham,1:55.840
+1966,1,Monaco,Lorenzo Bandini,Ferrari,1:29.800
+1966,2,Belgium,John Surtees,Ferrari,4:18.700
+1966,3,France,Lorenzo Bandini,Ferrari,2:11.300
+1966,4,Great Britain,Jack Brabham,Brabham,1:37.000
+1966,5,Netherlands,Denny Hulme,Brabham,1:30.600
+1966,6,Germany,John Surtees,Cooper,8:49.000
+1966,7,Italy,Ludovico Scarfiotti,Ferrari,1:32.400
+1966,8,United States of America,John Surtees,Cooper,1:09.670
+1966,9,Mexico,Richie Ginther,Honda,1:53.750
+1967,1,South Africa,Denny Hulme,Brabham,1:29.900
+1967,2,Monaco,Jim Clark,Lotus,1:29.500
+1967,3,Netherlands,Jim Clark,Lotus,1:28.080
+1967,4,Belgium,Dan Gurney,Eagle,3:31.900
+1967,5,France,Graham Hill,Lotus,1:36.700
+1967,6,Great Britain,Denny Hulme,Brabham,1:27.000
+1967,7,Germany,Dan Gurney,Eagle,8:15.100
+1967,8,Canada,Jim Clark,Lotus,1:23.100
+1967,9,Italy,Jim Clark,Lotus,1:28.500
+1967,10,United States of America,Graham Hill,Lotus,1:06.000
+1967,11,Mexico,Jim Clark,Lotus,1:48.130
+1968,1,South Africa,Jim Clark,Lotus,1:23.700
+1968,2,Spain,Jean-Pierre Beltoise,Matra,1:28.300
+1968,3,Monaco,Richard Attwood,BRM,1:28.100
+1968,4,Belgium,John Surtees,Honda,3:30.500
+1968,5,Netherlands,Jean-Pierre Beltoise,Matra,1:45.910
+1968,6,France,Pedro Rodriguez,BRM,2:11.500
+1968,7,Great Britain,Jo Siffert,Lotus,1:29.700
+1968,8,Germany,Jackie Stewart,Matra,9:36.000
+1968,9,Italy,Jackie Oliver,Lotus,1:26.500
+1968,10,Canada,Jo Siffert,Lotus,1:35.100
+1968,11,United States of America,Jackie Stewart,Matra,1:05.220
+1968,12,Mexico,Jo Siffert,Lotus,1:44.230
+1969,1,South Africa,Jackie Stewart,Matra,1:21.600
+1969,2,Spain,Jochen Rindt,Lotus,1:28.300
+1969,3,Monaco,Jackie Stewart,Matra,1:25.100
+1969,4,Netherlands,Jackie Stewart,Matra,1:22.940
+1969,5,France,Jackie Stewart,Matra,3:02.700
+1969,6,Great Britain,Jackie Stewart,Matra,1:21.300
+1969,7,Germany,Jacky Ickx,Brabham,7:43.800
+1969,8,Italy,Jean-Pierre Beltoise,Matra,1:25.200
+1969,9,Canada,Jacky Ickx,Brabham,1:18.100
+1969,10,United States of America,Jochen Rindt,Lotus,1:04.340
+1969,11,Mexico,Jacky Ickx,Brabham,1:43.050
+1970,1,South Africa,John Surtees,McLaren,1:20.800
+1970,2,Spain,Jack Brabham,Brabham,1:24.300
+1970,3,Monaco,Jochen Rindt,Lotus,1:23.200
+1970,4,Belgium,Chris Amon,March,3:27.400
+1970,5,Netherlands,Jacky Ickx,Ferrari,1:19.230
+1970,6,France,Jack Brabham,Brabham,3:00.750
+1970,7,Great Britain,Jack Brabham,Brabham,1:25.900
+1970,8,Germany,Jacky Ickx,Ferrari,2:00.500
+1970,9,Austria,Jacky Ickx,Ferrari,1:40.400
+1970,10,Italy,Clay Regazzoni,Ferrari,1:25.200
+1970,11,Canada,Clay Regazzoni,Ferrari,1:32.200
+1970,12,United States of America,Jacky Ickx,Ferrari,1:02.740
+1970,13,Mexico,Jacky Ickx,Ferrari,1:43.110
+1971,1,South Africa,Mario Andretti,Ferrari,1:20.300
+1971,2,Spain,Jacky Ickx,Ferrari,1:25.100
+1971,3,Monaco,Jackie Stewart,Tyrrell,1:22.200
+1971,4,Netherlands,Jacky Ickx,Ferrari,1:34.950
+1971,5,France,Jackie Stewart,Tyrrell,1:54.090
+1971,6,Great Britain,Jackie Stewart,Tyrrell,1:19.900
+1971,7,Germany,Francois Cevert,Tyrrell,7:20.100
+1971,8,Austria,Jo Siffert,BRM,1:38.470
+1971,9,Italy,Henri Pescarolo,March,1:23.800
+1971,10,Canada,Denny Hulme,McLaren,1:43.500
+1971,11,United States of America,Jacky Ickx,Ferrari,1:43.474
+1972,1,Argentina,Jackie Stewart,Tyrrell,1:13.660
+1972,2,South Africa,Mike Hailwood,Surtees,1:18.900
+1972,3,Spain,Jacky Ickx,Ferrari,1:21.010
+1972,4,Monaco,Jean-Pierre Beltoise,BRM,1:40.000
+1972,5,Belgium,Chris Amon,Matra,1:12.120
+1972,6,France,Chris Amon,Matra,2:53.900
+1972,7,Great Britain,Jackie Stewart,Tyrrell,1:24.000
+1972,8,Germany,Jacky Ickx,Ferrari,7:13.600
+1972,9,Austria,Denny Hulme,McLaren,1:38.320
+1972,10,Italy,Jacky Ickx,Ferrari,1:36.300
+1972,11,Canada,Jackie Stewart,Tyrrell,1:15.700
+1972,12,United States of America,Jackie Stewart,Tyrrell,1:41.644
+1973,1,Argentina,Emerson Fittipaldi,Lotus,1:11.220
+1973,2,Brazil,Emerson Fittipaldi,Lotus,2:35.000
+1973,3,South Africa,Emerson Fittipaldi,Lotus,1:17.100
+1973,4,Spain,Ronnie Peterson,Lotus,1:23.800
+1973,5,Belgium,Francois Cevert,Tyrrell,1:25.420
+1973,6,Monaco,Emerson Fittipaldi,Lotus,1:28.100
+1973,7,Sweden,Denny Hulme,McLaren,1:26.146
+1973,8,France,Denny Hulme,McLaren,1:50.990
+1973,9,Great Britain,James Hunt,March,1:18.600
+1973,10,Netherlands,Ronnie Peterson,Lotus,1:20.310
+1973,11,Germany,Carlos Pace,Surtees,7:11.400
+1973,12,Austria,Carlos Pace,Surtees,1:37.290
+1973,13,Italy,Jackie Stewart,Tyrrell,1:35.300
+1973,14,Canada,Emerson Fittipaldi,Lotus,1:15.496
+1973,15,United States of America,James Hunt,March,1:41.652
+1974,1,Argentina,Clay Regazzoni,Ferrari,1:52.100
+1974,2,Brazil,Clay Regazzoni,Ferrari,2:36.050
+1974,3,South Africa,Carlos Reutemann,Brabham,1:18.160
+1974,4,Spain,Niki Lauda,Ferrari,1:20.830
+1974,5,Belgium,Denny Hulme,McLaren,1:11.310
+1974,6,Monaco,Ronnie Peterson,Lotus,1:27.900
+1974,7,Sweden,Patrick Depailler,Tyrrell,1:27.262
+1974,8,Netherlands,Ronnie Peterson,Lotus,1:21.440
+1974,9,France,Jody Scheckter,Tyrrell,1:00.000
+1974,10,Great Britain,Niki Lauda,Ferrari,1:21.100
+1974,11,Germany,Jody Scheckter,Tyrrell,7:11.100
+1974,12,Austria,Clay Regazzoni,Ferrari,1:37.220
+1974,13,Italy,Carlos Pace,Brabham,1:34.200
+1974,14,Canada,Niki Lauda,Ferrari,1:13.659
+1974,15,United States of America,Carlos Pace,Brabham,1:40.608
+1975,1,Argentina,James Hunt,Hesketh,1:50.910
+1975,2,Brazil,Jean-Pierre Jarier,Shadow,2:34.160
+1975,3,South Africa,Carlos Pace,Brabham,1:17.200
+1975,4,Spain,Mario Andretti,Parnelli,1:25.100
+1975,5,Monaco,Patrick Depailler,Tyrrell,1:28.670
+1975,6,Belgium,Clay Regazzoni,Ferrari,1:26.760
+1975,7,Sweden,Niki Lauda,Ferrari,1:28.267
+1975,8,Netherlands,Niki Lauda,Ferrari,1:21.540
+1975,9,France,Jochen Mass,McLaren,1:50.600
+1975,10,Great Britain,Clay Regazzoni,Ferrari,1:20.900
+1975,11,Germany,Clay Regazzoni,Ferrari,7:06.400
+1975,12,Austria,Vittorio Brambilla,March,1:53.900
+1975,13,Italy,Clay Regazzoni,Ferrari,1:33.100
+1975,14,United States of America,Emerson Fittipaldi,McLaren,1:43.374
+1976,1,Brazil,Jean-Pierre Jarier,Shadow,2:35.070
+1976,2,South Africa,Niki Lauda,Ferrari,1:17.970
+1976,3,USA West,Clay Regazzoni,Ferrari,1:23.076
+1976,4,Spain,Jochen Mass,McLaren,1:20.930
+1976,5,Belgium,Niki Lauda,Ferrari,1:25.980
+1976,6,Monaco,Clay Regazzoni,Ferrari,1:30.280
+1976,7,Sweden,Mario Andretti,Lotus,1:28.002
+1976,8,France,Niki Lauda,Ferrari,1:51.000
+1976,9,Great Britain,Niki Lauda,Ferrari,1:19.910
+1976,10,Germany,Jody Scheckter,Tyrrell,7:10.800
+1976,11,Austria,James Hunt,McLaren,1:35.910
+1976,12,Netherlands,Clay Regazzoni,Ferrari,1:22.590
+1976,13,Italy,Ronnie Peterson,March,1:41.300
+1976,14,Canada,Patrick Depailler,Tyrrell,1:13.817
+1976,15,USA East,James Hunt,McLaren,1:42.851
+1976,16,Japan,Jacques Laffite,Ligier,1:19.970
+1977,1,Argentina,James Hunt,McLaren,1:51.060
+1977,2,Brazil,James Hunt,McLaren,2:34.550
+1977,3,South Africa,John Watson,Brabham,1:17.630
+1977,4,USA West,Niki Lauda,Ferrari,1:22.753
+1977,5,Spain,Jacques Laffite,Ligier,1:20.810
+1977,6,Monaco,Jody Scheckter,Wolf,1:31.070
+1977,7,Belgium,Gunnar Nilsson,Lotus,1:27.540
+1977,8,Sweden,Mario Andretti,Lotus,1:27.607
+1977,9,France,Mario Andretti,Lotus,1:13.750
+1977,10,Great Britain,James Hunt,McLaren,1:19.600
+1977,11,Germany,Niki Lauda,Ferrari,1:55.990
+1977,12,Austria,John Watson,Brabham,1:40.960
+1977,13,Netherlands,Niki Lauda,Ferrari,1:19.990
+1977,14,Italy,Mario Andretti,Lotus,1:39.100
+1977,15,USA East,Ronnie Peterson,Tyrrell,1:51.854
+1977,16,Canada,Mario Andretti,Lotus,1:13.299
+1977,17,Japan,Jody Scheckter,Wolf,1:14.300
+1978,1,Argentina,Gilles Villeneuve,Ferrari,1:49.760
+1978,2,Brazil,Carlos Reutemann,Ferrari,1:43.070
+1978,3,South Africa,Mario Andretti,Lotus,1:17.090
+1978,4,USA West,Alan Jones,Williams,1:22.215
+1978,5,Monaco,Niki Lauda,Brabham,1:28.650
+1978,6,Belgium,Ronnie Peterson,Lotus,1:23.130
+1978,7,Spain,Mario Andretti,Lotus,1:20.060
+1978,8,Sweden,Niki Lauda,Brabham,1:24.836
+1978,9,France,Carlos Reutemann,Ferrari,1:48.560
+1978,10,Great Britain,Niki Lauda,Brabham,1:18.600
+1978,11,Germany,Ronnie Peterson,Lotus,1:55.620
+1978,12,Austria,Ronnie Peterson,Lotus,1:43.120
+1978,13,Netherlands,Niki Lauda,Brabham,1:19.570
+1978,14,Italy,Mario Andretti,Lotus,1:38.230
+1978,15,USA East,Jean-Pierre Jarier,Lotus,1:39.557
+1978,16,Canada,Alan Jones,Williams,1:38.072
+1979,1,Argentina,Jacques Laffite,Ligier,1:46.910
+1979,2,Brazil,Jacques Laffite,Ligier,2:28.760
+1979,3,South Africa,Gilles Villeneuve,Ferrari,1:14.412
+1979,4,USA West,Gilles Villeneuve,Ferrari,1:21.200
+1979,5,Spain,Gilles Villeneuve,Ferrari,1:16.440
+1979,6,Belgium,Gilles Villeneuve,Ferrari,1:23.090
+1979,7,Monaco,Patrick Depailler,Ligier,1:28.820
+1979,8,France,Rene Arnoux,Renault,1:09.160
+1979,9,Great Britain,Clay Regazzoni,Williams,1:14.400
+1979,10,Germany,Gilles Villeneuve,Ferrari,1:51.890
+1979,11,Austria,Rene Arnoux,Renault,1:35.770
+1979,12,Netherlands,Gilles Villeneuve,Ferrari,1:19.438
+1979,13,Italy,Clay Regazzoni,Williams,1:35.600
+1979,14,Canada,Alan Jones,Williams,1:31.272
+1979,15,USA East,Nelson Piquet,Brabham,1:40.054
+1980,1,Argentina,Alan Jones,Williams,1:50.450
+1980,2,Brazil,Rene Arnoux,Renault,2:27.310
+1980,3,South Africa,Rene Arnoux,Renault,1:13.150
+1980,4,USA West,Nelson Piquet,Brabham,1:19.830
+1980,5,Belgium,Jacques Laffite,Ligier,1:20.880
+1980,6,Monaco,Carlos Reutemann,Williams,1:27.418
+1980,7,France,Alan Jones,Williams,1:41.450
+1980,8,Great Britain,Didier Pironi,Ligier,1:12.368
+1980,9,Germany,Alan Jones,Williams,1:48.490
+1980,10,Austria,Rene Arnoux,Renault,1:32.530
+1980,11,Netherlands,Rene Arnoux,Renault,1:19.350
+1980,12,Italy,Alan Jones,Williams,1:36.089
+1980,13,Canada,Didier Pironi,Ligier,1:28.769
+1980,14,USA East,Alan Jones,Williams,1:34.068
+1981,1,USA West,Alan Jones,Williams,1:20.901
+1981,2,Brazil,Marc Surer,Ensign,1:54.302
+1981,3,Argentina,Nelson Piquet,Brabham,1:45.287
+1981,4,San Marino,Gilles Villeneuve,Ferrari,1:48.064
+1981,5,Belgium,Carlos Reutemann,Williams,1:23.300
+1981,6,Monaco,Alan Jones,Williams,1:27.470
+1981,7,Spain,Alan Jones,Williams,1:17.818
+1981,8,France,Alain Prost,Renault,1:09.140
+1981,9,Great Britain,Rene Arnoux,Renault,1:15.067
+1981,10,Germany,Alan Jones,Williams,1:52.420
+1981,11,Austria,Jacques Laffite,Ligier,1:37.620
+1981,12,Netherlands,Alan Jones,Williams,1:21.830
+1981,13,Italy,Carlos Reutemann,Williams,1:37.528
+1981,14,Canada,John Watson,McLaren,1:49.475
+1981,15,Caesar's Palace,Didier Pironi,Ferrari,1:20.156
+1982,1,South Africa,Alain Prost,Renault,1:08.278
+1982,2,Brazil,Alain Prost,Renault,1:37.016
+1982,3,USA West,Niki Lauda,McLaren,1:30.831
+1982,4,San Marino,Didier Pironi,Ferrari,1:35.036
+1982,5,Belgium,John Watson,McLaren,1:20.214
+1982,6,Monaco,Riccardo Patrese,Brabham,1:26.354
+1982,7,Detroit,Alain Prost,Renault,1:50.438
+1982,8,Canada,Didier Pironi,Ferrari,1:28.323
+1982,9,Netherlands,Derek Warwick,Toleman,1:19.780
+1982,10,Great Britain,Brian Henton,Tyrrell,1:13.028
+1982,11,France,Riccardo Patrese,Brabham,1:40.075
+1982,12,Germany,Nelson Piquet,Brabham,1:54.035
+1982,13,Austria,Nelson Piquet,Brabham,1:33.699
+1982,14,Switzerland,Alain Prost,Renault,1:07.477
+1982,15,Italy,Rene Arnoux,Renault,1:33.619
+1982,16,Caesar's Palace,Michele Alboreto,Tyrrell,1:19.639
+1983,1,Brazil,Nelson Piquet,Brabham,1:39.829
+1983,2,USA West,Niki Lauda,McLaren,1:28.330
+1983,3,France,Alain Prost,Renault,1:42.695
+1983,4,San Marino,Riccardo Patrese,Brabham,1:34.437
+1983,5,Monaco,Nelson Piquet,Brabham,1:27.283
+1983,6,Belgium,Andrea de Cesaris,Alfa Romeo,2:07.493
+1983,7,Detroit,John Watson,McLaren,1:47.668
+1983,8,Canada,Patrick Tambay,Ferrari,1:30.851
+1983,9,Great Britain,Alain Prost,Renault,1:14.212
+1983,10,Germany,Rene Arnoux,Ferrari,1:53.938
+1983,11,Austria,Alain Prost,Renault,1:33.961
+1983,12,Netherlands,Rene Arnoux,Ferrari,1:19.863
+1983,13,Italy,Nelson Piquet,Brabham,1:34.431
+1983,14,Europe,Nigel Mansell,Lotus,1:14.342
+1983,15,South Africa,Nelson Piquet,Brabham,1:09.948
+1984,1,Brazil,Alain Prost,McLaren,1:36.499
+1984,2,South Africa,Patrick Tambay,Renault,1:08.877
+1984,3,Belgium,Rene Arnoux,Ferrari,1:19.294
+1984,4,San Marino,Nelson Piquet,Brabham,1:33.275
+1984,5,France,Alain Prost,McLaren,1:05.257
+1984,6,Monaco,Ayrton Senna,Toleman,1:54.334
+1984,7,Canada,Nelson Piquet,Brabham,1:28.763
+1984,8,Detroit,Derek Warwick,Renault,1:46.221
+1984,9,Dallas,Niki Lauda,McLaren,1:45.353
+1984,10,Great Britain,Niki Lauda,McLaren,1:13.191
+1984,11,Germany,Alain Prost,McLaren,1:53.538
+1984,12,Austria,Niki Lauda,McLaren,1:32.882
+1984,13,Netherlands,Rene Arnoux,Ferrari,1:19.465
+1984,14,Italy,Niki Lauda,McLaren,1:31.912
+1984,15,Europe,Nelson Piquet,Brabham,1:23.146
+1984,16,Portugal,Niki Lauda,McLaren,1:22.996
+1985,1,Brazil,Alain Prost,McLaren,1:36.702
+1985,2,Portugal,Ayrton Senna,Lotus,1:44.121
+1985,3,San Marino,Michele Alboreto,Ferrari,1:30.961
+1985,4,Monaco,Michele Alboreto,Ferrari,1:22.637
+1985,5,Canada,Ayrton Senna,Lotus,1:27.445
+1985,6,Detroit,Ayrton Senna,Lotus,1:45.612
+1985,7,France,Keke Rosberg,Williams,1:39.914
+1985,8,Great Britain,Alain Prost,McLaren,1:09.886
+1985,9,Germany,Niki Lauda,McLaren,1:22.806
+1985,10,Austria,Alain Prost,McLaren,1:29.241
+1985,11,Netherlands,Alain Prost,McLaren,1:16.538
+1985,12,Italy,Nigel Mansell,Williams,1:28.283
+1985,13,Belgium,Alain Prost,McLaren,2:01.730
+1985,14,Europe,Jacques Laffite,Ligier,1:11.526
+1985,15,South Africa,Keke Rosberg,Williams,1:08.149
+1985,16,Australia,Keke Rosberg,Williams,1:23.758
+1986,1,Brazil,Nelson Piquet,Williams,1:33.546
+1986,2,Spain,Nigel Mansell,Williams,1:27.176
+1986,3,San Marino,Nelson Piquet,Williams,1:28.667
+1986,4,Monaco,Alain Prost,McLaren,1:26.607
+1986,5,Belgium,Alain Prost,McLaren,1:59.282
+1986,6,Canada,Nelson Piquet,Williams,1:25.443
+1986,7,Detroit,Nelson Piquet,Williams,1:41.233
+1986,8,France,Nigel Mansell,Williams,1:09.993
+1986,9,Great Britain,Nigel Mansell,Williams,1:09.593
+1986,10,Germany,Gerhard Berger,Benetton,1:46.604
+1986,11,Hungary,Nelson Piquet,Williams,1:31.001
+1986,12,Austria,Gerhard Berger,Benetton,1:29.444
+1986,13,Italy,Teo Fabi,Benetton,1:28.099
+1986,14,Portugal,Nigel Mansell,Williams,1:20.943
+1986,15,Mexico,Nelson Piquet,Williams,1:19.360
+1986,16,Australia,Nelson Piquet,Williams,1:20.787
+1987,1,Brazil,Nelson Piquet,Williams,1:33.861
+1987,2,San Marino,Teo Fabi,Benetton,1:29.246
+1987,3,Belgium,Alain Prost,McLaren,1:57.153
+1987,4,Monaco,Ayrton Senna,Lotus,1:27.685
+1987,5,Detroit,Ayrton Senna,Lotus,1:40.464
+1987,6,France,Nelson Piquet,Williams,1:09.548
+1987,7,Great Britain,Nigel Mansell,Williams,1:09.832
+1987,8,Germany,Nigel Mansell,Williams,1:45.716
+1987,9,Hungary,Nelson Piquet,Williams,1:30.149
+1987,10,Austria,Nigel Mansell,Williams,1:28.318
+1987,11,Italy,Ayrton Senna,Lotus,1:26.796
+1987,12,Portugal,Gerhard Berger,Ferrari,1:19.282
+1987,13,Spain,Gerhard Berger,Ferrari,1:26.986
+1987,14,Mexico,Nelson Piquet,Williams,1:19.132
+1987,15,Japan,Alain Prost,McLaren,1:43.844
+1987,16,Australia,Gerhard Berger,Ferrari,1:20.416
+1988,1,Brazil,Gerhard Berger,Ferrari,1:32.943
+1988,2,San Marino,Alain Prost,McLaren,1:29.685
+1988,3,Monaco,Ayrton Senna,McLaren,1:26.321
+1988,4,Mexico,Alain Prost,McLaren,1:18.608
+1988,5,Canada,Ayrton Senna,McLaren,1:24.973
+1988,6,Detroit,Alain Prost,McLaren,1:44.836
+1988,7,France,Alain Prost,McLaren,1:11.737
+1988,8,Great Britain,Nigel Mansell,Williams,1:23.308
+1988,9,Germany,Alessandro Nannini,Benetton,2:03.032
+1988,10,Hungary,Alain Prost,McLaren,1:30.639
+1988,11,Belgium,Gerhard Berger,Ferrari,2:00.772
+1988,12,Italy,Michele Alboreto,Ferrari,1:29.070
+1988,13,Portugal,Gerhard Berger,Ferrari,1:21.961
+1988,14,Spain,Alain Prost,McLaren,1:27.845
+1988,15,Japan,Ayrton Senna,McLaren,1:46.326
+1988,16,Australia,Alain Prost,McLaren,1:21.216
+1989,1,Brazil,Riccardo Patrese,Williams,1:32.507
+1989,2,San Marino,Alain Prost,McLaren,1:26.795
+1989,3,Monaco,Alain Prost,McLaren,1:25.501
+1989,4,Mexico,Nigel Mansell,Ferrari,1:20.420
+1989,5,United States of America,Ayrton Senna,McLaren,1:33.969
+1989,6,Canada,Jonathan Palmer,Tyrrell,1:31.925
+1989,7,France,Mauricio Gugelmin,March,1:12.090
+1989,8,Great Britain,Nigel Mansell,Ferrari,1:12.017
+1989,9,Germany,Ayrton Senna,McLaren,1:45.884
+1989,10,Hungary,Nigel Mansell,Ferrari,1:22.637
+1989,11,Belgium,Alain Prost,McLaren,2:11.571
+1989,12,Italy,Alain Prost,McLaren,1:28.107
+1989,13,Portugal,Gerhard Berger,Ferrari,1:18.986
+1989,14,Spain,Ayrton Senna,McLaren,1:25.779
+1989,15,Japan,Alain Prost,McLaren,1:43.506
+1989,16,Australia,Satoru Nakajima,Lotus,1:38.480
+1990,1,United States of America,Gerhard Berger,McLaren,1:31.050
+1990,2,Brazil,Gerhard Berger,McLaren,1:19.899
+1990,3,San Marino,Alessandro Nannini,Benetton,1:27.156
+1990,4,Monaco,Ayrton Senna,McLaren,1:24.468
+1990,5,Canada,Gerhard Berger,McLaren,1:22.077
+1990,6,Mexico,Alain Prost,Ferrari,1:17.958
+1990,7,France,Nigel Mansell,Ferrari,1:08.012
+1990,8,Great Britain,Nigel Mansell,Ferrari,1:11.291
+1990,9,Germany,Thierry Boutsen,Williams,1:45.602
+1990,10,Hungary,Riccardo Patrese,Williams,1:22.058
+1990,11,Belgium,Alain Prost,Ferrari,1:55.087
+1990,12,Italy,Ayrton Senna,McLaren,1:26.254
+1990,13,Portugal,Riccardo Patrese,Williams,1:18.306
+1990,14,Spain,Riccardo Patrese,Williams,1:24.513
+1990,15,Japan,Riccardo Patrese,Williams,1:44.233
+1990,16,Australia,Nigel Mansell,Ferrari,1:18.203
+1991,1,United States of America,Jean Alesi,Ferrari,1:26.758
+1991,2,Brazil,Nigel Mansell,Williams,1:20.436
+1991,3,San Marino,Gerhard Berger,McLaren,1:26.531
+1991,4,Monaco,Alain Prost,Ferrari,1:24.368
+1991,5,Canada,Nigel Mansell,Williams,1:22.385
+1991,6,Mexico,Nigel Mansell,Williams,1:16.788
+1991,7,France,Nigel Mansell,Williams,1:19.168
+1991,8,Great Britain,Nigel Mansell,Williams,1:26.379
+1991,9,Germany,Riccardo Patrese,Williams,1:43.569
+1991,10,Hungary,Bertrand Gachot,Jordan,1:21.547
+1991,11,Belgium,Roberto Moreno,Benetton,1:55.161
+1991,12,Italy,Ayrton Senna,McLaren,1:26.061
+1991,13,Portugal,Nigel Mansell,Williams,1:18.179
+1991,14,Spain,Riccardo Patrese,Williams,1:22.837
+1991,15,Japan,Ayrton Senna,McLaren,1:41.532
+1991,16,Australia,Gerhard Berger,McLaren,1:41.141
+1992,1,South Africa,Nigel Mansell,Williams,1:17.578
+1992,2,Mexico,Gerhard Berger,McLaren,1:17.711
+1992,3,Brazil,Riccardo Patrese,Williams,1:19.490
+1992,4,Spain,Nigel Mansell,Williams,1:42.503
+1992,5,San Marino,Riccardo Patrese,Williams,1:26.100
+1992,6,Monaco,Nigel Mansell,Williams,1:21.598
+1992,7,Canada,Gerhard Berger,McLaren,1:22.325
+1992,8,France,Nigel Mansell,Williams,1:17.070
+1992,9,Great Britain,Nigel Mansell,Williams,1:22.539
+1992,10,Germany,Riccardo Patrese,Williams,1:41.591
+1992,11,Hungary,Nigel Mansell,Williams,1:18.308
+1992,12,Belgium,Michael Schumacher,Benetton,1:53.791
+1992,13,Italy,Nigel Mansell,Williams,1:26.119
+1992,14,Portugal,Ayrton Senna,McLaren,1:16.272
+1992,15,Japan,Nigel Mansell,Williams,1:40.646
+1992,16,Australia,Michael Schumacher,Benetton,1:16.078
+1993,1,South Africa,Alain Prost,Williams,1:19.492
+1993,2,Brazil,Michael Schumacher,Benetton,1:20.024
+1993,3,Europe,Ayrton Senna,McLaren,1:18.029
+1993,4,San Marino,Alain Prost,Williams,1:26.128
+1993,5,Spain,Michael Schumacher,Benetton,1:20.989
+1993,6,Monaco,Alain Prost,Williams,1:23.604
+1993,7,Canada,Michael Schumacher,Benetton,1:21.500
+1993,8,France,Michael Schumacher,Benetton,1:19.256
+1993,9,Great Britain,Damon Hill,Williams,1:22.515
+1993,10,Germany,Michael Schumacher,Benetton,1:41.859
+1993,11,Hungary,Alain Prost,Williams,1:19.633
+1993,12,Belgium,Alain Prost,Williams,1:51.095
+1993,13,Italy,Damon Hill,Williams,1:23.575
+1993,14,Portugal,Damon Hill,Williams,1:14.859
+1993,15,Japan,Alain Prost,Williams,1:41.176
+1993,16,Australia,Damon Hill,Williams,1:15.381
+1994,1,Brazil,Michael Schumacher,Benetton,1:18.455
+1994,2,Pacific,Michael Schumacher,Benetton,1:14.023
+1994,3,San Marino,Damon Hill,Williams,1:24.335
+1994,4,San Marino,Ayrton Senna,Williams,1:44.068
+1994,5,San Marino,Damon Hill,Williams,1:24.335
+1994,6,Monaco,Michael Schumacher,Benetton,1:21.076
+1994,7,Spain,Michael Schumacher,Benetton,1:25.155
+1994,8,Canada,Michael Schumacher,Benetton,1:28.927
+1994,9,France,Damon Hill,Williams,1:19.678
+1994,10,Great Britain,Damon Hill,Williams,1:27.100
+1994,11,Germany,David Coulthard,Williams,1:46.211
+1994,12,Hungary,Michael Schumacher,Benetton,1:20.881
+1994,13,Belgium,Damon Hill,Williams,1:57.117
+1994,14,Italy,Damon Hill,Williams,1:25.930
+1994,15,Portugal,David Coulthard,Williams,1:22.446
+1994,16,Europe,Michael Schumacher,Benetton,1:25.040
+1994,17,Japan,Damon Hill,Williams,1:56.597
+1994,18,Australia,Michael Schumacher,Benetton,1:17.140
+1995,1,Brazil,Michael Schumacher,Benetton,1:20.921
+1995,2,Argentina,Michael Schumacher,Benetton,1:30.522
+1995,3,San Marino,Gerhard Berger,Ferrari,1:29.568
+1995,4,Spain,Damon Hill,Williams,1:24.531
+1995,5,Monaco,Jean Alesi,Ferrari,1:24.621
+1995,6,Canada,Michael Schumacher,Benetton,1:29.174
+1995,7,France,Michael Schumacher,Benetton,1:20.218
+1995,8,Great Britain,Damon Hill,Williams,1:29.752
+1995,9,Germany,Michael Schumacher,Benetton,1:48.824
+1995,10,Hungary,Damon Hill,Williams,1:20.247
+1995,11,Belgium,David Coulthard,Williams,1:53.412
+1995,12,Italy,Gerhard Berger,Ferrari,1:26.419
+1995,13,Portugal,David Coulthard,Williams,1:23.220
+1995,14,Europe,Michael Schumacher,Benetton,1:21.180
+1995,15,Pacific,Michael Schumacher,Benetton,1:16.374
+1995,16,Japan,Michael Schumacher,Benetton,1:42.976
+1995,17,Australia,Damon Hill,Williams,1:17.943
+1996,1,Australia,Jacques Villeneuve,Williams,1:33.421
+1996,2,Brazil,Damon Hill,Williams,1:21.547
+1996,3,Argentina,Jean Alesi,Benetton,1:29.413
+1996,4,Europe,Damon Hill,Williams,1:21.363
+1996,5,San Marino,Damon Hill,Williams,1:28.931
+1996,6,Monaco,Jean Alesi,Benetton,1:25.205
+1996,7,Spain,Michael Schumacher,Ferrari,1:45.517
+1996,8,Canada,Jacques Villeneuve,Williams,1:21.916
+1996,9,France,Jacques Villeneuve,Williams,1:18.610
+1996,10,Great Britain,Jacques Villeneuve,Williams,1:29.288
+1996,11,Germany,Damon Hill,Williams,1:46.504
+1996,12,Hungary,Damon Hill,Williams,1:20.093
+1996,13,Belgium,Gerhard Berger,Benetton,1:53.067
+1996,14,Italy,Michael Schumacher,Ferrari,1:26.110
+1996,15,Portugal,Jacques Villeneuve,Williams,1:22.873
+1996,16,Japan,Jacques Villeneuve,Williams,1:44.043
+1997,1,Australia,Heinz-Harald Frentzen,Williams,1:30.585
+1997,2,Brazil,Jacques Villeneuve,Williams,1:18.397
+1997,3,Argentina,Gerhard Berger,Benetton,1:27.981
+1997,4,San Marino,Heinz-Harald Frentzen,Williams,1:25.531
+1997,5,Monaco,Michael Schumacher,Ferrari,1:53.315
+1997,6,Spain,Giancarlo Fisichella,Jordan,1:22.242
+1997,7,Canada,David Coulthard,McLaren,1:19.635
+1997,8,France,Michael Schumacher,Ferrari,1:17.910
+1997,9,Great Britain,Michael Schumacher,Ferrari,1:24.475
+1997,10,Germany,Gerhard Berger,Benetton,1:45.747
+1997,11,Hungary,Heinz-Harald Frentzen,Williams,1:18.372
+1997,12,Belgium,Jacques Villeneuve,Williams,1:52.692
+1997,13,Italy,Mika Hakkinen,McLaren,1:24.808
+1997,14,Austria,Jacques Villeneuve,Williams,1:11.814
+1997,15,Luxembourg,Heinz-Harald Frentzen,Williams,1:18.805
+1997,16,Japan,Heinz-Harald Frentzen,Williams,1:38.942
+1997,17,Europe,Heinz-Harald Frentzen,Williams,1:23.135
+1998,1,Australia,Mika Hakkinen,McLaren,1:31.649
+1998,2,Brazil,Mika Hakkinen,McLaren,1:19.337
+1998,3,Argentina,Alexander Wurz,Benetton,1:28.179
+1998,4,San Marino,Michael Schumacher,Ferrari,1:29.345
+1998,5,Spain,Mika Hakkinen,McLaren,1:24.275
+1998,6,Monaco,Mika Hakkinen,McLaren,1:22.948
+1998,7,Canada,Michael Schumacher,Ferrari,1:19.379
+1998,8,France,David Coulthard,McLaren,1:17.523
+1998,9,Great Britain,Michael Schumacher,Ferrari,1:35.704
+1998,10,Austria,David Coulthard,McLaren,1:12.878
+1998,11,Germany,David Coulthard,McLaren,1:46.116
+1998,12,Hungary,Michael Schumacher,Ferrari,1:19.286
+1998,13,Belgium,Michael Schumacher,Ferrari,2:03.766
+1998,14,Italy,Mika Hakkinen,McLaren,1:25.139
+1998,15,Luxembourg,Mika Hakkinen,McLaren,1:20.450
+1998,16,Japan,Michael Schumacher,Ferrari,1:40.190
+1999,1,Australia,Michael Schumacher,Ferrari,1:32.112
+1999,2,Brazil,Mika Hakkinen,McLaren,1:18.448
+1999,3,San Marino,Michael Schumacher,Ferrari,1:28.547
+1999,4,Monaco,Mika Hakkinen,McLaren,1:22.259
+1999,5,Spain,Michael Schumacher,Ferrari,1:24.982
+1999,6,Canada,Eddie Irvine,Ferrari,1:20.382
+1999,7,France,David Coulthard,McLaren,1:19.227
+1999,8,Great Britain,Mika Hakkinen,McLaren,1:28.309
+1999,9,Austria,Mika Hakkinen,McLaren,1:12.107
+1999,10,Germany,David Coulthard,McLaren,1:45.270
+1999,11,Hungary,David Coulthard,McLaren,1:20.699
+1999,12,Belgium,Mika Hakkinen,McLaren,1:53.955
+1999,13,Italy,Ralf Schumacher,Williams,1:25.579
+1999,14,Europe,Mika Hakkinen,McLaren,1:21.282
+1999,15,Malaysia,Michael Schumacher,Ferrari,1:40.267
+1999,16,Japan,Michael Schumacher,Ferrari,1:41.319
+2000,1,Australia,Rubens Barrichello,Ferrari,1:31.481
+2000,2,Brazil,Michael Schumacher,Ferrari,1:14.755
+2000,3,San Marino,Mika Hakkinen,McLaren,1:26.523
+2000,4,Great Britain,Mika Hakkinen,McLaren,1:26.217
+2000,5,Spain,Mika Hakkinen,McLaren,1:24.470
+2000,6,Europe,Michael Schumacher,Ferrari,1:22.269
+2000,7,Monaco,Mika Hakkinen,McLaren,1:21.571
+2000,8,Canada,Mika Hakkinen,McLaren,1:19.049
+2000,9,France,David Coulthard,McLaren,1:19.479
+2000,10,Austria,David Coulthard,McLaren,1:11.783
+2000,11,Germany,Rubens Barrichello,Ferrari,1:44.300
+2000,12,Hungary,Mika Hakkinen,McLaren,1:20.028
+2000,13,Belgium,Rubens Barrichello,Ferrari,1:53.803
+2000,14,Italy,Mika Hakkinen,McLaren,1:25.595
+2000,15,United States of America,David Coulthard,McLaren,1:14.711
+2000,16,Japan,Mika Hakkinen,McLaren,1:39.189
+2000,17,Malaysia,Mika Hakkinen,McLaren,1:38.543
+2001,1,Australia,Michael Schumacher,Ferrari,1:28.214
+2001,2,Malaysia,Mika Hakkinen,McLaren,1:40.962
+2001,3,Brazil,Ralf Schumacher,Williams,1:15.693
+2001,4,San Marino,Ralf Schumacher,Williams,1:25.524
+2001,5,Spain,Michael Schumacher,Ferrari,1:21.151
+2001,6,Austria,David Coulthard,McLaren,1:10.843
+2001,7,Monaco,David Coulthard,McLaren,1:19.424
+2001,8,Canada,Ralf Schumacher,Williams,1:17.205
+2001,9,Europe,Juan Pablo Montoya,Williams,1:18.354
+2001,10,France,David Coulthard,McLaren,1:16.088
+2001,11,Great Britain,Mika Hakkinen,McLaren,1:23.405
+2001,12,Germany,Juan Pablo Montoya,Williams,1:41.808
+2001,13,Hungary,Mika Hakkinen,McLaren,1:16.723
+2001,14,Belgium,Michael Schumacher,Ferrari,1:49.758
+2001,15,Italy,Ralf Schumacher,Williams,1:25.073
+2001,16,United States of America,Juan Pablo Montoya,Williams,1:14.448
+2001,17,Japan,Ralf Schumacher,Williams,1:36.944
+2002,1,Australia,Kimi Raikkonen,McLaren,1:28.541
+2002,2,Malaysia,Juan Pablo Montoya,Williams,1:38.049
+2002,3,Brazil,Juan Pablo Montoya,Williams,1:16.079
+2002,4,San Marino,Rubens Barrichello,Ferrari,1:24.170
+2002,5,Spain,Michael Schumacher,Ferrari,1:20.355
+2002,6,Austria,Michael Schumacher,Ferrari,1:09.298
+2002,7,Monaco,Rubens Barrichello,Ferrari,1:18.023
+2002,8,Canada,Juan Pablo Montoya,Williams,1:15.960
+2002,9,Europe,Michael Schumacher,Ferrari,1:32.226
+2002,10,Great Britain,Rubens Barrichello,Ferrari,1:23.083
+2002,11,France,David Coulthard,McLaren,1:15.045
+2002,12,Germany,Michael Schumacher,Ferrari,1:16.462
+2002,13,Hungary,Michael Schumacher,Ferrari,1:16.207
+2002,14,Belgium,Michael Schumacher,Ferrari,1:47.176
+2002,15,Italy,Rubens Barrichello,Ferrari,1:23.657
+2002,16,United States of America,Rubens Barrichello,Ferrari,1:12.738
+2002,17,Japan,Michael Schumacher,Ferrari,1:36.125
+2003,1,Australia,Kimi Raikkonen,McLaren,1:27.724
+2003,2,Malaysia,Michael Schumacher,Ferrari,1:36.412
+2003,3,Brazil,Rubens Barrichello,Ferrari,1:22.032
+2003,4,San Marino,Michael Schumacher,Ferrari,1:22.491
+2003,5,Spain,Rubens Barrichello,Ferrari,1:20.143
+2003,6,Austria,Michael Schumacher,Ferrari,1:08.337
+2003,7,Monaco,Kimi Raikkonen,McLaren,1:14.545
+2003,8,Canada,Fernando Alonso,Renault,1:16.040
+2003,9,Europe,Kimi Raikkonen,McLaren,1:32.621
+2003,10,France,Juan Pablo Montoya,Williams,1:15.512
+2003,11,Great Britain,Rubens Barrichello,Ferrari,1:22.236
+2003,12,Germany,Juan Pablo Montoya,Williams,1:14.917
+2003,13,Hungary,Juan Pablo Montoya,Williams,1:22.095
+2003,14,Italy,Michael Schumacher,Ferrari,1:21.832
+2003,15,United States of America,Michael Schumacher,Ferrari,1:11.473
+2003,16,Japan,Ralf Schumacher,Williams,1:33.408
+2004,1,Australia,Michael Schumacher,Ferrari,1:24.125
+2004,2,Malaysia,Juan Pablo Montoya,Williams,1:34.223
+2004,3,Bahrain,Michael Schumacher,Ferrari,1:30.252
+2004,4,San Marino,Michael Schumacher,Ferrari,1:20.411
+2004,5,Spain,Michael Schumacher,Ferrari,1:17.450
+2004,6,Monaco,Michael Schumacher,Ferrari,1:14.439
+2004,7,Europe,Michael Schumacher,Ferrari,1:29.468
+2004,8,Canada,Rubens Barrichello,Ferrari,1:13.622
+2004,9,United States of America,Rubens Barrichello,Ferrari,1:10.399
+2004,10,France,Michael Schumacher,Ferrari,1:15.377
+2004,11,Great Britain,Michael Schumacher,Ferrari,1:18.739
+2004,12,Germany,Kimi Raikkonen,McLaren,1:13.780
+2004,13,Hungary,Michael Schumacher,Ferrari,1:19.071
+2004,14,Belgium,Kimi Raikkonen,McLaren,1:45.108
+2004,15,Italy,Rubens Barrichello,Ferrari,1:21.046
+2004,16,China,Michael Schumacher,Ferrari,1:32.238
+2004,17,Japan,Rubens Barrichello,Ferrari,1:32.730
+2004,18,Brazil,Juan Pablo Montoya,Williams,1:11.473
+2005,1,Australia,Fernando Alonso,Renault,1:25.683
+2005,2,Malaysia,Kimi Raikkonen,McLaren,1:35.483
+2005,3,Bahrain,Pedro de la Rosa,McLaren,1:31.447
+2005,4,San Marino,Michael Schumacher,Ferrari,1:21.858
+2005,5,Spain,Giancarlo Fisichella,Renault,1:15.641
+2005,6,Monaco,Michael Schumacher,Ferrari,1:15.842
+2005,7,Europe,Fernando Alonso,Renault,1:30.711
+2005,8,Canada,Kimi Raikkonen,McLaren,1:14.384
+2005,9,United States of America,Michael Schumacher,Ferrari,1:11.497
+2005,10,France,Kimi Raikkonen,McLaren,1:16.423
+2005,11,Great Britain,Kimi Raikkonen,McLaren,1:20.502
+2005,12,Germany,Kimi Raikkonen,McLaren,1:14.873
+2005,13,Hungary,Kimi Raikkonen,McLaren,1:21.219
+2005,14,Turkey,Juan Pablo Montoya,McLaren,1:24.770
+2005,15,Italy,Kimi Raikkonen,McLaren,1:21.504
+2005,16,Belgium,Ralf Schumacher,Toyota,1:51.453
+2005,17,Brazil,Kimi Raikkonen,McLaren,1:12.268
+2005,18,Japan,Kimi Raikkonen,McLaren,1:31.540
+2005,19,China,Kimi Raikkonen,McLaren,1:33.242
+2006,1,Bahrain,Nico Rosberg,Williams,1:32.408
+2006,2,Malaysia,Fernando Alonso,Renault,1:34.803
+2006,3,Australia,Kimi Raikkonen,McLaren,1:26.045
+2006,4,San Marino,Fernando Alonso,Renault,1:24.569
+2006,5,Europe,Michael Schumacher,Ferrari,1:32.099
+2006,6,Spain,Felipe Massa,Ferrari,1:16.648
+2006,7,Monaco,Michael Schumacher,Ferrari,1:15.143
+2006,8,Great Britain,Fernando Alonso,Renault,1:21.599
+2006,9,Canada,Kimi Raikkonen,McLaren,1:15.841
+2006,10,United States of America,Michael Schumacher,Ferrari,1:12.719
+2006,11,France,Michael Schumacher,Ferrari,1:17.111
+2006,12,Germany,Michael Schumacher,Ferrari,1:16.357
+2006,13,Hungary,Felipe Massa,Ferrari,1:23.516
+2006,14,Turkey,Michael Schumacher,Ferrari,1:28.005
+2006,15,Italy,Kimi Raikkonen,McLaren,1:22.559
+2006,16,China,Fernando Alonso,Renault,1:37.586
+2006,17,Japan,Fernando Alonso,Renault,1:32.676
+2006,18,Brazil,Michael Schumacher,Ferrari,1:12.162
+2007,1,Australia,Kimi Raikkonen,Ferrari,1:25.235
+2007,2,Malaysia,Lewis Hamilton,McLaren,1:36.701
+2007,3,Bahrain,Felipe Massa,Ferrari,1:34.067
+2007,4,Spain,Felipe Massa,Ferrari,1:22.680
+2007,5,Monaco,Fernando Alonso,McLaren,1:15.284
+2007,6,Canada,Fernando Alonso,McLaren,1:16.367
+2007,7,United States of America,Kimi Raikkonen,Ferrari,1:13.117
+2007,8,France,Felipe Massa,Ferrari,1:16.099
+2007,9,Great Britain,Kimi Raikkonen,Ferrari,1:20.638
+2007,10,Europe,Felipe Massa,Ferrari,1:32.853
+2007,11,Hungary,Kimi Raikkonen,Ferrari,1:20.047
+2007,12,Turkey,Kimi Raikkonen,Ferrari,1:27.295
+2007,13,Italy,Fernando Alonso,McLaren,1:22.871
+2007,14,Belgium,Felipe Massa,Ferrari,1:48.036
+2007,15,Japan,Lewis Hamilton,McLaren,1:28.193
+2007,16,China,Felipe Massa,Ferrari,1:37.454
+2007,17,Brazil,Kimi Raikkonen,Ferrari,1:12.445
+2008,1,Australia,Heikki Kovalainen,McLaren,1:27.418
+2008,2,Malaysia,Nick Heidfeld,Sauber,1:35.366
+2008,3,Bahrain,Heikki Kovalainen,McLaren,1:33.193
+2008,4,Spain,Kimi Raikkonen,Ferrari,1:21.670
+2008,5,Turkey,Kimi Raikkonen,Ferrari,1:26.506
+2008,6,Monaco,Kimi Raikkonen,Ferrari,1:16.689
+2008,7,Canada,Kimi Raikkonen,Ferrari,1:17.387
+2008,8,France,Kimi Raikkonen,Ferrari,1:16.630
+2008,9,Great Britain,Kimi Raikkonen,Ferrari,1:32.150
+2008,10,Germany,Nick Heidfeld,Sauber,1:15.987
+2008,11,Hungary,Kimi Raikkonen,Ferrari,1:21.195
+2008,12,Europe,Felipe Massa,Ferrari,1:38.708
+2008,13,Belgium,Kimi Raikkonen,Ferrari,1:47.930
+2008,14,Italy,Kimi Raikkonen,Ferrari,1:28.047
+2008,15,Singapore,Kimi Raikkonen,Ferrari,1:45.599
+2008,16,Japan,Felipe Massa,Ferrari,1:18.426
+2008,17,China,Lewis Hamilton,McLaren,1:36.325
+2008,18,Brazil,Felipe Massa,Ferrari,1:13.736
+2009,1,Australia,Nico Rosberg,Williams,1:27.706
+2009,2,Malaysia,Jenson Button,Brawn,1:36.641
+2009,3,China,Rubens Barrichello,Brawn,1:52.592
+2009,4,Bahrain,Jarno Trulli,Toyota,1:34.556
+2009,5,Spain,Rubens Barrichello,Brawn,1:22.762
+2009,6,Monaco,Felipe Massa,Ferrari,1:15.154
+2009,7,Turkey,Jenson Button,Brawn,1:27.579
+2009,8,Great Britain,Sebastian Vettel,Red Bull,1:20.735
+2009,9,Germany,Fernando Alonso,Renault,1:33.365
+2009,10,Hungary,Mark Webber,Red Bull,1:21.931
+2009,11,Europe,Timo Glock,Toyota,1:38.683
+2009,12,Belgium,Sebastian Vettel,Red Bull,1:47.263
+2009,13,Italy,Adrian Sutil,Force India,1:24.739
+2009,14,Singapore,Fernando Alonso,Renault,1:48.240
+2009,15,Japan,Mark Webber,Red Bull,1:32.569
+2009,16,Brazil,Mark Webber,Red Bull,1:13.733
+2009,17,Abu Dhabi,Sebastian Vettel,Red Bull,1:40.279
+2010,1,Bahrain,Fernando Alonso,Ferrari,1:58.287
+2010,2,Australia,Mark Webber,Red Bull,1:28.358
+2010,3,Malaysia,Mark Webber,Red Bull,1:37.054
+2010,4,China,Lewis Hamilton,McLaren,1:42.061
+2010,5,Spain,Lewis Hamilton,McLaren,1:24.357
+2010,6,Monaco,Sebastian Vettel,Red Bull,1:15.192
+2010,7,Turkey,Vitaly Petrov,Renault,1:29.165
+2010,8,Canada,Robert Kubica,Renault,1:16.972
+2010,9,Europe,Jenson Button,McLaren,1:38.766
+2010,10,Great Britain,Fernando Alonso,Ferrari,1:30.874
+2010,11,Germany,Sebastian Vettel,Red Bull,1:15.824
+2010,12,Hungary,Sebastian Vettel,Red Bull,1:22.362
+2010,13,Belgium,Lewis Hamilton,McLaren,1:49.069
+2010,14,Italy,Fernando Alonso,Ferrari,1:24.139
+2010,15,Singapore,Fernando Alonso,Ferrari,1:47.976
+2010,16,Japan,Mark Webber,Red Bull,1:33.474
+2010,17,South Korea,Fernando Alonso,Ferrari,1:50.257
+2010,18,Brazil,Lewis Hamilton,McLaren,1:13.851
+2010,19,Abu Dhabi,Lewis Hamilton,McLaren,1:41.274
+2011,1,Australia,Felipe Massa,Ferrari,1:28.947
+2011,2,Malaysia,Mark Webber,Red Bull,1:40.571
+2011,3,China,Mark Webber,Red Bull,1:38.993
+2011,4,Turkey,Mark Webber,Red Bull,1:29.703
+2011,5,Spain,Lewis Hamilton,McLaren,1:26.727
+2011,6,Monaco,Mark Webber,Red Bull,1:16.234
+2011,7,Canada,Jenson Button,McLaren,1:16.956
+2011,8,Europe,Sebastian Vettel,Red Bull,1:41.852
+2011,9,Great Britain,Fernando Alonso,Ferrari,1:34.908
+2011,10,Germany,Lewis Hamilton,McLaren,1:34.302
+2011,11,Hungary,Felipe Massa,Ferrari,1:23.415
+2011,12,Belgium,Mark Webber,Red Bull,1:49.883
+2011,13,Italy,Lewis Hamilton,McLaren,1:26.187
+2011,14,Singapore,Jenson Button,McLaren,1:48.454
+2011,15,Japan,Jenson Button,McLaren,1:36.568
+2011,16,South Korea,Sebastian Vettel,Red Bull,1:39.605
+2011,17,India,Sebastian Vettel,Red Bull,1:27.249
+2011,18,Abu Dhabi,Mark Webber,Red Bull,1:42.612
+2011,19,Brazil,Mark Webber,Red Bull,1:15.324
+2012,1,Australia,Jenson Button,McLaren,1:29.187
+2012,2,Malaysia,Kimi Raikkonen,Lotus,1:40.722
+2012,3,China,Kamui Kobayashi,Sauber,1:39.960
+2012,4,Bahrain,Sebastian Vettel,Red Bull,1:36.379
+2012,5,Spain,Romain Grosjean,Lotus,1:26.250
+2012,6,Monaco,Sergio Perez,Sauber,1:17.296
+2012,7,Canada,Sebastian Vettel,Red Bull,1:15.752
+2012,8,Europe,Nico Rosberg,Mercedes,1:42.163
+2012,9,Great Britain,Kimi Raikkonen,Lotus,1:34.661
+2012,10,Germany,Michael Schumacher,Mercedes,1:18.725
+2012,11,Hungary,Sebastian Vettel,Red Bull,1:24.136
+2012,12,Belgium,Bruno Senna,Williams,1:52.822
+2012,13,Italy,Nico Rosberg,Mercedes,1:27.239
+2012,14,Singapore,Nico Hulkenberg,Force India,1:51.033
+2012,15,Japan,Sebastian Vettel,Red Bull,1:35.774
+2012,16,South Korea,Mark Webber,Red Bull,1:42.037
+2012,17,India,Jenson Button,McLaren,1:28.203
+2012,18,Abu Dhabi,Sebastian Vettel,Red Bull,1:43.964
+2012,19,United States of America,Sebastian Vettel,Red Bull,1:39.347
+2012,20,Brazil,Lewis Hamilton,McLaren,1:18.069
+2013,1,Australia,Kimi Raikkonen,Lotus,1:29.274
+2013,2,Malaysia,Sergio Perez,McLaren,1:39.199
+2013,3,China,Sebastian Vettel,Red Bull,1:36.808
+2013,4,Bahrain,Sebastian Vettel,Red Bull,1:36.961
+2013,5,Spain,Esteban Gutierrez,Sauber,1:26.217
+2013,6,Monaco,Sebastian Vettel,Red Bull,1:16.577
+2013,7,Canada,Mark Webber,Red Bull,1:16.182
+2013,8,Great Britain,Mark Webber,Red Bull,1:33.401
+2013,9,Germany,Fernando Alonso,Ferrari,1:33.468
+2013,10,Hungary,Mark Webber,Red Bull,1:24.069
+2013,11,Belgium,Sebastian Vettel,Red Bull,1:50.756
+2013,12,Italy,Lewis Hamilton,Mercedes,1:25.849
+2013,13,Singapore,Sebastian Vettel,Red Bull,1:48.574
+2013,14,South Korea,Sebastian Vettel,Red Bull,1:41.380
+2013,15,Japan,Mark Webber,Red Bull,1:34.587
+2013,16,India,Kimi Raikkonen,Lotus,1:27.679
+2013,17,Abu Dhabi,Fernando Alonso,Ferrari,1:43.434
+2013,18,United States of America,Sebastian Vettel,Red Bull,1:39.856
+2013,19,Brazil,Mark Webber,Red Bull,1:15.436
+2014,1,Australia,Nico Rosberg,Mercedes,1:32.478
+2014,2,Malaysia,Lewis Hamilton,Mercedes,1:43.066
+2014,3,Bahrain,Nico Rosberg,Mercedes,1:37.020
+2014,4,China,Nico Rosberg,Mercedes,1:40.402
+2014,5,Spain,Sebastian Vettel,Red Bull,1:28.918
+2014,6,Monaco,Kimi Raikkonen,Ferrari,1:18.479
+2014,7,Canada,Felipe Massa,Williams,1:18.504
+2014,8,Austria,Sergio Perez,Force India,1:12.142
+2014,9,Great Britain,Lewis Hamilton,Mercedes,1:37.176
+2014,10,Germany,Lewis Hamilton,Mercedes,1:19.908
+2014,11,Hungary,Nico Rosberg,Mercedes,1:25.724
+2014,12,Belgium,Nico Rosberg,Mercedes,1:50.511
+2014,13,Italy,Lewis Hamilton,Mercedes,1:28.004
+2014,14,Singapore,Lewis Hamilton,Mercedes,1:50.417
+2014,15,Japan,Lewis Hamilton,Mercedes,1:51.600
+2014,16,Russia,Valtteri Bottas,Williams,1:40.896
+2014,17,United States of America,Sebastian Vettel,Red Bull,1:41.379
+2014,18,Brazil,Lewis Hamilton,Mercedes,1:13.555
+2014,19,Abu Dhabi,Daniel Ricciardo,Red Bull,1:44.496
+2015,1,Australia,Lewis Hamilton,Mercedes,1:30.945
+2015,2,Malaysia,Nico Rosberg,Mercedes,1:42.062
+2015,3,China,Lewis Hamilton,Mercedes,1:42.208
+2015,4,Bahrain,Kimi Raikkonen,Ferrari,1:36.311
+2015,5,Spain,Lewis Hamilton,Mercedes,1:28.270
+2015,6,Monaco,Daniel Ricciardo,Red Bull,1:18.063
+2015,7,Canada,Kimi Raikkonen,Ferrari,1:16.987
+2015,8,Austria,Nico Rosberg,Mercedes,1:11.235
+2015,9,Great Britain,Lewis Hamilton,Mercedes,1:37.093
+2015,10,Hungary,Daniel Ricciardo,Red Bull,1:24.821
+2015,11,Belgium,Nico Rosberg,Mercedes,1:52.416
+2015,12,Italy,Lewis Hamilton,Mercedes,1:26.672
+2015,13,Singapore,Daniel Ricciardo,Red Bull,1:50.041
+2015,14,Japan,Lewis Hamilton,Mercedes,1:36.145
+2015,15,Russia,Sebastian Vettel,Ferrari,1:40.071
+2015,16,United States of America,Nico Rosberg,Mercedes,1:40.666
+2015,17,Mexico,Nico Rosberg,Mercedes,1:20.521
+2015,18,Brazil,Lewis Hamilton,Mercedes,1:14.832
+2015,19,Abu Dhabi,Lewis Hamilton,Mercedes,1:44.517
+2016,1,Australia,Daniel Ricciardo,Red Bull,1:28.997
+2016,2,Bahrain,Nico Rosberg,Mercedes,1:34.482
+2016,3,China,Nico Hulkenberg,Force India,1:39.824
+2016,4,Russia,Nico Rosberg,Mercedes,1:39.094
+2016,5,Spain,Daniil Kvyat,Toro Rosso,1:26.948
+2016,6,Monaco,Lewis Hamilton,Mercedes,1:17.939
+2016,7,Canada,Nico Rosberg,Mercedes,1:15.599
+2016,8,Europe,Nico Rosberg,Mercedes,1:46.485
+2016,9,Austria,Lewis Hamilton,Mercedes,1:08.411
+2016,10,Great Britain,Nico Rosberg,Mercedes,1:35.548
+2016,11,Hungary,Kimi Raikkonen,Ferrari,1:23.086
+2016,12,Germany,Daniel Ricciardo,Red Bull,1:18.442
+2016,13,Belgium,Lewis Hamilton,Mercedes,1:51.583
+2016,14,Italy,Fernando Alonso,McLaren,1:25.340
+2016,15,Singapore,Daniel Ricciardo,Red Bull,1:47.187
+2016,16,Malaysia,Nico Rosberg,Mercedes,1:36.424
+2016,17,Japan,Sebastian Vettel,Ferrari,1:35.118
+2016,18,United States of America,Sebastian Vettel,Ferrari,1:39.877
+2016,19,Mexico,Daniel Ricciardo,Red Bull,1:21.134
+2016,20,Brazil,Max Verstappen,Red Bull,1:25.305
+2016,21,Abu Dhabi,Sebastian Vettel,Ferrari,1:43.729
+2017,1,Australia,Kimi Raikkonen,Ferrari,1:26.538
+2017,2,China,Lewis Hamilton,Mercedes,1:35.378
+2017,3,Bahrain,Lewis Hamilton,Mercedes,1:32.798
+2017,4,Russia,Kimi Raikkonen,Ferrari,1:36.844
+2017,5,Spain,Lewis Hamilton,Mercedes,1:23.593
+2017,6,Monaco,Sergio Perez,Force India,1:14.820
+2017,7,Canada,Lewis Hamilton,Mercedes,1:14.551
+2017,8,Azerbaijan,Sebastian Vettel,Ferrari,1:43.441
+2017,9,Austria,Lewis Hamilton,Mercedes,1:07.411
+2017,10,Great Britain,Lewis Hamilton,Mercedes,1:30.621
+2017,11,Hungary,Fernando Alonso,McLaren,1:20.182
+2017,12,Belgium,Sebastian Vettel,Ferrari,1:46.577
+2017,13,Italy,Daniel Ricciardo,Red Bull,1:23.361
+2017,14,Singapore,Lewis Hamilton,Mercedes,1:45.008
+2017,15,Malaysia,Sebastian Vettel,Ferrari,1:34.080
+2017,16,Japan,Valtteri Bottas,Mercedes,1:33.144
+2017,17,United States of America,Sebastian Vettel,Ferrari,1:37.766
+2017,18,Mexico,Sebastian Vettel,Ferrari,1:18.785
+2017,19,Brazil,Max Verstappen,Red Bull,1:11.044
+2017,20,Abu Dhabi,Valtteri Bottas,Mercedes,1:40.650
+2018,1,Australia,Daniel Ricciardo,Red Bull,1:25.945
+2018,2,Bahrain,Valtteri Bottas,Mercedes,1:33.740
+2018,3,China,Daniel Ricciardo,Red Bull,1:35.785
+2018,4,Azerbaijan,Valtteri Bottas,Mercedes,1:45.149
+2018,5,Spain,Daniel Ricciardo,Red Bull,1:18.441
+2018,6,Monaco,Max Verstappen,Red Bull,1:14.260
+2018,7,Canada,Max Verstappen,Red Bull,1:13.864
+2018,8,France,Valtteri Bottas,Mercedes,1:34.225
+2018,9,Austria,Kimi Raikkonen,Ferrari,1:06.957
+2018,10,Great Britain,Sebastian Vettel,Ferrari,1:30.696
+2018,11,Germany,Lewis Hamilton,Mercedes,1:15.545
+2018,12,Hungary,Daniel Ricciardo,Red Bull,1:20.012
+2018,13,Belgium,Valtteri Bottas,Mercedes,1:46.286
+2018,14,Italy,Lewis Hamilton,Mercedes,1:22.497
+2018,15,Singapore,Kevin Magnussen,Haas,1:41.905
+2018,16,Russia,Valtteri Bottas,Mercedes,1:35.861
+2018,17,Japan,Sebastian Vettel,Ferrari,1:32.318
+2018,18,United States of America,Lewis Hamilton,Mercedes,1:37.392
+2018,19,Mexico,Valtteri Bottas,Mercedes,1:18.741
+2018,20,Brazil,Valtteri Bottas,Mercedes,1:10.540
+2018,21,Abu Dhabi,Sebastian Vettel,Ferrari,1:40.867
+2019,1,Australia,Valtteri Bottas,Mercedes,1:25.580
+2019,2,Bahrain,Charles Leclerc,Ferrari,1:33.411
+2019,3,China,Pierre Gasly,Red Bull,1:34.742
+2019,4,Azerbaijan,Charles Leclerc,Ferrari,1:43.009
+2019,5,Spain,Lewis Hamilton,Mercedes,1:18.492
+2019,6,Monaco,Pierre Gasly,Red Bull,1:14.279
+2019,7,Canada,Valtteri Bottas,Mercedes,1:13.078
+2019,8,France,Sebastian Vettel,Ferrari,1:32.740
+2019,9,Austria,Max Verstappen,Red Bull,1:07.475
+2019,10,Great Britain,Lewis Hamilton,Mercedes,1:27.369
+2019,11,Germany,Max Verstappen,Red Bull,1:16.645
+2019,12,Hungary,Max Verstappen,Red Bull,1:17.103
+2019,13,Belgium,Sebastian Vettel,Ferrari,1:46.409
+2019,14,Italy,Lewis Hamilton,Mercedes,1:21.779
+2019,15,Singapore,Kevin Magnussen,Haas,1:42.301
+2019,16,Russia,Lewis Hamilton,Mercedes,1:35.761
+2019,17,Japan,Lewis Hamilton,Mercedes,1:30.983
+2019,18,Mexico,Charles Leclerc,Ferrari,1:19.232
+2019,19,United States of America,Charles Leclerc,Ferrari,1:36.169
+2019,20,Brazil,Valtteri Bottas,Mercedes,1:10.698
+2019,21,Abu Dhabi,Lewis Hamilton,Mercedes,1:39.283
+2020,1,Austria,Lando Norris,McLaren,1:07.475
+2020,2,Styria,Carlos Sainz,McLaren,1:05.619
+2020,3,Hungary,Lewis Hamilton,Mercedes,1:16.627
+2020,4,Great Britain,Max Verstappen,Red Bull,1:27.097
+2020,5,70th Anniversary,Lewis Hamilton,Mercedes,1:28.451
+2020,6,Spain,Valtteri Bottas,Mercedes,1:18.183
+2020,7,Belgium,Daniel Ricciardo,Renault,1:47.483
+2020,8,Italy,Lewis Hamilton,Mercedes,1:22.746
+2020,9,Tuscany,Lewis Hamilton,Mercedes,1:18.833
+2020,10,Russia,Valtteri Bottas,Mercedes,1:37.030
+2020,11,Eifel,Max Verstappen,Red Bull,1:28.139
+2020,12,Portugal,Lewis Hamilton,Mercedes,1:18.750
+2020,13,Emilia-Romagna,Lewis Hamilton,Mercedes,1:15.484
+2020,14,Turkey,Lando Norris,McLaren,1:36.806
+2020,15,Bahrain,Max Verstappen,Red Bull,1:32.014
+2020,16,Sakhir,George Russell,Mercedes,0:55.404
+2020,17,Abu Dhabi,Daniel Ricciardo,Renault,1:40.926
+2021,1,Bahrain,Valtteri Bottas,Mercedes,1:32.090
+2021,2,Emilia-Romagna,Lewis Hamilton,Mercedes,1:16.702
+2021,3,Portugal,Valtteri Bottas,Mercedes,1:19.865
+2021,4,Spain,Max Verstappen,Red Bull,1:18.149
+2021,5,Monaco,Lewis Hamilton,Mercedes,1:12.909
+2021,6,Azerbaijan,Max Verstappen,Red Bull,1:44.481
+2021,7,France,Max Verstappen,Red Bull,1:36.404
+2021,8,Styria,Lewis Hamilton,Mercedes,1:07.058
+2021,9,Austria,Max Verstappen,Red Bull,1:06.200
+2021,10,Great Britain,Sergio Perez,Red Bull,1:28.617
+2021,11,Hungary,Pierre Gasly,Toro Rosso,1:18.394
+2021,12,Netherlands,Lewis Hamilton,Mercedes,1:11.097
+2021,13,Italy,Daniel Ricciardo,McLaren,1:24.812
+2021,14,Russia,Lando Norris,McLaren,1:37.423
+2021,15,Turkey,Valtteri Bottas,Mercedes,1:30.432
+2021,16,United States of America,Lewis Hamilton,Mercedes,1:38.485
+2021,17,Mexico,Valtteri Bottas,Mercedes,1:17.774
+2021,18,Brazil,Sergio Perez,Red Bull,1:11.010
+2021,19,Qatar,Max Verstappen,Red Bull,1:23.196
+2021,20,Saudi Arabia,Lewis Hamilton,Mercedes,1:30.734
+2021,21,Abu Dhabi,Max Verstappen,Red Bull,1:26.103
+2022,1,Bahrain,Charles Leclerc,Ferrari,1:34.570
+2022,2,Saudi Arabia,Charles Leclerc,Ferrari,1:31.634
+2022,3,Australia,Charles Leclerc,Ferrari,1:20.260
+2022,4,Emilia-Romagna,Max Verstappen,Red Bull,1:18.446
+2022,5,Miami,Max Verstappen,Red Bull,1:31.361
+2022,6,Spain,Sergio Perez,Red Bull,1:24.108
+2022,7,Monaco,Lando Norris,McLaren,1:14.693
+2022,8,Azerbaijan,Sergio Perez,Red Bull,1:46.046
+2022,9,Canada,Carlos Sainz,Ferrari,1:15.749
+2022,10,Great Britain,Lewis Hamilton,Mercedes,1:30.510
+2022,11,Austria,Max Verstappen,Red Bull,1:07.275
+2022,12,France,Carlos Sainz,Ferrari,1:35.781
+2022,13,Hungary,Lewis Hamilton,Mercedes,1:21.386
+2022,14,Belgium,Max Verstappen,Red Bull,1:49.354
+2022,15,Netherlands,Max Verstappen,Red Bull,1:13.652
+2022,16,Italy,Sergio Perez,Red Bull,1:24.030
+2022,17,Singapore,George Russell,Mercedes,1:46.458
+2022,18,Japan,Guanyu Zhou,Alfa Romeo,1:44.411
+2022,19,United States of America,George Russell,Mercedes,1:38.788
+2022,20,Mexico,George Russell,Mercedes,1:20.153
+2022,21,Brazil,George Russell,Mercedes,1:13.785
+2022,22,Abu Dhabi,Lando Norris,McLaren,1:28.391
+2023,1,Bahrain,Guanyu Zhou,Alfa Romeo,1:33.996
+2023,2,Saudi Arabia,Max Verstappen,Red Bull,1:31.906
+2023,3,Australia,Sergio Perez,Red Bull,1:20.235
+2023,4,Azerbaijan,George Russell,Mercedes,1:43.370
+2023,5,Miami,Max Verstappen,Red Bull,1:29.708
+2023,6,Spain,Max Verstappen,Red Bull,1:16.330
+2023,7,Canada,Sergio Perez,Red Bull,1:14.481
+2023,8,Austria,Max Verstappen,Red Bull,1:07.012
+2023,9,Great Britain,Max Verstappen,Red Bull,1:30.275
+2023,10,Hungary,Max Verstappen,Red Bull,1:20.504
+2023,11,Belgium,Lewis Hamilton,Mercedes,1:47.305
+2023,12,Italy,Oscar Piastri,McLaren,1:25.072
+2023,13,Singapore,Lewis Hamilton,Mercedes,1:35.867
+2023,14,Japan,Max Verstappen,Red Bull,1:34.183
+2023,15,Qatar,Max Verstappen,Red Bull,1:24.319
+2023,16,United States of America,Yuki Tsunoda,Toro Rosso,1:38.139
+2023,17,Mexico,Lewis Hamilton,Mercedes,1:21.334
+2023,18,Brazil,Lando Norris,McLaren,1:12.486
+2023,19,Las Vegas,Oscar Piastri,McLaren,1:35.490
+2023,20,Abu Dhabi,Max Verstappen,Red Bull,1:26.993
+2024,1,Bahrain,Max Verstappen,Red Bull,1:32.608
+2024,2,Saudi Arabia,Charles Leclerc,Ferrari,1:31.632
+2024,3,Australia,Charles Leclerc,Ferrari,1:19.813
+2024,4,Japan,Max Verstappen,Red Bull,1:33.706
+2024,5,China,Fernando Alonso,Aston Martin,1:37.810
+2024,6,Miami,Oscar Piastri,McLaren,1:30.634
+2024,7,Emilia-Romagna,George Russell,Mercedes,1:18.589
+2024,8,Monaco,Lewis Hamilton,Mercedes,1:14.165
+2024,9,Canada,Lewis Hamilton,Mercedes,1:14.856
+2024,10,Spain,Lando Norris,McLaren,1:17.115
+2024,11,Austria,Fernando Alonso,Aston Martin,1:07.694
+2024,12,Great Britain,Carlos Sainz,Ferrari,1:28.293
+2024,13,Hungary,George Russell,Mercedes,1:20.305
+2024,14,Belgium,Sergio Perez,Red Bull,1:44.701
+2024,15,Netherlands,Lando Norris,McLaren,1:13.817
+2024,16,Italy,Lando Norris,McLaren,1:21.432
+2024,17,Azerbaijan,Lando Norris,McLaren,1:45.255
+2024,18,Singapore,Daniel Ricciardo,Toro Rosso,1:34.486
+2024,19,United States of America,Esteban Ocon,Renault,1:37.330
+2024,20,Mexico,Charles Leclerc,Ferrari,1:18.336
+2024,21,Brazil,Max Verstappen,Red Bull,1:20.472
+2024,22,Las Vegas,Lando Norris,McLaren,1:34.876
+2024,23,Qatar,Lando Norris,McLaren,1:22.384
+2024,24,Abu Dhabi,Kevin Magnussen,Haas,1:25.637

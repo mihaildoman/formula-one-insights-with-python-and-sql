@@ -1,0 +1,1126 @@
+Season,Round,Date,GrandPrix,Circuit,OfficialName,Type,Laps,Distance,CircuitLength
+1950,1,1950-05-13,Great Britain,Silverstone,1950 RAC British Grand Prix,Race,70,325.43,4.649
+1950,2,1950-05-21,Monaco,Monaco,Grand Prix de Monaco 1950,Street,100,318.1,3.181
+1950,3,1950-05-30,Indianapolis,Indianapolis,1950 Indianapolis 500,Race,138,555.224,4.023
+1950,4,1950-06-04,Switzerland,Bremgarten,Grosser Preis der Schweiz 1950,Road,42,305.76,7.28
+1950,5,1950-06-18,Belgium,Spa-Francorchamps,1950 Belgian Grand Prix,Road,35,494.2,14.12
+1950,6,1950-07-02,France,Reims,Grand Prix de France 1950,Road,64,500.16,7.815
+1950,7,1950-09-03,Italy,Monza,Gran Premio d'Italia 1950,Race,80,504.0,6.3
+1951,1,1951-05-27,Switzerland,Bremgarten,Grosser Preis der Schweiz 1951,Road,42,305.76,7.28
+1951,2,1951-05-30,Indianapolis,Indianapolis,1951 Indianapolis 500,Race,200,804.672,4.023
+1951,3,1951-06-17,Belgium,Spa-Francorchamps,1951 Belgian Grand Prix,Road,36,508.32,14.12
+1951,4,1951-07-01,France,Reims,Grand Prix de France 1951,Road,77,601.755,7.815
+1951,5,1951-07-14,Great Britain,Silverstone,1951 RAC British Grand Prix,Race,90,418.41,4.649
+1951,6,1951-07-29,Germany,Nurburgring,Grosser Preis von Deutschland 1951,Road,20,456.2,22.81
+1951,7,1951-09-16,Italy,Monza,Gran Premio d'Italia 1951,Race,80,504.0,6.3
+1951,8,1951-10-28,Spain,Pedralbes,Gran Premio de Espana 1951,Street,70,442.12,6.316
+1952,1,1952-05-18,Switzerland,Bremgarten,Grosser Preis der Schweiz 1952,Road,62,451.36,7.28
+1952,2,1952-05-30,Indianapolis,Indianapolis,1952 Indianapolis 500,Race,200,804.672,4.023
+1952,3,1952-06-22,Belgium,Spa-Francorchamps,1952 Belgian Grand Prix,Road,36,508.32,14.12
+1952,4,1952-07-06,France,Rouen-Les-Essarts,Grand Prix de France 1952,Road,77,392.7,5.1
+1952,5,1952-07-19,Great Britain,Silverstone,1952 RAC British Grand Prix,Race,85,400.435,4.711
+1952,6,1952-08-03,Germany,Nurburgring,Grosser Preis von Deutschland 1952,Road,18,410.58,22.81
+1952,7,1952-08-17,Netherlands,Zandvoort,Grote Prijs van Nederland 1952,Race,90,377.37,4.193
+1952,8,1952-09-07,Italy,Monza,Gran Premio d'Italia 1952,Race,80,504.0,6.3
+1953,1,1953-01-18,Argentina,Buenos Aires,Gran Premio de Argentina 1953,Race,97,379.464,3.912
+1953,2,1953-05-30,Indianapolis,Indianapolis,1953 Indianapolis 500,Race,200,804.672,4.023
+1953,3,1953-06-07,Netherlands,Zandvoort,Grote Prijs van Nederland 1953,Race,90,377.37,4.193
+1953,4,1953-06-21,Belgium,Spa-Francorchamps,1953 Belgian Grand Prix,Road,36,508.32,14.12
+1953,5,1953-07-05,France,Reims,Grand Prix de France 1953,Road,60,500.82,8.347
+1953,6,1953-07-18,Great Britain,Silverstone,1953 RAC British Grand Prix,Race,90,423.99,4.711
+1953,7,1953-08-02,Germany,Nurburgring,Grosser Preis von Deutschland 1953,Road,18,410.58,22.81
+1953,8,1953-08-23,Switzerland,Bremgarten,Grosser Preis der Schweiz 1953,Road,65,473.2,7.28
+1953,9,1953-09-13,Italy,Monza,Gran Premio d'Italia 1953,Race,80,504.0,6.3
+1954,1,1954-01-17,Argentina,Buenos Aires,Gran Premio de Argentina 1954,Race,87,340.344,3.912
+1954,2,1954-05-31,Indianapolis,Indianapolis,1954 Indianapolis 500,Race,200,804.672,4.023
+1954,3,1954-06-20,Belgium,Spa-Francorchamps,1954 Belgian Grand Prix,Road,36,508.32,14.12
+1954,4,1954-07-04,France,Reims,Grand Prix de France 1954,Road,61,506.422,8.302
+1954,5,1954-07-17,Great Britain,Silverstone,1954 RAC British Grand Prix,Race,90,423.99,4.711
+1954,6,1954-08-01,Germany,Nurburgring,Grosser Preis von Deutschland 1954,Road,22,501.82,22.81
+1954,7,1954-08-22,Switzerland,Bremgarten,Grosser Preis der Schweiz 1954,Road,66,480.48,7.28
+1954,8,1954-09-05,Italy,Monza,Gran Premio d'Italia 1954,Race,80,504.0,6.3
+1954,9,1954-10-24,Spain,Pedralbes,Gran Premio de Espana 1954,Street,80,505.28,6.316
+1955,1,1955-01-16,Argentina,Buenos Aires,Gran Premio de Argentina 1955,Race,96,375.552,3.912
+1955,2,1955-05-22,Monaco,Monaco,Grand Prix de Monaco 1955,Street,100,314.5,3.145
+1955,3,1955-05-30,Indianapolis,Indianapolis,1955 Indianapolis 500,Race,200,804.672,4.023
+1955,4,1955-06-05,Belgium,Spa-Francorchamps,1955 Belgian Grand Prix,Road,36,508.32,14.12
+1955,5,1955-06-19,Netherlands,Zandvoort,Grote Prijs van Nederland 1955,Race,100,419.3,4.193
+1955,6,1955-07-16,Great Britain,Aintree,1955 RAC British Grand Prix,Road,90,434.52,4.828
+1955,7,1955-09-11,Italy,Monza,Gran Premio d'Italia 1955,Race,50,500.0,10.0
+1956,1,1956-01-22,Argentina,Buenos Aires,Gran Premio de Argentina 1956,Race,98,383.376,3.912
+1956,2,1956-05-13,Monaco,Monaco,Grand Prix de Monaco 1956,Street,100,314.5,3.145
+1956,3,1956-05-30,Indianapolis,Indianapolis,1956 Indianapolis 500,Race,200,804.672,4.023
+1956,4,1956-06-03,Belgium,Spa-Francorchamps,1956 Belgian Grand Prix,Road,36,508.32,14.12
+1956,5,1956-07-01,France,Reims,Grand Prix de France 1956,Road,61,506.422,8.302
+1956,6,1956-07-14,Great Britain,Silverstone,1956 RAC British Grand Prix,Race,101,475.811,4.711
+1956,7,1956-08-05,Germany,Nurburgring,Grosser Preis von Deutschland 1956,Road,22,501.82,22.81
+1956,8,1956-09-02,Italy,Monza,Gran Premio d'Italia 1956,Race,50,500.0,10.0
+1957,1,1957-01-13,Argentina,Buenos Aires,Gran Premio de Argentina 1957,Race,100,391.2,3.912
+1957,2,1957-05-19,Monaco,Monaco,Grand Prix de Monaco 1957,Street,105,330.225,3.145
+1957,3,1957-05-30,Indianapolis,Indianapolis,1957 Indianapolis 500,Race,200,804.672,4.023
+1957,4,1957-07-07,France,Rouen-Les-Essarts,Grand Prix de France 1957,Road,77,503.734,6.542
+1957,5,1957-07-20,Great Britain,Aintree,1957 RAC British Grand Prix,Road,90,434.52,4.828
+1957,6,1957-08-04,Germany,Nurburgring,Grosser Preis von Deutschland 1957,Road,22,501.82,22.81
+1957,7,1957-08-18,Pescara,Pescara,Gran Premio di Pescara 1957,Road,18,463.14,25.73
+1957,8,1957-09-08,Italy,Monza,Gran Premio d'Italia 1957,Race,87,500.25,5.75
+1958,1,1958-01-19,Argentina,Buenos Aires,Gran Premio de Argentina 1958,Race,80,312.96,3.912
+1958,2,1958-05-18,Monaco,Monaco,Grand Prix de Monaco 1958,Street,100,314.5,3.145
+1958,3,1958-05-26,Netherlands,Zandvoort,Grote Prijs van Nederland 1958,Race,75,314.475,4.193
+1958,4,1958-05-30,Indianapolis,Indianapolis,1958 Indianapolis 500,Race,200,804.672,4.023
+1958,5,1958-06-15,Belgium,Spa-Francorchamps,1958 Belgian Grand Prix,Road,24,338.88,14.12
+1958,6,1958-07-06,France,Reims,Grand Prix de France 1958,Road,50,415.1,8.302
+1958,7,1958-07-19,Great Britain,Silverstone,1958 RAC British Grand Prix,Race,75,353.325,4.711
+1958,8,1958-08-03,Germany,Nurburgring,Grosser Preis von Deutschland 1958,Road,15,342.15,22.81
+1958,9,1958-08-24,Portugal,Porto,Grande Premio de Portugal 1958,Street,50,370.0,7.4
+1958,10,1958-09-07,Italy,Monza,Gran Premio d'Italia 1958,Race,70,402.5,5.75
+1958,11,1958-10-19,Morocco,Ain-Diab,1958 Morocco Grand Prix,Road,53,403.754,7.618
+1959,1,1959-05-10,Monaco,Monaco,Grand Prix de Monaco 1959,Street,100,314.5,3.145
+1959,2,1959-05-30,Indianapolis,Indianapolis,1959 Indianapolis 500,Race,200,804.672,4.023
+1959,3,1959-05-31,Netherlands,Zandvoort,Grote Prijs van Nederland 1959,Race,75,314.475,4.193
+1959,4,1959-07-05,France,Reims,Grand Prix de France 1959,Road,50,417.4,8.348
+1959,5,1959-07-18,Great Britain,Aintree,1959 RAC British Grand Prix,Road,75,362.1,4.828
+1959,6,1959-08-02,Germany,Avus,Grosser Preis von Deutschland 1959,Road,60,498.0,8.3
+1959,7,1959-08-23,Portugal,Monsanto,Grande Premio de Portugal 1959,Street,62,337.28,5.44
+1959,8,1959-09-13,Italy,Monza,Gran Premio d'Italia 1959,Race,72,414.0,5.75
+1959,9,1959-12-12,United States,Sebring,1959 United States Grand Prix,Road,42,351.12,8.36
+1960,1,1960-02-07,Argentina,Buenos Aires,Gran Premio de Argentina 1960,Race,80,312.96,3.912
+1960,2,1960-05-29,Monaco,Monaco,Grand Prix de Monaco 1960,Street,100,314.5,3.145
+1960,3,1960-05-30,Indianapolis,Indianapolis,1960 Indianapolis 500,Race,200,804.672,4.023
+1960,4,1960-06-06,Netherlands,Zandvoort,Grote Prijs van Nederland 1960,Race,75,314.475,4.193
+1960,5,1960-06-19,Belgium,Spa-Francorchamps,1960 Belgian Grand Prix,Road,36,508.32,14.12
+1960,6,1960-07-03,France,Reims,Grand Prix de France 1960,Road,50,417.4,8.348
+1960,7,1960-07-16,Great Britain,Silverstone,1960 RAC British Grand Prix,Race,77,362.747,4.711
+1960,8,1960-08-14,Portugal,Porto,Grande Premio de Portugal 1960,Street,55,407.0,7.4
+1960,9,1960-09-04,Italy,Monza,Gran Premio d'Italia 1960,Race,50,500.0,10.0
+1960,10,1960-11-20,United States,Riverside,1960 United States Grand Prix,Race,75,395.325,5.271
+1961,1,1961-05-14,Monaco,Monaco,Grand Prix de Monaco 1961,Street,100,314.5,3.145
+1961,2,1961-05-22,Netherlands,Zandvoort,Grote Prijs van Nederland 1961,Race,75,314.475,4.193
+1961,3,1961-06-18,Belgium,Spa-Francorchamps,1961 Belgian Grand Prix,Road,30,423.0,14.1
+1961,4,1961-07-02,France,Reims,Grand Prix de France 1961,Road,52,431.704,8.302
+1961,5,1961-07-15,Great Britain,Aintree,1961 RAC British Grand Prix,Road,75,362.1,4.828
+1961,6,1961-08-06,Germany,Nurburgring,Grosser Preis von Deutschland 1961,Road,15,342.15,22.81
+1961,7,1961-09-10,Italy,Monza,Gran Premio d'Italia 1961,Race,43,430.0,10.0
+1961,8,1961-10-08,United States,Watkins Glen,1961 United States Grand Prix,Race,100,378.0,3.78
+1962,1,1962-05-20,Netherlands,Zandvoort,Grote Prijs van Nederland 1962,Race,80,335.44,4.193
+1962,2,1962-06-03,Monaco,Monaco,Grand Prix de Monaco 1962,Street,100,314.5,3.145
+1962,3,1962-06-17,Belgium,Spa-Francorchamps,1962 Belgian Grand Prix,Road,32,451.2,14.1
+1962,4,1962-07-08,France,Rouen-Les-Essarts,Grand Prix de France 1962,Road,54,353.268,6.542
+1962,5,1962-07-21,Great Britain,Aintree,1962 RAC British Grand Prix,Road,75,362.1,4.828
+1962,6,1962-08-05,Germany,Nurburgring,Grosser Preis von Deutschland 1962,Road,15,342.15,22.81
+1962,7,1962-09-16,Italy,Monza,Gran Premio d'Italia 1962,Race,86,494.5,5.75
+1962,8,1962-10-07,United States,Watkins Glen,1962 United States Grand Prix,Race,100,378.0,3.78
+1962,9,1962-12-29,South Africa,East London,South African Grand Prix 1962,Race,82,321.44,3.92
+1963,1,1963-05-26,Monaco,Monaco,Grand Prix de Monaco 1963,Street,100,314.5,3.145
+1963,2,1963-06-09,Belgium,Spa-Francorchamps,1963 Belgian Grand Prix,Road,32,451.2,14.1
+1963,3,1963-06-23,Netherlands,Zandvoort,Grote Prijs van Nederland 1963,Race,80,335.44,4.193
+1963,4,1963-06-30,France,Reims,Grand Prix de France 1963,Road,53,440.006,8.302
+1963,5,1963-07-20,Great Britain,Silverstone,1963 RAC British Grand Prix,Race,82,386.302,4.711
+1963,6,1963-08-04,Germany,Nurburgring,Grosser Preis von Deutschland 1963,Road,15,342.15,22.81
+1963,7,1963-09-08,Italy,Monza,Gran Premio d'Italia 1963,Race,86,494.5,5.75
+1963,8,1963-10-06,United States,Watkins Glen,1963 United States Grand Prix,Race,110,407.11,3.701
+1963,9,1963-10-27,Mexico,Mexico City,Gran Premio de Mexico 1963,Race,65,325.0,5.0
+1963,10,1963-12-28,South Africa,East London,South African Grand Prix 1963,Race,85,333.2,3.92
+1964,1,1964-05-10,Monaco,Monaco,Grand Prix de Monaco 1964,Street,100,314.5,3.145
+1964,2,1964-05-24,Netherlands,Zandvoort,Grote Prijs van Nederland 1964,Race,80,335.44,4.193
+1964,3,1964-06-14,Belgium,Spa-Francorchamps,1964 French Grand Prix,Road,32,451.2,14.1
+1964,4,1964-06-28,France,Rouen-Les-Essarts,Grand Prix de France 1964,Road,57,372.894,6.542
+1964,5,1964-07-11,Great Britain,Brands Hatch,1964 RAC British Grand Prix,Race,80,341.2,4.265
+1964,6,1964-08-02,Germany,Nurburgring,Grosser Preis von Deutschland 1964,Road,15,342.15,22.81
+1964,7,1964-08-23,Austria,Zeltweg,Grosser Preis von Osterreich 1964,Road,105,336.0,3.2
+1964,8,1964-09-06,Italy,Monza,Gran Premio d'Italia 1964,Race,78,448.5,5.75
+1964,9,1964-10-04,United States,Watkins Glen,1964 United States Grand Prix,Race,110,407.11,3.701
+1964,10,1964-10-25,Mexico,Mexico City,Gran Premio de Mexico 1964,Race,65,325.0,5.0
+1965,1,1965-01-01,South Africa,East London,South African Grand Prix 1965,Race,85,333.2,3.92
+1965,2,1965-05-30,Monaco,Monaco,Grand Prix de Monaco 1965,Street,100,314.5,3.145
+1965,3,1965-06-13,Belgium,Spa-Francorchamps,1965 Belgian Grand Prix,Road,32,451.2,14.1
+1965,4,1965-06-27,France,Clermont Ferrand,Grand Prix de France 1965,Road,40,322.2,8.055
+1965,5,1965-07-10,Great Britain,Silverstone,1965 RAC British Grand Prix,Race,80,376.88,4.711
+1965,6,1965-07-18,Netherlands,Zandvoort,Grote Prijs van Nederland 1965,Race,80,335.44,4.193
+1965,7,1965-08-01,Germany,Nurburgring,Grosser Preis von Deutschland 1965,Road,15,342.15,22.81
+1965,8,1965-09-12,Italy,Monza,Gran Premio d'Italia 1965,Race,76,437.0,5.75
+1965,9,1965-10-03,United States,Watkins Glen,1965 United States Grand Prix,Race,110,415.8,3.78
+1965,10,1965-10-24,Mexico,Mexico City,Gran Premio de Mexico 1965,Race,65,325.0,5.0
+1966,1,1966-05-22,Monaco,Monaco,Grand Prix de Monaco 1966,Street,100,314.5,3.145
+1966,2,1966-06-12,Belgium,Spa-Francorchamps,1966 Belgian Grand Prix,Road,28,394.8,14.1
+1966,3,1966-07-03,France,Reims,Grand Prix de France 1966,Road,48,400.704,8.348
+1966,4,1966-07-16,Great Britain,Brands Hatch,1966 RAC British Grand Prix,Race,80,341.2,4.265
+1966,5,1966-07-24,Netherlands,Zandvoort,Grote Prijs van Nederland 1966,Race,90,382.68,4.252
+1966,6,1966-08-07,Germany,Nurburgring,Grosser Preis von Deutschland 1966,Road,15,342.15,22.81
+1966,7,1966-09-04,Italy,Monza,Gran Premio d'Italia 1966,Race,68,391.0,5.75
+1966,8,1966-10-02,United States,Watkins Glen,1966 United States Grand Prix,Race,108,408.24,3.78
+1966,9,1966-10-23,Mexico,Mexico City,Gran Premio de Mexico 1966,Race,65,325.0,5.0
+1967,1,1967-01-02,South Africa,Kyalami,South African Grand Prix 1967,Race,80,327.52,4.094
+1967,2,1967-05-07,Monaco,Monaco,Grand Prix de Monaco 1967,Street,100,314.5,3.145
+1967,3,1967-06-04,Netherlands,Zandvoort,Grote Prijs van Nederland 1967,Race,90,382.68,4.252
+1967,4,1967-06-18,Belgium,Spa-Francorchamps,1967 Belgian Grand Prix,Road,28,394.8,14.1
+1967,5,1967-07-02,France,Bugatti,Grand Prix de France 1967,Race,80,354.4,4.43
+1967,6,1967-07-15,Great Britain,Silverstone,1967 RAC British Grand Prix,Race,80,376.88,4.711
+1967,7,1967-08-06,Germany,Nurburgring,Grosser Preis von Deutschland 1967,Road,15,342.525,22.835
+1967,8,1967-08-27,Canada,Mosport,Player's Canadian Grand Prix 1967,Race,90,356.13,3.957
+1967,9,1967-09-10,Italy,Monza,Gran Premio d'Italia 1967,Race,68,391.0,5.75
+1967,10,1967-10-01,United States,Watkins Glen,1967 United States Grand Prix,Race,108,408.24,3.78
+1967,11,1967-10-22,Mexico,Mexico City,Gran Premio de Mexico 1967,Race,65,325.0,5.0
+1968,1,1968-01-01,South Africa,Kyalami,South African Grand Prix 1968,Race,80,328.32,4.104
+1968,2,1968-05-12,Spain,Jarama,Gran Premio de Espana 1968,Race,90,306.36,3.404
+1968,3,1968-05-26,Monaco,Monaco,Grand Prix de Monaco 1968,Street,80,251.6,3.145
+1968,4,1968-06-09,Belgium,Spa-Francorchamps,1968 Belgian Grand Prix,Road,28,394.8,14.1
+1968,5,1968-06-23,Netherlands,Zandvoort,Grote Prijs van Nederland 1968,Race,90,377.37,4.193
+1968,6,1968-07-07,France,Rouen-Les-Essarts,Grand Prix de France 1968,Road,60,392.52,6.542
+1968,7,1968-07-20,Great Britain,Brands Hatch,1968 RAC British Grand Prix,Race,80,341.2,4.265
+1968,8,1968-08-04,Germany,Nurburgring,Grosser Preis von Deutschland 1968,Road,14,319.69,22.835
+1968,9,1968-09-08,Italy,Monza,Gran Premio d'Italia 1968,Race,68,391.0,5.75
+1968,10,1968-09-22,Canada,Mont-Tremblant,Player's Canadian Grand Prix 1968,Race,90,383.85,4.265
+1968,11,1968-10-06,United States,Watkins Glen,1968 United States Grand Prix,Race,108,408.24,3.78
+1968,12,1968-11-03,Mexico,Mexico City,Gran Premio de Mexico 1968,Race,65,325.0,5.0
+1969,1,1969-03-01,South Africa,Kyalami,South African Grand Prix 1969,Race,80,328.32,4.104
+1969,2,1969-05-04,Spain,Montjuic,Gran Premio de Espana 1969,Street,90,341.1,3.79
+1969,3,1969-05-18,Monaco,Monaco,Grand Prix de Monaco 1969,Street,80,251.6,3.145
+1969,4,1969-06-21,Netherlands,Zandvoort,Grote Prijs van Nederland 1969,Race,90,377.37,4.193
+1969,5,1969-07-06,France,Clermont Ferrand,Grand Prix de France 1969,Road,38,306.09,8.055
+1969,6,1969-07-19,Great Britain,Silverstone,1969 RAC British Grand Prix,Race,84,395.724,4.711
+1969,7,1969-08-03,Germany,Nurburgring,Grosser Preis von Deutschland 1969,Road,14,319.69,22.835
+1969,8,1969-09-07,Italy,Monza,Gran Premio d'Italia 1969,Race,68,391.0,5.75
+1969,9,1969-09-20,Canada,Mosport,Player's Canadian Grand Prix 1969,Race,90,356.13,3.957
+1969,10,1969-10-05,United States,Watkins Glen,1969 United States Grand Prix,Race,108,408.24,3.78
+1969,11,1969-10-19,Mexico,Mexico City,Gran Premio de Mexico 1969,Race,65,325.0,5.0
+1970,1,1970-03-07,South Africa,Kyalami,South African Grand Prix 1970,Race,80,328.32,4.104
+1970,2,1970-04-19,Spain,Jarama,Gran Premio de Espana 1970,Race,90,306.36,3.404
+1970,3,1970-05-10,Monaco,Monaco,Grand Prix de Monaco 1970,Street,80,251.6,3.145
+1970,4,1970-06-07,Belgium,Spa-Francorchamps,1970 Belgian Grand Prix,Road,28,394.8,14.1
+1970,5,1970-06-21,Netherlands,Zandvoort,Grote Prijs van Nederland 1970,Race,80,335.44,4.193
+1970,6,1970-07-05,France,Clermont Ferrand,Grand Prix de France 1970,Road,38,306.09,8.055
+1970,7,1970-07-18,Great Britain,Brands Hatch,1970 RAC British Grand Prix,Race,80,341.2,4.265
+1970,8,1970-08-02,Germany,Hockenheimring,Grosser Preis von Deutschland 1970,Race,50,339.45,6.789
+1970,9,1970-08-16,Austria,Spielberg,Grosser Preis von Osterreich 1970,Race,60,354.66,5.911
+1970,10,1970-09-06,Italy,Monza,Gran Premio d'Italia 1970,Race,68,391.0,5.75
+1970,11,1970-09-20,Canada,Mont-Tremblant,Player's Canadian Grand Prix 1970,Race,90,383.85,4.265
+1970,12,1970-10-04,United States,Watkins Glen,1970 United States Grand Prix,Race,108,408.24,3.78
+1970,13,1970-10-25,Mexico,Mexico City,Gran Premio de Mexico 1970,Race,65,325.0,5.0
+1971,1,1971-03-06,South Africa,Kyalami,South African Grand Prix 1971,Race,79,324.216,4.104
+1971,2,1971-04-18,Spain,Montjuic,Gran Premio de Espana 1971,Street,75,284.25,3.79
+1971,3,1971-05-23,Monaco,Monaco,Grand Prix de Monaco 1971,Street,80,251.6,3.145
+1971,4,1971-06-20,Netherlands,Zandvoort,Grote Prijs van Nederland 1971,Race,70,293.51,4.193
+1971,5,1971-07-04,France,Paul Ricard,Grand Prix de France 1971,Race,55,319.495,5.809
+1971,6,1971-07-17,Great Britain,Silverstone,1971 Woolmark British Grand Prix,Race,68,320.348,4.711
+1971,7,1971-08-01,Germany,Nurburgring,Grosser Preis von Deutschland 1971,Road,12,274.02,22.835
+1971,8,1971-08-15,Austria,Spielberg,Grosser Preis von Osterreich 1971,Race,54,319.194,5.911
+1971,9,1971-09-05,Italy,Monza,Gran Premio d'Italia 1971,Race,55,316.25,5.75
+1971,10,1971-09-19,Canada,Mosport,Player's Canadian Grand Prix 1971,Race,64,253.248,3.957
+1971,11,1971-10-03,United States,Watkins Glen,1971 United States Grand Prix,Race,59,320.665,5.435
+1972,1,1972-01-23,Argentina,Buenos Aires,Gran Premio de Argentina 1972,Race,95,317.87,3.346
+1972,2,1972-03-04,South Africa,Kyalami,South African Grand Prix 1972,Race,79,324.216,4.104
+1972,3,1972-05-01,Spain,Jarama,Gran Premio de Espana 1972,Race,90,306.36,3.404
+1972,4,1972-05-14,Monaco,Monaco,Grand Prix de Monaco 1972,Street,80,251.6,3.145
+1972,5,1972-06-04,Belgium,Nivelles,1972 Belgian Grand Prix,Race,85,316.54,3.724
+1972,6,1972-07-02,France,Clermont Ferrand,Grand Prix de France 1972,Road,38,306.09,8.055
+1972,7,1972-07-15,Great Britain,Brands Hatch,1972 John Player British Grand Prix,Race,76,324.14,4.265
+1972,8,1972-07-30,Germany,Nurburgring,Grosser Preis von Deutschland 1972,Road,14,319.69,22.835
+1972,9,1972-08-13,Austria,Spielberg,Grosser Preis von Osterreich 1972,Race,54,319.194,5.911
+1972,10,1972-09-10,Italy,Monza,Gran Premio d'Italia 1972,Race,55,317.625,5.775
+1972,11,1972-09-24,Canada,Mosport,Labatt's Canadian Grand Prix 1972,Race,80,316.56,3.957
+1972,12,1972-10-08,United States,Watkins Glen,1972 United States Grand Prix,Race,59,320.665,5.435
+1973,1,1973-01-28,Argentina,Buenos Aires,Gran Premio de Argentina 1973,Race,96,321.216,3.346
+1973,2,1973-02-11,Brazil,Interlagos,Grande Premio do Brasil 1973,Race,40,318.4,7.96
+1973,3,1973-03-03,South Africa,Kyalami,South African Grand Prix 1973,Race,79,324.216,4.104
+1973,4,1973-04-29,Spain,Montjuic,Gran Premio de Espana 1973,Street,75,284.25,3.79
+1973,5,1973-05-20,Belgium,Zolder,1973 Belgian Grand Prix,Race,70,295.4,4.22
+1973,6,1973-06-03,Monaco,Monaco,Grand Prix de Monaco 1973,Street,78,255.684,3.278
+1973,7,1973-06-17,Sweden,Anderstorp,Hitachi Sveriges Grand Prix 1973,Race,80,321.44,4.018
+1973,8,1973-07-01,France,Paul Ricard,Grand Prix de France 1973,Race,54,313.686,5.809
+1973,9,1973-07-14,Great Britain,Silverstone,1973 John Player British Grand Prix,Race,67,315.637,4.711
+1973,10,1973-07-29,Netherlands,Zandvoort,Grote Prijs van Nederland 1973,Race,72,304.272,4.226
+1973,11,1973-08-05,Germany,Nurburgring,Grosser Preis von Deutschland 1973,Road,14,319.69,22.835
+1973,12,1973-08-19,Austria,Spielberg,Grosser Preis von Osterreich 1973,Race,54,319.194,5.911
+1973,13,1973-09-09,Italy,Monza,Gran Premio d'Italia 1973,Race,55,317.625,5.775
+1973,14,1973-09-23,Canada,Mosport,Labatt's Canadian Grand Prix 1973,Race,80,316.56,3.957
+1973,15,1973-10-07,United States,Watkins Glen,1973 United States Grand Prix,Race,59,320.665,5.435
+1974,1,1974-01-13,Argentina,Buenos Aires,Gran Premio de Argentina 1974,Race,53,316.304,5.968
+1974,2,1974-01-27,Brazil,Interlagos,Grande Premio do Brasil 1974,Race,32,254.72,7.96
+1974,3,1974-03-30,South Africa,Kyalami,Lucky Strike Grand Prix of South Africa 1974,Race,78,320.112,4.104
+1974,4,1974-04-28,Spain,Jarama,Gran Premio de Espana 1974,Race,84,285.936,3.404
+1974,5,1974-05-12,Belgium,Nivelles,1974 Belgian Grand Prix,Race,85,316.54,3.724
+1974,6,1974-05-26,Monaco,Monaco,Grand Prix de Monaco 1974,Street,78,255.684,3.278
+1974,7,1974-06-09,Sweden,Anderstorp,Texaco Sveriges Grand Prix 1974,Race,80,321.44,4.018
+1974,8,1974-06-23,Netherlands,Zandvoort,Grote Prijs van Nederland 1974,Race,75,316.95,4.226
+1974,9,1974-07-07,France,Dijon,Grand Prix de France 1974,Race,80,263.12,3.289
+1974,10,1974-07-20,Great Britain,Brands Hatch,1974 John Player British Grand Prix,Race,75,319.875,4.265
+1974,11,1974-08-04,Germany,Nurburgring,Grosser Preis von Deutschland 1974,Road,14,319.69,22.835
+1974,12,1974-08-18,Austria,Spielberg,Grosser Preis von Osterreich 1974,Race,54,319.194,5.911
+1974,13,1974-09-08,Italy,Monza,Gran Premio d'Italia 1974,Race,52,300.56,5.78
+1974,14,1974-09-22,Canada,Mosport,Labatt's Canadian Grand Prix 1974,Race,80,316.56,3.957
+1974,15,1974-10-06,United States,Watkins Glen,1974 United States Grand Prix,Race,59,320.665,5.435
+1975,1,1975-01-12,Argentina,Buenos Aires,Gran Premio de Argentina 1975,Race,53,316.304,5.968
+1975,2,1975-01-26,Brazil,Interlagos,Grande Premio do Brasil 1975,Race,40,318.4,7.96
+1975,3,1975-03-01,South Africa,Kyalami,Lucky Strike Grand Prix of South Africa 1975,Race,78,320.112,4.104
+1975,4,1975-04-27,Spain,Montjuic,Gran Premio de Espana 1975,Street,29,109.91,3.79
+1975,5,1975-05-11,Monaco,Monaco,Grand Prix de Monaco 1975,Street,75,245.85,3.278
+1975,6,1975-05-25,Belgium,Zolder,1975 Belgian Grand Prix,Race,70,298.34,4.262
+1975,7,1975-06-08,Sweden,Anderstorp,Polar Sveriges Grand Prix 1975,Race,80,321.44,4.018
+1975,8,1975-06-22,Netherlands,Zandvoort,Grote Prijs van Nederland 1975,Race,75,316.95,4.226
+1975,9,1975-07-06,France,Paul Ricard,Grand Prix de France 1975,Race,54,313.686,5.809
+1975,10,1975-07-19,Great Britain,Silverstone,1975 John Player British Grand Prix,Race,56,264.264,4.719
+1975,11,1975-08-03,Germany,Nurburgring,Grosser Preis von Deutschland 1975,Road,14,319.69,22.835
+1975,12,1975-08-17,Austria,Spielberg,Grosser Preis von Osterreich 1975,Race,29,171.419,5.911
+1975,13,1975-09-07,Italy,Monza,Gran Premio d'Italia 1975,Race,52,300.56,5.78
+1975,14,1975-10-05,United States,Watkins Glen,1975 United States Grand Prix,Race,59,320.665,5.435
+1976,1,1976-01-25,Brazil,Interlagos,Grande Premio do Brasil 1976,Race,40,318.4,7.96
+1976,2,1976-03-06,South Africa,Kyalami,The Citizen Grand Prix of South Africa 1976,Race,78,320.112,4.104
+1976,3,1976-03-28,United States West,Long Beach,1976 Long Beach Grand Prix,Street,80,260.08,3.251
+1976,4,1976-05-02,Spain,Jarama,Gran Premio de Espana 1976,Race,75,255.3,3.404
+1976,5,1976-05-16,Belgium,Zolder,1976 Belgian Grand Prix,Race,70,298.34,4.262
+1976,6,1976-05-30,Monaco,Monaco,Grand Prix de Monaco 1976,Street,78,258.336,3.312
+1976,7,1976-06-13,Sweden,Anderstorp,Gislaved Sveriges Grand Prix 1976,Race,72,289.296,4.018
+1976,8,1976-07-04,France,Paul Ricard,Grand Prix de France 1976,Race,54,313.686,5.809
+1976,9,1976-07-18,Great Britain,Brands Hatch,1976 John Player British Grand Prix,Race,76,319.732,4.207
+1976,10,1976-08-01,Germany,Nurburgring,Grosser Preis von Deutschland 1976,Road,14,319.69,22.835
+1976,11,1976-08-15,Austria,Spielberg,Grosser Preis von Osterreich 1976,Race,54,319.194,5.911
+1976,12,1976-08-29,Netherlands,Zandvoort,Grote Prijs van Nederland 1976,Race,75,316.95,4.226
+1976,13,1976-09-12,Italy,Monza,Gran Premio d'Italia 1976,Race,52,301.6,5.8
+1976,14,1976-10-03,Canada,Mosport,Labatt's Canadian Grand Prix 1976,Race,80,316.56,3.957
+1976,15,1976-10-10,United States,Watkins Glen,1976 United States Grand Prix,Race,59,320.665,5.435
+1976,16,1976-10-24,Japan,Fuji,1976 Japanese Grand Prix,Race,73,318.207,4.359
+1977,1,1977-01-09,Argentina,Buenos Aires,Gran Premio de Argentina 1977,Race,53,316.304,5.968
+1977,2,1977-01-23,Brazil,Interlagos,Grande Premio do Brasil 1977,Race,40,318.4,7.96
+1977,3,1977-03-05,South Africa,Kyalami,The Citizen Grand Prix of South Africa 1977,Race,78,320.112,4.104
+1977,4,1977-04-03,United States West,Long Beach,1977 Long Beach Grand Prix,Street,80,260.08,3.251
+1977,5,1977-05-08,Spain,Jarama,Gran Premio de Espana 1977,Race,75,255.3,3.404
+1977,6,1977-05-22,Monaco,Monaco,Grand Prix de Monaco 1977,Street,76,251.712,3.312
+1977,7,1977-06-05,Belgium,Zolder,1977 Belgian Grand Prix,Race,70,298.34,4.262
+1977,8,1977-06-19,Sweden,Anderstorp,Gislaved Sveriges Grand Prix 1977,Race,72,289.296,4.018
+1977,9,1977-07-03,France,Dijon,Grand Prix de France 1977,Race,80,304.08,3.801
+1977,10,1977-07-16,Great Britain,Silverstone,1977 John Player British Grand Prix,Race,68,320.892,4.719
+1977,11,1977-07-31,Germany,Hockenheimring,Grosser Preis von Deutschland 1977,Race,47,319.083,6.789
+1977,12,1977-08-14,Austria,Spielberg,Grosser Preis von Osterreich 1977,Race,54,320.868,5.942
+1977,13,1977-08-28,Netherlands,Zandvoort,Grote Prijs van Nederland 1977,Race,75,316.95,4.226
+1977,14,1977-09-11,Italy,Monza,Gran Premio d'Italia 1977,Race,52,301.6,5.8
+1977,15,1977-10-02,United States,Watkins Glen,1977 Toyota United States Grand Prix,Race,59,320.665,5.435
+1977,16,1977-10-09,Canada,Mosport,Labatt's Canadian Grand Prix 1977,Race,80,316.56,3.957
+1977,17,1977-10-23,Japan,Fuji,1977 Japanese Grand Prix,Race,73,318.207,4.359
+1978,1,1978-01-15,Argentina,Buenos Aires,Gran Premio de Argentina 1978,Race,52,310.336,5.968
+1978,2,1978-01-29,Brazil,Jacarepagua,Grande Premio do Brasil 1978,Race,63,316.953,5.031
+1978,3,1978-03-04,South Africa,Kyalami,The Citizen and Asseng Grand Prix of South Africa 1978,Race,78,320.112,4.104
+1978,4,1978-04-02,United States West,Long Beach,1978 Long Beach Grand Prix,Street,80,260.08,3.251
+1978,5,1978-05-07,Monaco,Monaco,Grand Prix de Monaco 1978,Street,75,248.4,3.312
+1978,6,1978-05-21,Belgium,Zolder,1978 Belgian Grand Prix,Race,70,298.34,4.262
+1978,7,1978-06-04,Spain,Jarama,Gran Premio de Espana 1978,Race,75,255.3,3.404
+1978,8,1978-06-17,Sweden,Anderstorp,Sveriges Grand Prix 1978,Race,70,282.17,4.031
+1978,9,1978-07-02,France,Paul Ricard,Grand Prix de France 1978,Race,54,313.686,5.809
+1978,10,1978-07-16,Great Britain,Brands Hatch,1978 John Player British Grand Prix,Race,76,319.732,4.207
+1978,11,1978-07-30,Germany,Hockenheimring,Grosser Preis von Deutschland 1978,Race,45,305.505,6.789
+1978,12,1978-08-13,Austria,Spielberg,Grosser Preis von Osterreich 1978,Race,54,320.868,5.942
+1978,13,1978-08-27,Netherlands,Zandvoort,Grote Prijs van Nederland 1978,Race,75,316.95,4.226
+1978,14,1978-09-10,Italy,Monza,Gran Premio d'Italia 1978,Race,40,232.0,5.8
+1978,15,1978-10-01,United States,Watkins Glen,1978 Toyota United States Grand Prix,Race,59,320.665,5.435
+1978,16,1978-10-08,Canada,Montreal,Grand Prix du Canada 1978,Street,70,315.0,4.5
+1979,1,1979-01-21,Argentina,Buenos Aires,Gran Premio de Argentina 1979,Race,53,316.304,5.968
+1979,2,1979-02-04,Brazil,Interlagos,Grande Premio do Brasil 1979,Race,40,314.96,7.874
+1979,3,1979-03-03,South Africa,Kyalami,Simba Grand Prix of South Africa 1979,Race,78,320.112,4.104
+1979,4,1979-04-08,United States West,Long Beach,1979 Lubri Lon Long Beach Grand Prix,Street,80,260.08,3.251
+1979,5,1979-04-29,Spain,Jarama,Gran Premio de Espana 1979,Race,75,255.3,3.404
+1979,6,1979-05-13,Belgium,Zolder,1979 Belgian Grand Prix,Race,70,298.34,4.262
+1979,7,1979-05-27,Monaco,Monaco,Grand Prix de Monaco 1979,Street,76,251.712,3.312
+1979,8,1979-07-01,France,Dijon,Grand Prix de France 1979,Race,80,304.08,3.801
+1979,9,1979-07-14,Great Britain,Silverstone,1979 Marlboro British Grand Prix,Race,68,320.892,4.719
+1979,10,1979-07-29,Germany,Hockenheimring,Grosser Preis von Deutschland 1979,Race,45,305.505,6.789
+1979,11,1979-08-12,Austria,Spielberg,Grosser Preis von Osterreich 1979,Race,54,320.868,5.942
+1979,12,1979-08-26,Netherlands,Zandvoort,Grote Prijs van Nederland 1979,Race,75,316.95,4.226
+1979,13,1979-09-09,Italy,Monza,Gran Premio d'Italia 1979,Race,50,290.0,5.8
+1979,14,1979-09-30,Canada,Montreal,Grand Prix du Canada 1979,Street,72,324.0,4.5
+1979,15,1979-10-07,United States,Watkins Glen,1979 Toyota United States Grand Prix,Race,59,320.665,5.435
+1980,1,1980-01-13,Argentina,Buenos Aires,Gran Premio de Argentina 1980,Race,53,316.304,5.968
+1980,2,1980-01-27,Brazil,Interlagos,Grande Premio do Brasil 1980,Race,40,314.96,7.874
+1980,3,1980-03-01,South Africa,Kyalami,South African Grand Prix 1980,Race,78,320.112,4.104
+1980,4,1980-03-30,United States West,Long Beach,1980 Toyota Grand Prix of Long Beach,Street,80,260.08,3.251
+1980,5,1980-05-04,Belgium,Zolder,1980 Belgian Grand Prix,Race,72,306.864,4.262
+1980,6,1980-05-18,Monaco,Monaco,Grand Prix de Monaco 1980,Street,76,251.712,3.312
+1980,7,1980-06-29,France,Paul Ricard,Grand Prix de France 1980,Race,54,313.686,5.809
+1980,8,1980-07-13,Great Britain,Brands Hatch,1980 Marlboro British Grand Prix,Race,76,319.732,4.207
+1980,9,1980-08-10,Germany,Hockenheimring,Grosser Preis von Deutschland 1980,Race,45,305.505,6.789
+1980,10,1980-08-17,Austria,Spielberg,Grosser Preis von Osterreich 1980,Race,54,320.868,5.942
+1980,11,1980-08-31,Netherlands,Zandvoort,Grote Prijs van Nederland 1980,Race,72,306.144,4.252
+1980,12,1980-09-14,Italy,Imola,Gran Premio d'Italia 1980,Race,60,300.0,5.0
+1980,13,1980-09-28,Canada,Montreal,Grand Prix Labatt du Canada 1980,Street,70,308.7,4.41
+1980,14,1980-10-05,United States,Watkins Glen,1980 Toyota United States Grand Prix,Race,59,320.665,5.435
+1981,1,1981-03-15,United States West,Long Beach,1981 Toyota Grand Prix of Long Beach,Street,80,260.08,3.251
+1981,2,1981-03-29,Brazil,Jacarepagua,Grande Premio do Brasil 1981,Race,62,311.922,5.031
+1981,3,1981-04-12,Argentina,Buenos Aires,Gran Premio de Argentina 1981,Race,53,316.304,5.968
+1981,4,1981-05-03,San Marino,Imola,Gran Premio di San Marino 1981,Race,60,302.4,5.04
+1981,5,1981-05-17,Belgium,Zolder,1981 Belgian Grand Prix,Race,54,230.148,4.262
+1981,6,1981-05-31,Monaco,Monaco,Grand Prix de Monaco 1981,Street,76,251.712,3.312
+1981,7,1981-06-21,Spain,Jarama,Gran Premio de Espana 1981,Race,80,264.96,3.312
+1981,8,1981-07-05,France,Dijon,Grand Prix de France 1981,Race,80,304.08,3.801
+1981,9,1981-07-18,Great Britain,Silverstone,1981 Marlboro British Grand Prix,Race,68,320.892,4.719
+1981,10,1981-08-02,Germany,Hockenheimring,Grosser Preis von Deutschland 1981,Race,45,305.505,6.789
+1981,11,1981-08-16,Austria,Spielberg,Grosser Preis von Osterreich 1981,Race,53,314.926,5.942
+1981,12,1981-08-30,Netherlands,Zandvoort,Grote Prijs van Nederland 1981,Race,72,306.144,4.252
+1981,13,1981-09-13,Italy,Monza,Gran Premio d'Italia 1981,Race,52,301.6,5.8
+1981,14,1981-09-27,Canada,Montreal,Grand Prix Labatt du Canada 1981,Street,63,277.83,4.41
+1981,15,1981-10-17,Caesar's Palace,Caesars Palace,1981 Caesars Palace Grand Prix,Street,75,273.75,3.65
+1982,1,1982-01-23,South Africa,Kyalami,South African Grand Prix 1982,Race,77,316.008,4.104
+1982,2,1982-03-21,Brazil,Jacarepagua,Grande Premio do Brasil 1982,Race,63,316.953,5.031
+1982,3,1982-04-04,United States West,Long Beach,1982 Toyota Grand Prix of Long Beach,Street,75,257.1,3.428
+1982,4,1982-04-25,San Marino,Imola,Gran Premio di San Marino 1982,Race,60,302.4,5.04
+1982,5,1982-05-09,Belgium,Zolder,1982 Belgian Grand Prix,Race,70,298.34,4.262
+1982,6,1982-05-23,Monaco,Monaco,Grand Prix de Monaco 1982,Street,76,251.712,3.312
+1982,7,1982-06-06,Detroit,Detroit,1982 Detroit Grand Prix,Street,62,258.416,4.168
+1982,8,1982-06-13,Canada,Montreal,Grand Prix Labatt du Canada 1982,Street,70,308.7,4.41
+1982,9,1982-07-03,Netherlands,Zandvoort,Grote Prijs van Nederland 1982,Race,72,306.144,4.252
+1982,10,1982-07-18,Great Britain,Brands Hatch,1982 Marlboro British Grand Prix,Race,76,319.732,4.207
+1982,11,1982-07-25,France,Paul Ricard,Grand Prix de France 1982,Race,54,313.686,5.809
+1982,12,1982-08-08,Germany,Hockenheimring,Grosser Preis von Deutschland 1982,Race,45,305.865,6.797
+1982,13,1982-08-15,Austria,Spielberg,Grosser Preis von Osterreich 1982,Race,53,314.926,5.942
+1982,14,1982-08-29,Switzerland,Dijon,Grosser Preis der Schweiz 1982,Race,80,304.08,3.801
+1982,15,1982-09-12,Italy,Monza,Gran Premio d'Italia 1982,Race,52,301.6,5.8
+1982,16,1982-09-25,Caesar's Palace,Caesars Palace,1982 Caesars Palace Grand Prix,Street,75,273.75,3.65
+1983,1,1983-03-13,Brazil,Jacarepagua,Grande Premio do Brasil 1983,Race,63,316.953,5.031
+1983,2,1983-03-27,United States West,Long Beach,1983 Toyota Grand Prix of Long Beach,Street,75,245.625,3.275
+1983,3,1983-04-17,France,Paul Ricard,Grand Prix de France 1983,Race,54,313.686,5.809
+1983,4,1983-05-01,San Marino,Imola,Gran Premio di San Marino 1983,Race,60,302.4,5.04
+1983,5,1983-05-15,Monaco,Monaco,Grand Prix de Monaco 1983,Street,76,251.712,3.312
+1983,6,1983-05-22,Belgium,Spa-Francorchamps,1983 Belgian Grand Prix,Race,40,277.96,6.949
+1983,7,1983-06-05,Detroit,Detroit,1983 Detroit Grand Prix,Street,60,241.38,4.023
+1983,8,1983-06-12,Canada,Montreal,Grand Prix Labatt du Canada 1983,Street,70,308.7,4.41
+1983,9,1983-07-16,Great Britain,Silverstone,1983 Marlboro British Grand Prix,Race,67,316.173,4.719
+1983,10,1983-08-07,Germany,Hockenheimring,Grosser Preis von Deutschland 1983,Race,45,305.865,6.797
+1983,11,1983-08-14,Austria,Spielberg,Grosser Preis von Osterreich 1983,Race,53,314.926,5.942
+1983,12,1983-08-28,Netherlands,Zandvoort,Grote Prijs van Nederland 1983,Race,72,306.144,4.252
+1983,13,1983-09-11,Italy,Monza,Gran Premio d'Italia 1983,Race,52,301.6,5.8
+1983,14,1983-09-25,Europe,Brands Hatch,1983 John Player Grand Prix of Europe,Race,76,319.732,4.207
+1983,15,1983-10-15,South Africa,Kyalami,Southern Sun Hotels South African Grand Prix 1983,Race,77,316.008,4.104
+1984,1,1984-03-25,Brazil,Jacarepagua,Grande Premio do Brasil 1984,Race,61,306.891,5.031
+1984,2,1984-04-07,South Africa,Kyalami,National Panasonic South African Grand Prix 1984,Race,75,307.8,4.104
+1984,3,1984-04-29,Belgium,Zolder,1984 Belgian Grand Prix,Race,70,298.34,4.262
+1984,4,1984-05-06,San Marino,Imola,Gran Premio di San Marino 1984,Race,60,302.4,5.04
+1984,5,1984-05-20,France,Dijon,Grand Prix de France 1984,Race,79,300.279,3.801
+1984,6,1984-06-03,Monaco,Monaco,Grand Prix de Monaco 1984,Street,31,102.672,3.312
+1984,7,1984-06-17,Canada,Montreal,Grand Prix Labatt du Canada 1984,Street,70,308.7,4.41
+1984,8,1984-06-24,Detroit,Detroit,1984 Detroit Grand Prix,Street,63,253.449,4.023
+1984,9,1984-07-08,Dallas,Dallas,1984 Dallas Grand Prix,Street,67,261.367,3.901
+1984,10,1984-07-22,Great Britain,Brands Hatch,1984 John Player British Grand Prix,Race,71,298.697,4.207
+1984,11,1984-08-05,Germany,Hockenheimring,Grosser Preis von Deutschland 1984,Race,44,299.068,6.797
+1984,12,1984-08-19,Austria,Spielberg,Grosser Preis von Osterreich 1984,Race,51,303.042,5.942
+1984,13,1984-08-26,Netherlands,Zandvoort,Grote Prijs van Nederland 1984,Race,71,301.892,4.252
+1984,14,1984-09-09,Italy,Monza,Gran Premio d'Italia 1984,Race,51,295.8,5.8
+1984,15,1984-10-07,Europe,Nurburgring,Grosser Preis von Europa 1984,Race,67,304.314,4.542
+1984,16,1984-10-21,Portugal,Estoril,Grande Premio de Portugal 1984,Race,70,304.43,4.349
+1985,1,1985-04-07,Brazil,Jacarepagua,Grande Premio do Brasil 1985,Race,61,306.891,5.031
+1985,2,1985-04-21,Portugal,Estoril,Grande Premio de Portugal 1985,Race,67,304.43,4.349
+1985,3,1985-05-05,San Marino,Imola,Gran Premio di San Marino 1985,Race,60,302.4,5.04
+1985,4,1985-05-19,Monaco,Monaco,Grand Prix de Monaco 1985,Street,78,258.336,3.312
+1985,5,1985-06-16,Canada,Montreal,Grand Prix Labatt du Canada 1985,Street,70,308.7,4.41
+1985,6,1985-06-23,Detroit,Detroit,1985 Detroit Grand Prix,Street,63,253.449,4.023
+1985,7,1985-07-07,France,Paul Ricard,Grand Prix de France 1985,Race,53,307.877,5.809
+1985,8,1985-07-21,Great Britain,Silverstone,1985 Marlboro British Grand Prix,Race,65,306.735,4.719
+1985,9,1985-08-04,Germany,Nurburgring,Grosser Preis von Deutschland 1985,Race,67,304.314,4.542
+1985,10,1985-08-18,Austria,Spielberg,Grosser Preis von Osterreich 1985,Race,52,308.984,5.942
+1985,11,1985-08-25,Netherlands,Zandvoort,Grote Prijs van Nederland 1985,Race,70,297.64,4.252
+1985,12,1985-09-08,Italy,Monza,Gran Premio d'Italia 1985,Race,51,295.8,5.8
+1985,13,1985-09-15,Belgium,Spa-Francorchamps,1985 Belgian Grand Prix,Race,43,298.42,6.94
+1985,14,1985-10-06,Europe,Brands Hatch,1985 Shell Oils Grand Prix of Europe,Race,75,315.525,4.207
+1985,15,1985-10-19,South Africa,Kyalami,Southern Sun Hotels South African Grand Prix 1985,Race,75,307.8,4.104
+1985,16,1985-11-03,Australia,Adelaide,1985 Mitsubishi Australian Grand Prix,Street,82,309.96,3.78
+1986,1,1986-03-23,Brazil,Jacarepagua,Grande Premio do Brasil 1986,Race,61,306.891,5.031
+1986,2,1986-04-13,Spain,Jerez,Gran Premio Tio Pepe de Espana 1986,Race,72,303.696,4.218
+1986,3,1986-04-27,San Marino,Imola,Gran Premio di San Marino 1986,Race,60,302.4,5.04
+1986,4,1986-05-11,Monaco,Monaco,Grand Prix de Monaco 1986,Street,78,259.584,3.328
+1986,5,1986-05-25,Belgium,Spa-Francorchamps,1986 Belgian Grand Prix,Race,43,298.42,6.94
+1986,6,1986-06-15,Canada,Montreal,Grand Prix Labatt du Canada 1986,Street,69,304.29,4.41
+1986,7,1986-06-22,Detroit,Detroit,1986 Detroit Grand Prix,Street,63,253.449,4.023
+1986,8,1986-07-06,France,Paul Ricard,Grand Prix de France 1986,Race,80,305.04,3.813
+1986,9,1986-07-13,Great Britain,Brands Hatch,1986 Shell Oils British Grand Prix,Race,75,315.525,4.207
+1986,10,1986-07-27,Germany,Hockenheimring,Grosser Preis von Deutschland 1986,Race,44,299.068,6.797
+1986,11,1986-08-10,Hungary,Hungaroring,Magyar Nagydij 1986,Race,76,305.064,4.014
+1986,12,1986-08-17,Austria,Spielberg,Grosser Preis von Osterreich 1986,Race,52,308.984,5.942
+1986,13,1986-09-07,Italy,Monza,Gran Premio d'Italia 1986,Race,51,295.8,5.8
+1986,14,1986-09-21,Portugal,Estoril,Grande Premio de Portugal 1986,Race,70,304.43,4.349
+1986,15,1986-10-12,Mexico,Mexico City,Gran Premio de Mexico 1986,Race,68,300.628,4.421
+1986,16,1986-10-26,Australia,Adelaide,1986 Foster's Australian Grand Prix,Street,82,309.96,3.78
+1987,1,1987-04-12,Brazil,Jacarepagua,Grande Premio do Brasil 1987,Race,61,306.891,5.031
+1987,2,1987-05-03,San Marino,Imola,Gran Premio di San Marino 1987,Race,59,297.36,5.04
+1987,3,1987-05-17,Belgium,Spa-Francorchamps,1987 Belgian Grand Prix,Race,43,298.42,6.94
+1987,4,1987-05-31,Monaco,Monaco,Grand Prix de Monaco 1987,Street,78,259.584,3.328
+1987,5,1987-06-21,Detroit,Detroit,1987 Detroit Grand Prix,Street,63,253.449,4.023
+1987,6,1987-07-05,France,Paul Ricard,Grand Prix de France 1987,Race,80,305.04,3.813
+1987,7,1987-07-12,Great Britain,Silverstone,1987 Shell Oils British Grand Prix,Race,65,310.57,4.778
+1987,8,1987-07-26,Germany,Hockenheimring,Mobil Grosser Preis von Deutschland 1987,Race,44,299.068,6.797
+1987,9,1987-08-09,Hungary,Hungaroring,Magyar Nagydij 1987,Race,76,305.064,4.014
+1987,10,1987-08-16,Austria,Spielberg,Grosser Preis von Osterreich 1987,Race,52,308.984,5.942
+1987,11,1987-09-06,Italy,Monza,Gran Premio d'Italia 1987,Race,50,290.0,5.8
+1987,12,1987-09-20,Portugal,Estoril,Grande Premio de Portugal 1987,Race,70,304.43,4.349
+1987,13,1987-09-27,Spain,Jerez,Gran Premio Tio Pepe de Espana 1987,Race,72,303.696,4.218
+1987,14,1987-10-18,Mexico,Mexico City,Gran Premio de Mexico 1987,Race,63,278.523,4.421
+1987,15,1987-11-01,Japan,Suzuka,1987 Fuji Television Japanese Grand Prix,Race,51,298.809,5.859
+1987,16,1987-11-15,Australia,Adelaide,1987 Foster's Australian Grand Prix,Street,82,309.96,3.78
+1988,1,1988-04-03,Brazil,Jacarepagua,Grande Premio do Brasil 1988,Race,60,301.86,5.031
+1988,2,1988-05-01,San Marino,Imola,Gran Premio Kronenbourg di San Marino 1988,Race,60,302.4,5.04
+1988,3,1988-05-15,Monaco,Monaco,Grand Prix de Monaco 1988,Street,78,259.584,3.328
+1988,4,1988-05-29,Mexico,Mexico City,Gran Premio de Mexico 1988,Race,67,296.207,4.421
+1988,5,1988-06-12,Canada,Montreal,Grand Prix Molson du Canada 1988,Street,69,302.91,4.39
+1988,6,1988-06-19,Detroit,Detroit,1988 Enichem Detroit Grand Prix,Street,63,253.449,4.023
+1988,7,1988-07-03,France,Paul Ricard,Rhone Poulenc Grand Prix de France 1988,Race,80,305.04,3.813
+1988,8,1988-07-10,Great Britain,Silverstone,1988 Shell Oils British Grand Prix,Race,65,310.57,4.778
+1988,9,1988-07-24,Germany,Hockenheimring,Mobil 1 Grosser Preis von Deutschland 1988,Race,44,299.068,6.797
+1988,10,1988-08-07,Hungary,Hungaroring,Pop 84 Magyar Nagydij 1988,Race,76,305.064,4.014
+1988,11,1988-08-28,Belgium,Spa-Francorchamps,1988 Belgian Grand Prix,Race,43,298.42,6.94
+1988,12,1988-09-11,Italy,Monza,Coca Cola Gran Premio d'Italia 1988,Race,51,295.8,5.8
+1988,13,1988-09-25,Portugal,Estoril,Grande Premio de Portugal 1988,Race,70,304.43,4.349
+1988,14,1988-10-02,Spain,Jerez,Gran Premio Tio Pepe de Espana 1988,Race,72,303.696,4.218
+1988,15,1988-10-30,Japan,Suzuka,1988 Fuji Television Japanese Grand Prix,Race,51,298.809,5.859
+1988,16,1988-11-13,Australia,Adelaide,1988 Foster's Australian Grand Prix,Street,82,309.96,3.78
+1989,1,1989-03-26,Brazil,Jacarepagua,Grande Premio do Brasil 1989,Race,61,306.891,5.031
+1989,2,1989-04-23,San Marino,Imola,Gran Premio Kronenbourg di San Marino 1989,Race,58,292.32,5.04
+1989,3,1989-05-07,Monaco,Monaco,Grand Prix de Monaco 1989,Street,77,256.256,3.328
+1989,4,1989-05-28,Mexico,Mexico City,Gran Premio de Mexico 1989,Race,69,305.049,4.421
+1989,5,1989-06-04,United States,Phoenix,1989 Iceberg USA Grand Prix,Street,75,285.0,3.8
+1989,6,1989-06-18,Canada,Montreal,Grand Prix Molson du Canada 1989,Street,69,302.91,4.39
+1989,7,1989-07-09,France,Paul Ricard,Rhone Poulenc Grand Prix de France 1989,Race,80,305.04,3.813
+1989,8,1989-07-16,Great Britain,Silverstone,1989 Shell British Grand Prix,Race,64,305.792,4.778
+1989,9,1989-07-30,Germany,Hockenheimring,Grosser Mobil 1 Preis von Deutschland 1989,Race,45,305.865,6.797
+1989,10,1989-08-13,Hungary,Hungaroring,Pop 84 Magyar Nagydij 1989,Race,77,305.536,3.968
+1989,11,1989-08-27,Belgium,Spa-Francorchamps,1989 Belgian Grand Prix,Race,44,305.36,6.94
+1989,12,1989-09-10,Italy,Monza,Coca Cola Gran Premio d'Italia 1989,Race,53,307.4,5.8
+1989,13,1989-09-24,Portugal,Estoril,Grande Premio de Portugal 1989,Race,71,308.779,4.349
+1989,14,1989-10-01,Spain,Jerez,Gran Premio Tio Pepe de Espana 1989,Race,73,307.918,4.218
+1989,15,1989-10-22,Japan,Suzuka,1989 Fuji Television Japanese Grand Prix,Race,53,310.527,5.859
+1989,16,1989-11-05,Australia,Adelaide,1989 Foster's Australian Grand Prix,Street,70,264.6,3.78
+1990,1,1990-03-11,United States,Phoenix,1990 Iceberg USA Grand Prix,Street,72,273.6,3.8
+1990,2,1990-03-25,Brazil,Interlagos,Grande Premio do Brasil 1990,Race,71,307.075,4.325
+1990,3,1990-05-13,San Marino,Imola,Gran Premio di San Marino 1990,Race,61,307.44,5.04
+1990,4,1990-05-27,Monaco,Monaco,Grand Prix de Monaco 1990,Street,78,259.584,3.328
+1990,5,1990-06-10,Canada,Montreal,Grand Prix Molson du Canada 1990,Street,70,307.3,4.39
+1990,6,1990-06-24,Mexico,Mexico City,Gran Premio de Mexico 1990,Race,69,305.049,4.421
+1990,7,1990-07-08,France,Paul Ricard,Rhone Poulenc Grand Prix de France 1990,Race,80,305.04,3.813
+1990,8,1990-07-15,Great Britain,Silverstone,1990 Foster's British Grand Prix,Race,64,305.792,4.778
+1990,9,1990-07-29,Germany,Hockenheimring,Grosser Mobil 1 Preis von Deutschland 1990,Race,45,306.09,6.802
+1990,10,1990-08-12,Hungary,Hungaroring,Magyar Nagydij 1990,Race,77,305.536,3.968
+1990,11,1990-08-26,Belgium,Spa-Francorchamps,1990 Belgian Grand Prix,Race,44,305.36,6.94
+1990,12,1990-09-09,Italy,Monza,Coca Cola Gran Premio d'Italia 1990,Race,53,307.4,5.8
+1990,13,1990-09-23,Portugal,Estoril,Grande Premio de Portugal 1990,Race,61,265.289,4.349
+1990,14,1990-09-30,Spain,Jerez,Gran Premio Tio Pepe de Espana 1990,Race,73,307.914,4.218
+1990,15,1990-10-21,Japan,Suzuka,1990 Fuji Television Japanese Grand Prix,Race,53,310.527,5.859
+1990,16,1990-11-04,Australia,Adelaide,1990 Foster's Australian Grand Prix,Street,81,306.18,3.78
+1991,1,1991-03-10,United States,Phoenix,1991 Iceberg USA Grand Prix,Street,81,301.401,3.721
+1991,2,1991-03-24,Brazil,Interlagos,Grande Premio do Brasil 1991,Race,71,307.075,4.325
+1991,3,1991-04-28,San Marino,Imola,Gran Premio di San Marino 1991,Race,61,307.44,5.04
+1991,4,1991-05-12,Monaco,Monaco,Grand Prix de Monaco 1991,Street,78,259.584,3.328
+1991,5,1991-06-02,Canada,Montreal,Grand Prix Molson du Canada 1991,Street,69,305.67,4.43
+1991,6,1991-06-16,Mexico,Mexico City,Gran Premio de Mexico 1991,Race,67,296.207,4.421
+1991,7,1991-07-07,France,Magny-Cours,Rhone Poulenc Grand Prix de France 1991,Race,72,306.0,4.25
+1991,8,1991-07-14,Great Britain,Silverstone,1991 Foster's British Grand Prix,Race,59,308.334,5.226
+1991,9,1991-07-28,Germany,Hockenheimring,Grosser Mobil 1 Preis von Deutschland 1991,Race,45,306.09,6.802
+1991,10,1991-08-11,Hungary,Hungaroring,Magyar Nagydij 1991,Race,77,305.536,3.968
+1991,11,1991-08-25,Belgium,Spa-Francorchamps,1991 Belgian Grand Prix,Race,44,305.36,6.94
+1991,12,1991-09-08,Italy,Monza,Coca Cola Gran Premio d'Italia 1991,Race,53,307.4,5.8
+1991,13,1991-09-22,Portugal,Estoril,Grande Premio de Portugal 1991,Race,71,308.779,4.349
+1991,14,1991-09-29,Spain,Catalunya,Gran Premio Tio Pepe de Espana 1991,Race,65,308.414,4.747
+1991,15,1991-10-20,Japan,Suzuka,1991 Fuji Television Japanese Grand Prix,Race,53,310.792,5.864
+1991,16,1991-11-03,Australia,Adelaide,1991 Foster's Australian Grand Prix,Street,14,52.92,3.78
+1992,1,1992-03-01,South Africa,Kyalami,Yellow Pages South African Grand Prix 1992,Race,72,306.792,4.261
+1992,2,1992-03-22,Mexico,Mexico City,Gran Premio de Mexico 1992,Race,69,305.049,4.421
+1992,3,1992-04-05,Brazil,Interlagos,Grande Premio do Brasil 1992,Race,71,307.075,4.325
+1992,4,1992-05-03,Spain,Catalunya,Gran Premio Tio Pepe de Espana 1992,Race,65,308.414,4.747
+1992,5,1992-05-17,San Marino,Imola,Gran Premio Iceberg di San Marino 1992,Race,60,302.4,5.04
+1992,6,1992-05-31,Monaco,Monaco,Grand Prix de Monaco 1992,Street,78,259.584,3.328
+1992,7,1992-06-14,Canada,Montreal,Grand Prix Molson du Canada 1992,Street,69,305.67,4.43
+1992,8,1992-07-05,France,Magny-Cours,Rhone Poulenc Grand Prix de France 1992,Race,69,293.25,4.25
+1992,9,1992-07-12,Great Britain,Silverstone,1992 Foster's British Grand Prix,Race,59,308.334,5.226
+1992,10,1992-07-26,Germany,Hockenheimring,Grosser Mobil 1 Preis von Deutschland 1992,Race,45,306.675,6.815
+1992,11,1992-08-16,Hungary,Hungaroring,Marlboro Magyar Nagydij 1992,Race,77,305.536,3.968
+1992,12,1992-08-30,Belgium,Spa-Francorchamps,1992 Belgian Grand Prix,Race,44,306.856,6.974
+1992,13,1992-09-13,Italy,Monza,Pioneer Gran Premio d'Italia 1992,Race,53,307.4,5.8
+1992,14,1992-09-27,Portugal,Estoril,Grande Premio SG Gigante de Portugal 1992,Race,71,308.779,4.349
+1992,15,1992-10-25,Japan,Suzuka,1992 Fuji Television Japanese Grand Prix,Race,53,310.792,5.864
+1992,16,1992-11-08,Australia,Adelaide,1992 Foster's Australian Grand Prix,Street,81,306.18,3.78
+1993,1,1993-03-14,South Africa,Kyalami,Panasonic South African Grand Prix 1993,Race,72,306.792,4.261
+1993,2,1993-03-28,Brazil,Interlagos,Grande Premio do Brasil 1993,Race,71,307.075,4.325
+1993,3,1993-04-11,Europe,Donington,1993 SEGA European Grand Prix,Race,76,305.748,4.023
+1993,4,1993-04-25,San Marino,Imola,Gran Premio di San Marino 1993,Race,61,307.44,5.04
+1993,5,1993-05-09,Spain,Catalunya,Gran Premio de Espana 1993,Race,65,308.414,4.747
+1993,6,1993-05-23,Monaco,Monaco,Grand Prix de Monaco 1993,Street,78,259.584,3.328
+1993,7,1993-06-13,Canada,Montreal,Grand Prix Molson du Canada 1993,Street,69,305.67,4.43
+1993,8,1993-07-04,France,Magny-Cours,Rhone Poulenc Grand Prix de France 1993,Race,72,306.0,4.25
+1993,9,1993-07-11,Great Britain,Silverstone,1993 Foster's British Grand Prix,Race,59,308.334,5.226
+1993,10,1993-07-25,Germany,Hockenheimring,Grosser Mobil 1 Preis von Deutschland 1993,Race,45,306.675,6.815
+1993,11,1993-08-15,Hungary,Hungaroring,Marlboro Magyar Nagydij 1993,Race,77,305.536,3.968
+1993,12,1993-08-29,Belgium,Spa-Francorchamps,1993 Belgian Grand Prix,Race,44,306.856,6.974
+1993,13,1993-09-12,Italy,Monza,Pioneer Gran Premio d'Italia 1993,Race,53,307.4,5.8
+1993,14,1993-09-26,Portugal,Estoril,Grande Premio de Portugal 1993,Race,71,308.779,4.349
+1993,15,1993-10-24,Japan,Suzuka,1993 Fuji Television Japanese Grand Prix,Race,53,310.792,5.864
+1993,16,1993-11-07,Australia,Adelaide,1993 Foster's Australian Grand Prix,Street,79,298.62,3.78
+1994,1,1994-03-27,Brazil,Interlagos,Grande Premio do Brasil 1994,Race,71,307.075,4.325
+1994,2,1994-04-17,Pacific,Aida,1994 Pacific Grand Prix,Race,83,307.349,3.703
+1994,3,1994-05-01,San Marino,Imola,Gran Premio di San Marino 1994,Race,58,292.32,5.04
+1994,4,1994-05-15,Monaco,Monaco,Grand Prix de Monaco 1994,Street,78,259.584,3.328
+1994,5,1994-05-29,Spain,Catalunya,Gran Premio Marlboro de Espana 1994,Race,65,308.414,4.747
+1994,6,1994-06-12,Canada,Montreal,Grand Prix Molson du Canada 1994,Street,69,307.05,4.45
+1994,7,1994-07-03,France,Magny-Cours,Grand Prix de France 1994,Race,72,306.0,4.25
+1994,8,1994-07-10,Great Britain,Silverstone,1994 RAC British Grand Prix,Race,60,303.42,5.057
+1994,9,1994-07-31,Germany,Hockenheimring,Grosser Mobil 1 Preis von Deutschland 1994,Race,45,307.035,6.823
+1994,10,1994-08-14,Hungary,Hungaroring,Marlboro Magyar Nagydij 1994,Race,77,305.536,3.968
+1994,11,1994-08-28,Belgium,Spa-Francorchamps,1994 Belgian Grand Prix,Race,44,308.044,7.001
+1994,12,1994-09-11,Italy,Monza,Pioneer Gran Premio d'Italia 1994,Race,53,307.4,5.8
+1994,13,1994-09-25,Portugal,Estoril,Grande Premio de Portugal 1994,Race,71,309.56,4.36
+1994,14,1994-10-16,Europe,Jerez,1994 Grand Prix of Europe,Race,69,305.532,4.428
+1994,15,1994-11-06,Japan,Suzuka,1994 Fuji Television Japanese Grand Prix,Race,50,293.2,5.864
+1994,16,1994-11-13,Australia,Adelaide,1994 Adelaide Australian Grand Prix,Street,81,306.18,3.78
+1995,1,1995-03-26,Brazil,Interlagos,Grande Premio do Brasil 1995,Race,71,307.075,4.325
+1995,2,1995-04-09,Argentina,Buenos Aires,Gran Premio Marlboro de Argentina 1995,Race,72,306.648,4.259
+1995,3,1995-04-30,San Marino,Imola,Gran Premio di San Marino 1995,Race,63,308.385,4.895
+1995,4,1995-05-14,Spain,Catalunya,Gran Premio Marlboro de Espana 1995,Race,65,307.114,4.727
+1995,5,1995-05-28,Monaco,Monaco,Grand Prix de Monaco 1995,Street,78,259.584,3.328
+1995,6,1995-06-11,Canada,Montreal,Grand Prix Molson du Canada 1995,Street,68,301.24,4.43
+1995,7,1995-07-02,France,Magny-Cours,Grand Prix de France 1995,Race,72,305.814,4.25
+1995,8,1995-07-16,Great Britain,Silverstone,1995 RAC British Grand Prix,Race,61,308.477,5.057
+1995,9,1995-07-30,Germany,Hockenheimring,Grosser Mobil 1 Preis von Deutschland 1995,Race,45,307.035,6.823
+1995,10,1995-08-13,Hungary,Hungaroring,Marlboro Magyar Nagydij 1995,Race,77,305.536,3.968
+1995,11,1995-08-27,Belgium,Spa-Francorchamps,1995 Belgian Grand Prix,Race,44,306.856,6.974
+1995,12,1995-09-10,Italy,Monza,Pioneer Gran Premio d'ltalia 1995,Race,53,305.81,5.77
+1995,13,1995-09-24,Portugal,Estoril,Grande Premio de Portugal 1995,Race,71,309.56,4.36
+1995,14,1995-10-01,Europe,Nurburgring,1995 Grand Prix of Europe,Race,67,305.252,4.556
+1995,15,1995-10-22,Pacific,Aida,1995 Pacific Grand Prix,Race,83,307.349,3.703
+1995,16,1995-10-29,Japan,Suzuka,1995 Fuji Television Japanese Grand Prix,Race,53,310.792,5.864
+1995,17,1995-11-12,Australia,Adelaide,1995 EDS Australian Grand Prix,Street,81,306.18,3.78
+1996,1,1996-03-10,Australia,Melbourne,1996 Transurban Australian Grand Prix,Street,58,307.516,5.302
+1996,2,1996-03-31,Brazil,Interlagos,Grande Premio do Brasil 1996,Race,71,307.075,4.325
+1996,3,1996-04-07,Argentina,Buenos Aires,Gran Premio Marlboro de Argentina 1996,Race,72,306.648,4.259
+1996,4,1996-04-28,Europe,Nurburgring,1996 Grand Prix of Europe,Race,67,305.252,4.556
+1996,5,1996-05-05,San Marino,Imola,Gran Premio di San Marino 1996,Race,63,308.196,4.892
+1996,6,1996-05-19,Monaco,Monaco,Grand Prix de Monaco 1996,Street,75,249.6,3.328
+1996,7,1996-06-02,Spain,Catalunya,Gran Premio Marlboro de Espana 1996,Race,65,307.114,4.727
+1996,8,1996-06-16,Canada,Montreal,Grand Prix Molson du Canada 1996,Street,69,305.049,4.421
+1996,9,1996-06-30,France,Magny-Cours,Grand Prix de France 1996,Race,72,305.814,4.25
+1996,10,1996-07-14,Great Britain,Silverstone,1996 RAC British Grand Prix,Race,61,309.392,5.072
+1996,11,1996-07-28,Germany,Hockenheimring,Grosser Mobil 1 Preis von Deutschland 1996,Race,45,307.035,6.823
+1996,12,1996-08-11,Hungary,Hungaroring,Marlboro Magyar Nagydij 1996,Race,77,305.536,3.968
+1996,13,1996-08-25,Belgium,Spa-Francorchamps,1996 Belgian Grand Prix,Race,44,306.592,6.968
+1996,14,1996-09-08,Italy,Monza,Pioneer Gran Premio d'Italia 1996,Race,53,305.81,5.77
+1996,15,1996-09-22,Portugal,Estoril,Grande Premio de Portugal 1996,Race,70,305.2,4.36
+1996,16,1996-10-13,Japan,Suzuka,1996 Fuji Television Japanese Grand Prix,Race,52,304.928,5.864
+1997,1,1997-03-09,Australia,Melbourne,1997 Qantas Australian Grand Prix,Street,58,307.516,5.302
+1997,2,1997-03-30,Brazil,Interlagos,Grande Premio do Brasil 1997,Race,72,309.024,4.292
+1997,3,1997-04-13,Argentina,Buenos Aires,Gran Premio Marlboro de Argentina 1997,Race,72,306.648,4.259
+1997,4,1997-04-27,San Marino,Imola,Gran Premio di San Marino 1997,Race,62,305.66,4.93
+1997,5,1997-05-11,Monaco,Monaco,Grand Prix de Monaco 1997,Street,62,208.692,3.366
+1997,6,1997-05-25,Spain,Catalunya,Gran Premio Marlboro de Espana 1997,Race,64,302.469,4.728
+1997,7,1997-06-15,Canada,Montreal,Grand Prix Player's du Canada 1997,Street,54,238.734,4.421
+1997,8,1997-06-29,France,Magny-Cours,Grand Prix de France 1997,Race,72,305.814,4.25
+1997,9,1997-07-13,Great Britain,Silverstone,1997 RAC British Grand Prix,Race,59,303.26,5.14
+1997,10,1997-07-27,Germany,Hockenheimring,Grosser Mobil 1 Preis von Deutschland 1997,Race,45,307.035,6.823
+1997,11,1997-08-10,Hungary,Hungaroring,Marlboro Magyar Nagydij 1997,Race,77,305.536,3.968
+1997,12,1997-08-24,Belgium,Spa-Francorchamps,1997 Belgian Grand Prix,Race,44,306.592,6.968
+1997,13,1997-09-07,Italy,Monza,Gran Premio Campari d'ltalia 1997,Race,53,305.81,5.77
+1997,14,1997-09-21,Austria,Spielberg,Grosser Preis von Osterreich 1997,Race,71,307.146,4.326
+1997,15,1997-09-28,Luxembourg,Nurburgring,Grosser Preis von Luxemburg 1997,Race,67,305.252,4.556
+1997,16,1997-10-12,Japan,Suzuka,1997 Fuji Television Japanese Grand Prix,Race,53,310.792,5.864
+1997,17,1997-10-26,Europe,Jerez,1997 Grand Prix of Europe,Race,69,305.532,4.428
+1998,1,1998-03-08,Australia,Melbourne,1998 Qantas Australian Grand Prix,Street,58,307.574,5.303
+1998,2,1998-03-29,Brazil,Interlagos,Grande Premio Marlboro do Brasil 1998,Race,72,309.024,4.292
+1998,3,1998-04-12,Argentina,Buenos Aires,Gran Premio Marlboro de Argentina 1998,Race,72,306.648,4.259
+1998,4,1998-04-26,San Marino,Imola,Gran Premio di San Marino 1998,Race,62,305.609,4.933
+1998,5,1998-05-10,Spain,Catalunya,Gran Premio Marlboro de Espana 1998,Race,65,307.196,4.728
+1998,6,1998-05-24,Monaco,Monaco,Grand Prix de Monaco 1998,Street,78,262.626,3.367
+1998,7,1998-06-07,Canada,Montreal,Grand Prix Player's du Canada 1998,Street,69,305.049,4.421
+1998,8,1998-06-28,France,Magny-Cours,Grand Prix Mobil 1 de France 1998,Race,71,301.564,4.25
+1998,9,1998-07-12,Great Britain,Silverstone,1998 RAC British Grand Prix,Race,60,308.4,5.14
+1998,10,1998-07-26,Austria,Spielberg,Grosser Preis von Osterreich 1998,Race,71,307.146,4.326
+1998,11,1998-08-02,Germany,Hockenheimring,Grosser Mobil 1 Preis von Deutschland 1998,Race,45,307.035,6.823
+1998,12,1998-08-16,Hungary,Hungaroring,Marlboro Magyar Nagydij 1998,Race,77,305.844,3.972
+1998,13,1998-08-30,Belgium,Spa-Francorchamps,1998 Foster's Belgian Grand Prix,Race,44,306.592,6.968
+1998,14,1998-09-13,Italy,Monza,Gran Premio Campari d'Italia 1998,Race,53,305.81,5.77
+1998,15,1998-09-27,Luxembourg,Nurburgring,Grosser Warsteiner Preis von Luxemburg 1998,Race,67,305.252,4.556
+1998,16,1998-11-01,Japan,Suzuka,1998 Fuji Television Japanese Grand Prix,Race,51,299.064,5.864
+1999,1,1999-03-07,Australia,Melbourne,1999 Qantas Australian Grand Prix,Street,57,302.271,5.303
+1999,2,1999-04-11,Brazil,Interlagos,Grande Premio Marlboro do Brasil 1999,Race,72,309.024,4.292
+1999,3,1999-05-02,San Marino,Imola,Gran Premio Warsteiner di San Marino 1999,Race,62,305.609,4.933
+1999,4,1999-05-16,Monaco,Monaco,Grand Prix de Monaco 1999,Street,78,262.626,3.367
+1999,5,1999-05-30,Spain,Catalunya,Gran Premio Marlboro de Espana 1999,Race,65,307.196,4.728
+1999,6,1999-06-13,Canada,Montreal,Grand Prix Air Canada 1999,Street,69,305.049,4.421
+1999,7,1999-06-27,France,Magny-Cours,Mobil 1 Grand Prix de France 1999,Race,72,305.814,4.25
+1999,8,1999-07-11,Great Britain,Silverstone,1999 RAC British Grand Prix,Race,60,308.4,5.14
+1999,9,1999-07-25,Austria,Spielberg,Grosser Preis von Osterreich 1999,Race,71,307.146,4.326
+1999,10,1999-08-01,Germany,Hockenheimring,Grosser Mobil 1 Preis von Deutschland 1999,Race,45,307.035,6.823
+1999,11,1999-08-15,Hungary,Hungaroring,Marlboro Magyar Nagydij 1999,Race,77,305.921,3.973
+1999,12,1999-08-29,Belgium,Spa-Francorchamps,1999 Foster's Belgian Grand Prix,Race,44,306.592,6.968
+1999,13,1999-09-12,Italy,Monza,Gran Premio Campari d'Italia 1999,Race,53,305.81,5.77
+1999,14,1999-09-26,Europe,Nurburgring,1999 Warsteiner Grand Prix of Europe,Race,66,300.696,4.556
+1999,15,1999-10-17,Malaysia,Sepang,1999 Petronas Malaysian Grand Prix,Race,56,310.408,5.543
+1999,16,1999-10-31,Japan,Suzuka,1999 Fuji Television Japanese Grand Prix,Race,53,310.792,5.864
+2000,1,2000-03-12,Australia,Melbourne,2000 Qantas Australian Grand Prix,Street,58,307.574,5.303
+2000,2,2000-03-26,Brazil,Interlagos,Grande Premio Marlboro do Brasil 2000,Race,71,305.909,4.309
+2000,3,2000-04-09,San Marino,Imola,Gran Premio Warsteiner di San Marino 2000,Race,62,305.609,4.933
+2000,4,2000-04-23,Great Britain,Silverstone,2000 Foster's British Grand Prix,Race,60,308.355,5.141
+2000,5,2000-05-07,Spain,Catalunya,Gran Premio Marlboro de Espana 2000,Race,65,307.324,4.73
+2000,6,2000-05-21,Europe,Nurburgring,2000 Warsteiner Grand Prix of Europe,Race,67,305.252,4.556
+2000,7,2000-06-04,Monaco,Monaco,Grand Prix de Monaco 2000,Street,78,262.86,3.37
+2000,8,2000-06-18,Canada,Montreal,Grand Prix Air Canada 2000,Street,69,305.049,4.421
+2000,9,2000-07-02,France,Magny-Cours,Mobil 1 Grand Prix de France 2000,Race,72,305.886,4.251
+2000,10,2000-07-16,Austria,Spielberg,Grosser A1 Preis von Osterreich 2000,Race,71,307.146,4.326
+2000,11,2000-07-30,Germany,Hockenheimring,Grosser Mobil 1 Preis von Deutschland 2000,Race,45,307.035,6.823
+2000,12,2000-08-13,Hungary,Hungaroring,Marlboro Magyar Nagydij 2000,Race,77,306.075,3.975
+2000,13,2000-08-27,Belgium,Spa-Francorchamps,2000 Foster's Belgian Grand Prix,Race,44,306.592,6.968
+2000,14,2000-09-10,Italy,Monza,Gran Premio Campari d'Italia 2000,Race,53,306.719,5.793
+2000,15,2000-09-24,United States,Indianapolis,2000 SAP United States Grand Prix,Race,73,306.235,4.195
+2000,16,2000-10-08,Japan,Suzuka,2000 Fuji Television Japanese Grand Prix,Race,53,310.792,5.864
+2000,17,2000-10-22,Malaysia,Sepang,2000 Petronas Malaysian Grand Prix,Race,56,310.408,5.543
+2001,1,2001-03-04,Australia,Melbourne,2001 Qantas Australian Grand Prix,Street,58,307.574,5.303
+2001,2,2001-03-18,Malaysia,Sepang,2001 Petronas Malaysian Grand Prix,Race,55,304.865,5.543
+2001,3,2001-04-01,Brazil,Interlagos,Grande Premio Marlboro do Brasil 2001,Race,71,305.909,4.309
+2001,4,2001-04-15,San Marino,Imola,Gran Premio Warsteiner di San Marino 2001,Race,62,305.609,4.933
+2001,5,2001-04-29,Spain,Catalunya,Gran Premio Marlboro de Espana 2001,Race,65,307.324,4.73
+2001,6,2001-05-13,Austria,Spielberg,Grosser A1 Preis von Osterreich 2001,Race,71,307.146,4.326
+2001,7,2001-05-27,Monaco,Monaco,Grand Prix de Monaco 2001,Street,78,262.86,3.37
+2001,8,2001-06-10,Canada,Montreal,Grand Prix Air Canada 2001,Street,69,305.049,4.421
+2001,9,2001-06-24,Europe,Nurburgring,2001 Warsteiner Grand Prix of Europe,Race,67,305.252,4.556
+2001,10,2001-07-01,France,Magny-Cours,Mobil 1 Grand Prix de France 2001,Race,72,305.886,4.251
+2001,11,2001-07-15,Great Britain,Silverstone,2001 Foster's British Grand Prix,Race,60,308.355,5.141
+2001,12,2001-07-29,Germany,Hockenheimring,Grosser Mobil 1 Preis von Deutschland 2001,Race,45,307.035,6.823
+2001,13,2001-08-19,Hungary,Hungaroring,Marlboro Magyar Nagydij 2001,Race,77,306.075,3.975
+2001,14,2001-09-02,Belgium,Spa-Francorchamps,2001 Foster's Belgian Grand Prix,Race,36,250.848,6.968
+2001,15,2001-09-16,Italy,Monza,Gran Premio Campari d'Italia 2001,Race,53,306.719,5.793
+2001,16,2001-09-30,United States,Indianapolis,2001 SAP United States Grand Prix,Race,73,306.235,4.195
+2001,17,2001-10-14,Japan,Suzuka,2001 Fuji Television Japanese Grand Prix,Race,53,310.527,5.859
+2002,1,2002-03-03,Australia,Melbourne,2002 Foster's Australian Grand Prix,Street,58,307.574,5.303
+2002,2,2002-03-17,Malaysia,Sepang,2002 Petronas Malaysian Grand Prix,Race,56,310.408,5.543
+2002,3,2002-03-31,Brazil,Interlagos,Grande Premio do Brasil 2002,Race,71,305.909,4.309
+2002,4,2002-04-14,San Marino,Imola,Gran Premio di San Marino 2002,Race,62,305.609,4.933
+2002,5,2002-04-28,Spain,Catalunya,Gran Premio Marlboro de Espana 2002,Race,65,307.324,4.73
+2002,6,2002-05-12,Austria,Spielberg,Grosser A1 Preis von Osterreich 2002,Race,71,307.146,4.326
+2002,7,2002-05-26,Monaco,Monaco,Grand Prix de Monaco 2002,Street,78,262.86,3.37
+2002,8,2002-06-09,Canada,Montreal,Grand Prix Air Canada 2002,Street,70,305.27,4.361
+2002,9,2002-06-23,Europe,Nurburgring,2002 Allianz Grand Prix of Europe,Race,60,308.88,5.148
+2002,10,2002-07-07,Great Britain,Silverstone,2002 Foster's British Grand Prix,Race,60,308.355,5.141
+2002,11,2002-07-21,France,Magny-Cours,Mobil 1 Grand Prix de France 2002,Race,72,305.886,4.251
+2002,12,2002-07-28,Germany,Hockenheimring,Grosser Mobil 1 Preis von Deutschland 2002,Race,67,306.458,4.574
+2002,13,2002-08-18,Hungary,Hungaroring,Marlboro Magyar Nagydij 2002,Race,77,306.075,3.975
+2002,14,2002-09-01,Belgium,Spa-Francorchamps,2002 Foster's Belgian Grand Prix,Race,44,306.592,6.968
+2002,15,2002-09-15,Italy,Monza,Gran Premio Vodafone d'Italia 2002,Race,53,306.719,5.793
+2002,16,2002-09-29,United States,Indianapolis,2002 SAP United States Grand Prix,Race,73,306.235,4.195
+2002,17,2002-10-13,Japan,Suzuka,2002 Fuji Television Japanese Grand Prix,Race,53,308.513,5.821
+2003,1,2003-03-09,Australia,Melbourne,2003 Foster's Australian Grand Prix,Street,58,307.574,5.303
+2003,2,2003-03-23,Malaysia,Sepang,2003 Petronas Malaysian Grand Prix,Race,56,310.408,5.543
+2003,3,2003-04-06,Brazil,Interlagos,Grande Premio do Brasil 2003,Race,54,232.656,4.309
+2003,4,2003-04-20,San Marino,Imola,Gran Premio Foster's di San Marino 2003,Race,62,305.609,4.933
+2003,5,2003-05-04,Spain,Catalunya,Gran Premio Marlboro de Espana 2003,Race,65,307.324,4.73
+2003,6,2003-05-18,Austria,Spielberg,A1 Grand Prix von Osterreich 2003,Race,69,298.494,4.326
+2003,7,2003-06-01,Monaco,Monaco,Grand Prix de Monaco 2003,Street,78,260.52,3.34
+2003,8,2003-06-15,Canada,Montreal,Grand Prix Air Canada 2003,Street,70,305.27,4.361
+2003,9,2003-06-29,Europe,Nurburgring,2003 Allianz Grand Prix of Europe,Race,60,308.88,5.148
+2003,10,2003-07-06,France,Magny-Cours,Mobil 1 Grand Prix de France 2003,Race,70,308.586,4.411
+2003,11,2003-07-20,Great Britain,Silverstone,2003 Foster's British Grand Prix,Race,60,308.355,5.141
+2003,12,2003-08-03,Germany,Hockenheimring,Grosser Mobil 1 Preis von Deutschland 2003,Race,67,306.458,4.574
+2003,13,2003-08-24,Hungary,Hungaroring,Marlboro Magyar Nagydij 2003,Race,70,306.663,4.381
+2003,14,2003-09-14,Italy,Monza,Gran Premio Vodafone d'Italia 2003,Race,53,306.719,5.793
+2003,15,2003-09-28,United States,Indianapolis,2003 SAP United States Grand Prix,Race,73,306.235,4.195
+2003,16,2003-10-12,Japan,Suzuka,2003 Fuji Television Japanese Grand Prix,Race,53,307.573,5.807
+2004,1,2004-03-07,Australia,Melbourne,2004 Foster's Australian Grand Prix,Street,58,307.574,5.303
+2004,2,2004-03-21,Malaysia,Sepang,2004 Petronas Malaysian Grand Prix,Race,56,310.408,5.543
+2004,3,2004-04-04,Bahrain,Bahrain,2004 Gulf Air Bahrain Grand Prix,Race,57,308.238,5.412
+2004,4,2004-04-25,San Marino,Imola,Gran Premio Foster's di San Marino 2004,Race,62,305.609,4.933
+2004,5,2004-05-09,Spain,Catalunya,Formula 1 Gran Premio Marlboro de Espana 2004,Race,66,305.256,4.627
+2004,6,2004-05-23,Monaco,Monaco,Formula 1 Grand Prix de Monaco 2004,Street,77,257.18,3.34
+2004,7,2004-05-30,Europe,Nurburgring,2004 Formula 1 Allianz Grand Prix of Europe,Race,60,308.88,5.148
+2004,8,2004-06-13,Canada,Montreal,Formula 1 Grand Prix du Canada 2004,Street,70,305.27,4.361
+2004,9,2004-06-20,United States,Indianapolis,2004 Formula 1 United States Grand Prix,Race,73,306.235,4.195
+2004,10,2004-07-04,France,Magny-Cours,Formula 1 Mobil 1 Grand Prix de France 2004,Race,70,308.586,4.411
+2004,11,2004-07-11,Great Britain,Silverstone,2004 Formula 1 Foster's British Grand Prix,Race,60,308.355,5.141
+2004,12,2004-07-25,Germany,Hockenheimring,Formula 1 Grosser Mobil 1 Preis von Deutschland 2004,Race,66,301.884,4.574
+2004,13,2004-08-15,Hungary,Hungaroring,Formula 1 Marlboro Magyar Nagydij 2004,Race,70,306.663,4.381
+2004,14,2004-08-29,Belgium,Spa-Francorchamps,2004 Formula 1 Belgian Grand Prix,Race,44,306.927,6.976
+2004,15,2004-09-12,Italy,Monza,Formula 1 Gran Premio Vodafone d'Italia 2004,Race,53,306.72,5.793
+2004,16,2004-09-26,China,Shanghai,2004 Formula 1 Sinopec Chinese Grand Prix,Race,56,305.066,5.451
+2004,17,2004-10-10,Japan,Suzuka,2004 Formula 1 Fuji Television Japanese Grand Prix,Race,53,307.573,5.807
+2004,18,2004-10-24,Brazil,Interlagos,Formula 1 Grande Premio do Brasil 2004,Race,71,305.909,4.309
+2005,1,2005-03-06,Australia,Melbourne,2005 Formula 1 Foster's Australian Grand Prix,Street,57,302.271,5.303
+2005,2,2005-03-20,Malaysia,Sepang,2005 Formula 1 Petronas Malaysian Grand Prix,Race,56,310.408,5.543
+2005,3,2005-04-03,Bahrain,Bahrain,2005 Formula 1 Gulf Air Bahrain Grand Prix,Race,57,308.238,5.412
+2005,4,2005-04-24,San Marino,Imola,Formula 1 Gran Premio Foster's di San Marino 2005,Race,62,305.609,4.933
+2005,5,2005-05-08,Spain,Catalunya,Formula 1 Gran Premio Marlboro de Espana 2005,Race,66,305.256,4.627
+2005,6,2005-05-22,Monaco,Monaco,Formula 1 Grand Prix de Monaco 2005,Street,78,260.52,3.34
+2005,7,2005-05-29,Europe,Nurburgring,2005 Formula 1 Grand Prix of Europe,Race,59,303.732,5.148
+2005,8,2005-06-12,Canada,Montreal,Formula 1 Grand Prix du Canada 2005,Street,70,305.27,4.361
+2005,9,2005-06-19,United States,Indianapolis,2005 Foster's United States Grand Prix,Race,73,306.016,4.192
+2005,10,2005-07-03,France,Magny-Cours,Formula 1 Grand Prix de France 2005,Race,70,308.586,4.411
+2005,11,2005-07-10,Great Britain,Silverstone,2005 Formula 1 Foster's British Grand Prix,Race,60,308.355,5.141
+2005,12,2005-07-24,Germany,Hockenheimring,Formula 1 Grosser Mobil 1 Preis von Deutschland 2005,Race,67,306.458,4.574
+2005,13,2005-07-31,Hungary,Hungaroring,Formula 1 Marlboro Magyar Nagydij 2005,Race,70,306.663,4.381
+2005,14,2005-08-21,Turkey,Istanbul,2005 Formula 1 Turkish Grand Prix,Race,58,309.396,5.338
+2005,15,2005-09-04,Italy,Monza,Formula 1 Gran Premio Vodafone d'Italia 2005,Race,53,306.72,5.793
+2005,16,2005-09-11,Belgium,Spa-Francorchamps,2005 Formula 1 Belgian Grand Prix,Race,44,306.927,6.976
+2005,17,2005-09-25,Brazil,Interlagos,Formula 1 Grande Premio do Brasil 2005,Race,71,305.909,4.309
+2005,18,2005-10-09,Japan,Suzuka,2005 Formula 1 Fuji Television Japanese Grand Prix,Race,53,307.573,5.807
+2005,19,2005-10-16,China,Shanghai,2005 Formula 1 Sinopec Chinese Grand Prix,Race,56,305.066,5.451
+2006,1,2006-03-12,Bahrain,Bahrain,2006 Formula 1 Gulf Air Bahrain Grand Prix,Race,57,308.238,5.412
+2006,2,2006-03-19,Malaysia,Sepang,2006 Formula 1 Petronas Malaysian Grand Prix,Race,56,310.408,5.543
+2006,3,2006-04-02,Australia,Melbourne,2006 Formula 1 Foster's Australian Grand Prix,Street,57,302.271,5.303
+2006,4,2006-04-23,San Marino,Imola,Formula 1 Gran Premio Foster's di San Marino 2006,Race,62,305.609,4.933
+2006,5,2006-05-07,Europe,Nurburgring,2006 Formula 1 Grand Prix of Europe,Race,60,308.88,5.148
+2006,6,2006-05-14,Spain,Catalunya,Formula 1 Gran Premio Telefonica de Espana 2006,Race,66,305.256,4.627
+2006,7,2006-05-28,Monaco,Monaco,Formula 1 Grand Prix de Monaco 2006,Street,78,260.52,3.34
+2006,8,2006-06-11,Great Britain,Silverstone,2006 Formula 1 Foster's British Grand Prix,Race,60,308.355,5.141
+2006,9,2006-06-25,Canada,Montreal,Formula 1 Grand Prix du Canada 2006,Street,70,305.27,4.361
+2006,10,2006-07-02,United States,Indianapolis,2006 United States Grand Prix,Race,73,306.016,4.192
+2006,11,2006-07-16,France,Magny-Cours,Formula 1 Grand Prix de France 2006,Race,70,308.586,4.411
+2006,12,2006-07-30,Germany,Hockenheimring,Formula 1 Grosser Mobil 1 Preis von Deutschland 2006,Race,67,306.458,4.574
+2006,13,2006-08-06,Hungary,Hungaroring,Formula 1 Magyar Nagydij 2006,Race,70,306.663,4.381
+2006,14,2006-08-27,Turkey,Istanbul,2006 Formula 1 Petrol Ofisi Turkish Grand Prix,Race,58,309.396,5.338
+2006,15,2006-09-10,Italy,Monza,Formula 1 Gran Premio Vodafone d'Italia 2006,Race,53,306.72,5.793
+2006,16,2006-10-01,China,Shanghai,2006 Formula 1 Sinopec Chinese Grand Prix,Race,56,305.066,5.451
+2006,17,2006-10-08,Japan,Suzuka,2006 Formula 1 Fuji Television Japanese Grand Prix,Race,53,307.573,5.807
+2006,18,2006-10-22,Brazil,Interlagos,Formula 1 Grande Premio do Brasil 2006,Race,71,305.909,4.309
+2007,1,2007-03-18,Australia,Melbourne,2007 Formula 1 ING Australian Grand Prix,Street,58,307.574,5.303
+2007,2,2007-04-08,Malaysia,Sepang,2007 Formula 1 Petronas Malaysian Grand Prix,Race,56,310.408,5.543
+2007,3,2007-04-15,Bahrain,Bahrain,2007 Formula 1 Gulf Air Bahrain Grand Prix,Race,57,308.238,5.412
+2007,4,2007-05-13,Spain,Catalunya,Formula 1 Gran Premio de Espana Telefonica 2007,Race,65,302.449,4.655
+2007,5,2007-05-27,Monaco,Monaco,Formula 1 Grand Prix de Monaco 2007,Street,78,260.52,3.34
+2007,6,2007-06-10,Canada,Montreal,Formula 1 Grand Prix du Canada 2007,Street,70,305.27,4.361
+2007,7,2007-06-17,United States,Indianapolis,2007 RBS United States Grand Prix,Race,73,306.016,4.192
+2007,8,2007-07-01,France,Magny-Cours,Formula 1 Grand Prix de France 2007,Race,70,308.586,4.411
+2007,9,2007-07-08,Great Britain,Silverstone,2007 Formula 1 Santander British Grand Prix,Race,59,303.216,5.141
+2007,10,2007-07-22,Europe,Nurburgring,2007 Formula 1 Grand Prix of Europe,Race,60,308.88,5.148
+2007,11,2007-08-05,Hungary,Hungaroring,Formula 1 Magyar Nagydij 2007,Race,70,306.663,4.381
+2007,12,2007-08-26,Turkey,Istanbul,2007 Formula 1 Petrol Ofisi Turkish Grand Prix,Race,58,309.396,5.338
+2007,13,2007-09-09,Italy,Monza,Formula 1 Gran Premio d'Italia 2007,Race,53,306.72,5.793
+2007,14,2007-09-16,Belgium,Spa-Francorchamps,2007 Formula 1 ING Belgian Grand Prix,Race,44,308.052,7.004
+2007,15,2007-09-30,Japan,Fuji,2007 Formula 1 Fuji Television Japanese Grand Prix,Race,67,305.721,4.563
+2007,16,2007-10-07,China,Shanghai,2007 Formula 1 Sinopec Chinese Grand Prix,Race,56,305.066,5.451
+2007,17,2007-10-21,Brazil,Interlagos,Formula 1 Grande Premio do Brasil 2007,Race,71,305.909,4.309
+2008,1,2008-03-16,Australia,Melbourne,2008 Formula 1 ING Australian Grand Prix,Street,58,307.574,5.303
+2008,2,2008-03-23,Malaysia,Sepang,2008 Formula 1 Petronas Malaysian Grand Prix,Race,56,310.408,5.543
+2008,3,2008-04-06,Bahrain,Bahrain,2008 Formula 1 Gulf Air Bahrain Grand Prix,Race,57,308.238,5.412
+2008,4,2008-04-27,Spain,Catalunya,Formula 1 Gran Premio de Espana Telefonica 2008,Race,66,307.104,4.655
+2008,5,2008-05-11,Turkey,Istanbul,2008 Formula 1 Petrol Ofisi Turkish Grand Prix,Race,58,309.396,5.338
+2008,6,2008-05-25,Monaco,Monaco,Formula 1 Grand Prix de Monaco 2008,Street,76,253.84,3.34
+2008,7,2008-06-08,Canada,Montreal,Formula 1 Grand Prix du Canada 2008,Street,70,305.27,4.361
+2008,8,2008-06-22,France,Magny-Cours,Formula 1 Grand Prix de France 2008,Race,70,308.586,4.411
+2008,9,2008-07-06,Great Britain,Silverstone,2008 Formula 1 Santander British Grand Prix,Race,60,308.355,5.141
+2008,10,2008-07-20,Germany,Hockenheimring,Formula 1 Grosser Preis Santander von Deutschland 2008,Race,67,306.458,4.574
+2008,11,2008-08-03,Hungary,Hungaroring,Formula 1 ING Magyar Nagydij 2008,Race,70,306.63,4.381
+2008,12,2008-08-24,Europe,Valencia,2008 Formula 1 Telefonica Grand Prix of Europe,Street,57,308.883,5.419
+2008,13,2008-09-07,Belgium,Spa-Francorchamps,2008 Formula 1 ING Belgian Grand Prix,Race,44,308.052,7.004
+2008,14,2008-09-14,Italy,Monza,Formula 1 Gran Premio Santander d'Italia 2008,Race,53,306.72,5.793
+2008,15,2008-09-28,Singapore,Marina Bay,2008 Formula 1 SingTel Singapore Grand Prix,Street,61,309.316,5.073
+2008,16,2008-10-12,Japan,Fuji,2008 Formula 1 Fuji Television Japanese Grand Prix,Race,67,305.721,4.563
+2008,17,2008-10-19,China,Shanghai,2008 Formula 1 Sinopec Chinese Grand Prix,Race,56,305.066,5.451
+2008,18,2008-11-02,Brazil,Interlagos,Formula 1 Grande Premio do Brasil 2008,Race,71,305.909,4.309
+2009,1,2009-03-29,Australia,Melbourne,2009 Formula 1 ING Australian Grand Prix,Street,58,307.574,5.303
+2009,2,2009-04-05,Malaysia,Sepang,2009 Formula 1 Petronas Malaysian Grand Prix,Race,31,171.833,5.543
+2009,3,2009-04-19,China,Shanghai,2009 Formula 1 Chinese Grand Prix,Race,56,305.066,5.451
+2009,4,2009-04-26,Bahrain,Bahrain,2009 Formula 1 Gulf Air Bahrain Grand Prix,Race,57,308.238,5.412
+2009,5,2009-05-10,Spain,Catalunya,Formula 1 Gran Premio de Espana Telefonica 2009,Race,66,307.104,4.655
+2009,6,2009-05-24,Monaco,Monaco,Formula 1 Grand Prix de Monaco 2009,Street,78,260.52,3.34
+2009,7,2009-06-07,Turkey,Istanbul,2009 Formula 1 ING Turkish Grand Prix,Race,58,309.396,5.338
+2009,8,2009-06-21,Great Britain,Silverstone,2009 Formula 1 Santander British Grand Prix,Race,60,308.355,5.141
+2009,9,2009-07-12,Germany,Nurburgring,Formula 1 Grosser Preis Santander von Deutschland 2009,Race,60,308.863,5.148
+2009,10,2009-07-26,Hungary,Hungaroring,Formula 1 ING Magyar Nagydij 2009,Race,70,306.63,4.381
+2009,11,2009-08-23,Europe,Valencia,2009 Formula 1 Telefonica Grand Prix of Europe,Street,57,308.883,5.419
+2009,12,2009-08-30,Belgium,Spa-Francorchamps,2009 Formula 1 ING Belgian Grand Prix,Race,44,308.052,7.004
+2009,13,2009-09-13,Italy,Monza,Formula 1 Gran Premio Santander d'Italia 2009,Race,53,306.72,5.793
+2009,14,2009-09-27,Singapore,Marina Bay,2009 Formula 1 SingTel Singapore Grand Prix,Street,61,309.316,5.073
+2009,15,2009-10-04,Japan,Suzuka,2009 Formula 1 Fuji Television Japanese Grand Prix,Race,53,307.573,5.807
+2009,16,2009-10-18,Brazil,Interlagos,Formula 1 Grande Premio Petrobras do Brasil 2009,Race,71,305.909,4.309
+2009,17,2009-11-01,Abu Dhabi,Yas Marina,2009 Formula 1 Etihad Airways Abu Dhabi Grand Prix,Race,55,305.355,5.554
+2010,1,2010-03-14,Bahrain,Bahrain,2010 Formula 1 Gulf Air Bahrain Grand Prix,Race,49,308.405,6.299
+2010,2,2010-03-28,Australia,Melbourne,2010 Formula 1 Qantas Australian Grand Prix,Street,58,307.574,5.303
+2010,3,2010-04-04,Malaysia,Sepang,2010 Formula 1 Petronas Malaysian Grand Prix,Race,56,310.408,5.543
+2010,4,2010-04-18,China,Shanghai,2010 Formula 1 Chinese Grand Prix,Race,56,305.066,5.451
+2010,5,2010-05-09,Spain,Catalunya,Formula 1 Gran Premio de Espana Telefonica 2010,Race,66,307.104,4.655
+2010,6,2010-05-16,Monaco,Monaco,Formula 1 Grand Prix de Monaco 2010,Street,78,260.52,3.34
+2010,7,2010-05-30,Turkey,Istanbul,2010 Formula 1 Turkish Grand Prix,Race,58,309.396,5.338
+2010,8,2010-06-13,Canada,Montreal,Formula 1 Grand Prix du Canada 2010,Street,70,305.27,4.361
+2010,9,2010-06-27,Europe,Valencia,2010 Formula 1 Telefonica Grand Prix of Europe,Street,57,308.883,5.419
+2010,10,2010-07-11,Great Britain,Silverstone,2010 Formula 1 Santander British Grand Prix,Race,52,306.747,5.901
+2010,11,2010-07-25,Germany,Hockenheimring,Formula 1 Grosser Preis Santander von Deutschland 2010,Race,67,306.458,4.574
+2010,12,2010-08-01,Hungary,Hungaroring,Formula 1 Eni Magyar Nagydij 2010,Race,70,306.63,4.381
+2010,13,2010-08-29,Belgium,Spa-Francorchamps,2010 Formula 1 Belgian Grand Prix,Race,44,308.052,7.004
+2010,14,2010-09-12,Italy,Monza,Formula 1 Gran Premio Santander d'Italia 2010,Race,53,306.72,5.793
+2010,15,2010-09-26,Singapore,Marina Bay,2010 Formula 1 SingTel Singapore Grand Prix,Street,61,309.316,5.073
+2010,16,2010-10-10,Japan,Suzuka,2010 Formula 1 Japanese Grand Prix,Race,53,307.573,5.807
+2010,17,2010-10-24,Korea,Yeongam,2010 Formula 1 Korean Grand Prix,Race,55,308.63,5.615
+2010,18,2010-11-07,Brazil,Interlagos,Formula 1 Grande Premio Petrobras do Brasil 2010,Race,71,305.909,4.309
+2010,19,2010-11-14,Abu Dhabi,Yas Marina,2010 Formula 1 Etihad Airways Abu Dhabi Grand Prix,Race,55,305.355,5.554
+2011,1,2011-03-27,Australia,Melbourne,2011 Formula 1 Qantas Australian Grand Prix,Street,58,307.574,5.303
+2011,2,2011-04-10,Malaysia,Sepang,2011 Petronas Malaysia Grand Prix,Race,56,310.408,5.543
+2011,3,2011-04-17,China,Shanghai,2011 Formula 1 UBS Chinese Grand Prix,Race,56,305.066,5.451
+2011,4,2011-05-08,Turkey,Istanbul,2011 Formula 1 DHL Turkish Grand Prix,Race,58,309.396,5.338
+2011,5,2011-05-22,Spain,Catalunya,Formula 1 Gran Premio de Espana Santander 2011,Race,66,307.104,4.655
+2011,6,2011-05-29,Monaco,Monaco,Formula 1 Grand Prix de Monaco 2011,Street,78,260.52,3.34
+2011,7,2011-06-12,Canada,Montreal,Formula 1 Grand Prix du Canada 2011,Street,70,305.27,4.361
+2011,8,2011-06-26,Europe,Valencia,2011 Formula 1 Grand Prix of Europe,Street,57,308.883,5.419
+2011,9,2011-07-10,Great Britain,Silverstone,2011 Formula 1 Santander British Grand Prix,Race,52,306.198,5.891
+2011,10,2011-07-24,Germany,Nurburgring,Formula 1 Grosser Preis Santander von Deutschland 2011,Race,60,308.863,5.148
+2011,11,2011-07-31,Hungary,Hungaroring,Formula 1 Eni Magyar Nagydij 2011,Race,70,306.63,4.381
+2011,12,2011-08-28,Belgium,Spa-Francorchamps,2011 Formula 1 Shell Belgian Grand Prix,Race,44,308.052,7.004
+2011,13,2011-09-11,Italy,Monza,Formula 1 Gran Premio Santander d'Italia 2011,Race,53,306.72,5.793
+2011,14,2011-09-25,Singapore,Marina Bay,2011 Formula 1 SingTel Singapore Grand Prix,Street,61,309.087,5.073
+2011,15,2011-10-09,Japan,Suzuka,2011 Formula 1 Japanese Grand Prix,Race,53,307.471,5.807
+2011,16,2011-10-16,Korea,Yeongam,2011 Formula 1 Korean Grand Prix,Race,55,308.63,5.615
+2011,17,2011-10-30,India,Buddh,2011 Formula 1 Airtel Grand Prix of India,Race,60,307.249,5.125
+2011,18,2011-11-13,Abu Dhabi,Yas Marina,2011 Formula 1 Etihad Airways Abu Dhabi Grand Prix,Race,55,305.355,5.554
+2011,19,2011-11-27,Brazil,Interlagos,Formula 1 Grande Premio Petrobras do Brasil 2011,Race,71,305.909,4.309
+2012,1,2012-03-18,Australia,Melbourne,2012 Formula 1 Qantas Australian Grand Prix,Street,58,307.574,5.303
+2012,2,2012-03-25,Malaysia,Sepang,2012 Formula 1 Petronas Malaysia Grand Prix,Race,56,310.408,5.543
+2012,3,2012-04-15,China,Shanghai,2012 Formula 1 UBS Chinese Grand Prix,Race,56,305.066,5.451
+2012,4,2012-04-22,Bahrain,Bahrain,2012 Formula 1 Gulf Air Bahrain Grand Prix,Race,57,308.238,5.412
+2012,5,2012-05-13,Spain,Catalunya,Formula 1 Gran Premio de Espana Santander 2012,Race,66,307.104,4.655
+2012,6,2012-05-27,Monaco,Monaco,Formula 1 Grand Prix de Monaco 2012,Street,78,260.52,3.34
+2012,7,2012-06-10,Canada,Montreal,Formula 1 Grand Prix du Canada 2012,Street,70,305.27,4.361
+2012,8,2012-06-24,Europe,Valencia,2012 Formula 1 Grand Prix of Europe,Street,57,308.883,5.419
+2012,9,2012-07-08,Great Britain,Silverstone,2012 Formula 1 Santander British Grand Prix,Race,52,306.198,5.891
+2012,10,2012-07-22,Germany,Hockenheimring,Formula 1 Grosser Preis Santander von Deutschland 2012,Race,67,306.458,4.574
+2012,11,2012-07-29,Hungary,Hungaroring,Formula 1 Eni Magyar Nagydij 2012,Race,69,302.249,4.381
+2012,12,2012-09-02,Belgium,Spa-Francorchamps,2012 Formula 1 Shell Belgian Grand Prix,Race,44,308.052,7.004
+2012,13,2012-09-09,Italy,Monza,Formula 1 Gran Premio Santander d'Italia 2012,Race,53,306.72,5.793
+2012,14,2012-09-23,Singapore,Marina Bay,2012 Formula 1 SingTel Singapore Grand Prix,Street,59,299.17,5.073
+2012,15,2012-10-07,Japan,Suzuka,2012 Formula 1 Japanese Grand Prix,Race,53,307.471,5.807
+2012,16,2012-10-14,Korea,Yeongam,2012 Formula 1 Korean Grand Prix,Race,55,308.63,5.615
+2012,17,2012-10-28,India,Buddh,2012 Formula 1 Airtel Indian Grand Prix,Race,60,307.249,5.125
+2012,18,2012-11-04,Abu Dhabi,Yas Marina,2012 Formula 1 Etihad Airways Abu Dhabi Grand Prix,Race,55,305.355,5.554
+2012,19,2012-11-18,United States,Austin,2012 Formula 1 United States Grand Prix,Race,56,308.405,5.513
+2012,20,2012-11-25,Brazil,Interlagos,Formula 1 Grande Premio Petrobras do Brasil 2012,Race,71,305.909,4.309
+2013,1,2013-03-17,Australia,Melbourne,2013 Formula 1 Rolex Australian Grand Prix,Street,58,307.574,5.303
+2013,2,2013-03-24,Malaysia,Sepang,2013 Formula 1 Petronas Malaysia Grand Prix,Race,56,310.408,5.543
+2013,3,2013-04-14,China,Shanghai,2013 Formula 1 UBS Chinese Grand Prix,Race,56,305.066,5.451
+2013,4,2013-04-21,Bahrain,Bahrain,2013 Formula 1 Gulf Air Bahrain Grand Prix,Race,57,308.238,5.412
+2013,5,2013-05-12,Spain,Catalunya,Formula 1 Gran Premio de Espana 2013,Race,66,307.104,4.655
+2013,6,2013-05-26,Monaco,Monaco,Formula 1 Grand Prix de Monaco 2013,Street,78,260.52,3.34
+2013,7,2013-06-09,Canada,Montreal,Formula 1 Grand Prix du Canada 2013,Street,70,305.27,4.361
+2013,8,2013-06-30,Great Britain,Silverstone,2013 Formula 1 Santander British Grand Prix,Race,52,306.198,5.891
+2013,9,2013-07-07,Germany,Nurburgring,Formula 1 Grosser Preis Santander von Deutschland 2013,Race,60,308.863,5.148
+2013,10,2013-07-28,Hungary,Hungaroring,Formula 1 Magyar Nagydij 2013,Race,70,306.63,4.381
+2013,11,2013-08-25,Belgium,Spa-Francorchamps,2013 Formula 1 Shell Belgian Grand Prix,Race,44,308.052,7.004
+2013,12,2013-09-08,Italy,Monza,Formula 1 Gran Premio d'Italia 2013,Race,53,306.72,5.793
+2013,13,2013-09-22,Singapore,Marina Bay,2013 Formula 1 SingTel Singapore Grand Prix,Street,61,308.828,5.065
+2013,14,2013-10-06,Korea,Yeongam,2013 Formula 1 Korean Grand Prix,Race,55,308.63,5.615
+2013,15,2013-10-13,Japan,Suzuka,2013 Formula 1 Japanese Grand Prix,Race,53,307.471,5.807
+2013,16,2013-10-27,India,Buddh,2013 Formula 1 Airtel Indian Grand Prix,Race,60,307.249,5.125
+2013,17,2013-11-03,Abu Dhabi,Yas Marina,2013 Formula 1 Etihad Airways Abu Dhabi Grand Prix,Race,55,305.355,5.554
+2013,18,2013-11-17,United States,Austin,2013 Formula 1 United States Grand Prix,Race,56,308.405,5.513
+2013,19,2013-11-24,Brazil,Interlagos,Formula 1 Grande Premio Petrobras do Brasil 2013,Race,71,305.909,4.309
+2014,1,2014-03-16,Australia,Melbourne,2014 Formula 1 Rolex Australian Grand Prix,Street,57,302.271,5.303
+2014,2,2014-03-30,Malaysia,Sepang,2014 Formula 1 Petronas Malaysia Grand Prix,Race,56,310.408,5.543
+2014,3,2014-04-06,Bahrain,Bahrain,2014 Formula 1 Gulf Air Bahrain Grand Prix,Race,57,308.238,5.412
+2014,4,2014-04-20,China,Shanghai,2014 Formula 1 UBS Chinese Grand Prix,Race,54,294.164,5.451
+2014,5,2014-05-11,Spain,Catalunya,Formula 1 Gran Premio de Espana Pirelli 2014,Race,66,307.104,4.655
+2014,6,2014-05-25,Monaco,Monaco,Formula 1 Grand Prix de Monaco 2014,Street,78,260.52,3.34
+2014,7,2014-06-08,Canada,Montreal,Formula 1 Grand Prix du Canada 2014,Street,70,305.27,4.361
+2014,8,2014-06-22,Austria,Spielberg,Formula 1 DHL Grosser Preis Von Osterreich 2014,Race,71,307.146,4.326
+2014,9,2014-07-06,Great Britain,Silverstone,2014 Formula 1 Santander British Grand Prix,Race,52,306.198,5.891
+2014,10,2014-07-20,Germany,Hockenheimring,Formula 1 Grosser Preis Santander von Deutschland 2014,Race,67,306.458,4.574
+2014,11,2014-07-27,Hungary,Hungaroring,Formula 1 Pirelli Magyar Nagydij 2014,Race,70,306.63,4.381
+2014,12,2014-08-24,Belgium,Spa-Francorchamps,2014 Formula 1 Shell Belgian Grand Prix,Race,44,308.052,7.004
+2014,13,2014-09-07,Italy,Monza,Formula 1 Gran Premio d'Italia 2014,Race,53,306.72,5.793
+2014,14,2014-09-21,Singapore,Marina Bay,2014 Formula 1 Singapore Airlines Singapore Grand Prix,Street,60,303.763,5.065
+2014,15,2014-10-05,Japan,Suzuka,2014 Formula 1 Japanese Grand Prix,Race,44,255.208,5.807
+2014,16,2014-10-21,Russia,Sochi,2014 Formula 1 Russian Grand Prix,Road,53,309.745,5.848
+2014,17,2014-11-02,United States,Austin,2014 Formula 1 United States Grand Prix,Race,56,308.405,5.513
+2014,18,2014-11-09,Brazil,Interlagos,Formula 1 Grande Premio Petrobras do Brasil 2014,Race,71,305.909,4.309
+2014,19,2014-11-23,Abu Dhabi,Yas Marina,2014 Formula 1 Etihad Airways Abu Dhabi Grand Prix,Race,55,305.355,5.554
+2015,1,2015-03-15,Australia,Melbourne,2015 Formula 1 Rolex Australian Grand Prix,Street,58,307.574,5.303
+2015,2,2015-03-29,Malaysia,Sepang,2015 Formula 1 Petronas Malaysia Grand Prix,Race,56,310.408,5.543
+2015,3,2015-04-12,China,Shanghai,2015 Formula 1 Chinese Grand Prix,Race,56,305.066,5.451
+2015,4,2015-04-19,Bahrain,Bahrain,2015 Formula 1 Gulf Air Bahrain Grand Prix,Race,57,308.238,5.412
+2015,5,2015-05-10,Spain,Catalunya,Formula 1 Gran Premio de Espana Pirelli 2015,Race,66,307.104,4.655
+2015,6,2015-05-24,Monaco,Monaco,Formula 1 Grand Prix de Monaco 2015,Street,78,260.286,3.337
+2015,7,2015-06-07,Canada,Montreal,Formula 1 Grand Prix du Canada 2015,Street,70,305.27,4.361
+2015,8,2015-06-21,Austria,Spielberg,Formula 1 Rolex Grosser Preis von Osterreich 2015,Race,71,307.146,4.326
+2015,9,2015-07-05,Great Britain,Silverstone,2015 Formula 1 British Grand Prix,Race,52,306.198,5.891
+2015,10,2015-07-26,Hungary,Hungaroring,Formula 1 Pirelli Magyar Nagydij 2015,Race,69,302.249,4.381
+2015,11,2015-08-23,Belgium,Spa-Francorchamps,2015 Formula 1 Shell Belgian Grand Prix,Race,43,301.048,7.004
+2015,12,2015-09-06,Italy,Monza,Formula 1 Gran Premio d'Italia 2015,Race,53,306.72,5.793
+2015,13,2015-09-20,Singapore,Marina Bay,2015 Formula 1 Singapore Airlines Singapore Grand Prix,Street,61,308.828,5.065
+2015,14,2015-09-27,Japan,Suzuka,2015 Formula 1 Japanese Grand Prix,Race,53,307.471,5.807
+2015,15,2015-10-11,Russia,Sochi,2015 Formula 1 Russian Grand Prix,Road,53,309.745,5.848
+2015,16,2015-10-25,United States,Austin,2015 Formula 1 United States Grand Prix,Race,56,308.405,5.513
+2015,17,2015-11-01,Mexico,Mexico City,Formula 1 Gran Premio de Mexico 2015,Race,71,305.354,4.304
+2015,18,2015-11-15,Brazil,Interlagos,Formula 1 Grande Premio Petrobras do Brasil 2015,Race,71,305.909,4.309
+2015,19,2015-11-29,Abu Dhabi,Yas Marina,2015 Formula 1 Etihad Airways Abu Dhabi Grand Prix,Race,55,305.355,5.554
+2016,1,2016-03-20,Australia,Melbourne,2016 Formula 1 Rolex Australian Grand Prix,Street,57,302.271,5.303
+2016,2,2016-04-03,Bahrain,Bahrain,2016 Formula 1 Gulf Air Bahrain Grand Prix,Race,57,308.238,5.412
+2016,3,2016-04-17,China,Shanghai,2016 Formula 1 Pirelli Chinese Grand Prix,Race,56,305.066,5.451
+2016,4,2016-05-01,Russia,Sochi,2016 Formula 1 Russian Grand Prix,Road,53,309.745,5.848
+2016,5,2016-05-15,Spain,Catalunya,Formula 1 Gran Premio de Espana Pirelli 2016,Race,66,307.104,4.655
+2016,6,2016-05-29,Monaco,Monaco,Formula 1 Grand Prix de Monaco 2016,Street,78,260.286,3.337
+2016,7,2016-06-12,Canada,Montreal,Formula 1 Grand Prix du Canada 2016,Street,70,305.27,4.361
+2016,8,2016-06-19,Europe,Baku,Formula 1 Rolex Grand Prix of Europe 2016,Street,51,306.153,6.003
+2016,9,2016-07-03,Austria,Spielberg,Formula 1 Pirelli Grosser Preis von Osterreich 2016,Race,71,307.146,4.326
+2016,10,2016-07-10,Great Britain,Silverstone,2016 Formula 1 British Grand Prix,Race,52,306.198,5.891
+2016,11,2016-07-24,Hungary,Hungaroring,Formula 1 Magyar Nagydij 2016,Race,70,306.63,4.381
+2016,12,2016-07-31,Germany,Hockenheimring,Formula 1 Grosser Preis von Deutschland 2016,Race,67,306.458,4.574
+2016,13,2016-08-28,Belgium,Spa-Francorchamps,2016 Formula 1 Belgian Grand Prix,Race,44,308.052,7.004
+2016,14,2016-09-04,Italy,Monza,Formula 1 Gran Premio Heineken d'Italia 2016,Race,53,306.72,5.793
+2016,15,2016-09-18,Singapore,Marina Bay,2016 Formula 1 Singapore Airlines Singapore Grand Prix,Street,61,308.828,5.065
+2016,16,2016-10-02,Malaysia,Sepang,2016 Formula 1 Petronas Malaysia Grand Prix,Race,56,310.408,5.543
+2016,17,2016-10-09,Japan,Suzuka,2016 Formula 1 Emirates Japanese Grand Prix,Race,53,307.471,5.807
+2016,18,2016-10-23,United States,Austin,2016 Formula 1 United States Grand Prix,Race,56,308.405,5.513
+2016,19,2016-10-30,Mexico,Mexico City,Formula 1 Gran Premio de Mexico 2016,Race,71,305.354,4.304
+2016,20,2016-11-13,Brazil,Interlagos,Formula 1 Grande Premio do Brasil 2016,Race,71,305.909,4.309
+2016,21,2016-11-27,Abu Dhabi,Yas Marina,2016 Formula 1 Etihad Airways Abu Dhabi Grand Prix,Race,55,305.355,5.554
+2017,1,2017-03-26,Australia,Melbourne,2017 Formula 1 Rolex Australian Grand Prix,Street,57,302.271,5.303
+2017,2,2017-04-09,China,Shanghai,2017 Formula 1 Heineken Chinese Grand Prix,Race,56,305.066,5.451
+2017,3,2017-04-16,Bahrain,Bahrain,2017 Formula 1 Gulf Air Bahrain Grand Prix,Race,57,308.238,5.412
+2017,4,2017-04-30,Russia,Sochi,2017 Formula 1 VTB Russian Grand Prix,Road,52,303.897,5.848
+2017,5,2017-05-14,Spain,Catalunya,Formula 1 Gran Premio de Espana Pirelli 2017,Race,66,307.104,4.655
+2017,6,2017-05-28,Monaco,Monaco,Formula 1 Grand Prix de Monaco 2017,Street,78,260.286,3.337
+2017,7,2017-06-11,Canada,Montreal,Formula 1 Grand Prix du Canada 2017,Street,70,305.27,4.361
+2017,8,2017-06-25,Azerbaijan,Baku,Formula 1 FlyEmirates Azerbaijan Grand Prix 2017,Street,51,306.049,6.003
+2017,9,2017-07-09,Austria,Spielberg,Formula 1 FlyEmirates Grosser Preis von Osterreich 2017,Race,71,306.452,4.318
+2017,10,2017-07-16,Great Britain,Silverstone,2017 Formula 1 Rolex British Grand Prix,Race,51,300.307,5.891
+2017,11,2017-07-30,Hungary,Hungaroring,Formula 1 Pirelli Magyar Nagydij 2017,Race,70,306.63,4.381
+2017,12,2017-08-27,Belgium,Spa-Francorchamps,2017 Formula 1 Pirelli Belgian Grand Prix,Race,44,308.052,7.004
+2017,13,2017-09-03,Italy,Monza,Formula 1 Gran Premio Heineken d'Italia 2017,Race,53,306.72,5.793
+2017,14,2017-09-17,Singapore,Marina Bay,2017 Formula 1 Singapore Airlines Singapore Grand Prix,Street,58,293.633,5.065
+2017,15,2017-10-01,Malaysia,Sepang,2017 Formula 1 Petronas Malaysia Grand Prix,Race,56,310.408,5.543
+2017,16,2017-10-08,Japan,Suzuka,2017 Formula 1 Japanese Grand Prix,Race,53,307.471,5.807
+2017,17,2017-10-22,United States,Austin,2017 Formula 1 United States Grand Prix,Race,56,308.405,5.513
+2017,18,2017-10-29,Mexico,Mexico City,Formula 1 Gran Premio de Mexico 2017,Race,71,305.354,4.304
+2017,19,2017-11-12,Brazil,Interlagos,Formula 1 Grande Premio Heineken do Brasil 2017,Race,71,305.909,4.309
+2017,20,2017-11-26,Abu Dhabi,Yas Marina,2017 Formula 1 Etihad Airways Abu Dhabi Grand Prix,Race,55,305.355,5.554
+2018,1,2018-03-25,Australia,Melbourne,Formula 1 2018 Rolex Australian Grand Prix,Street,58,307.574,5.303
+2018,2,2018-04-08,Bahrain,Bahrain,Formula 1 2018 Gulf Air Bahrain Grand Prix,Race,57,308.238,5.412
+2018,3,2018-04-15,China,Shanghai,Formula 1 2018 Heineken Chinese Grand Prix,Race,56,305.066,5.451
+2018,4,2018-04-29,Azerbaijan,Baku,Formula 1 2018 Rolex Azerbaijan Grand Prix,Street,51,306.049,6.003
+2018,5,2018-05-13,Spain,Catalunya,Formula 1 Gran Premio de Espana Emirates 2018,Race,66,307.104,4.655
+2018,6,2018-05-27,Monaco,Monaco,Formula 1 Grand Prix de Monaco 2018,Street,78,260.286,3.337
+2018,7,2018-06-10,Canada,Montreal,Formula 1 Grand Prix Heineken du Canada 2018,Street,68,296.548,4.361
+2018,8,2018-06-24,France,Paul Ricard,Formula 1 Pirelli Grand Prix de France 2018,Race,53,309.69,5.842
+2018,9,2018-07-01,Austria,Spielberg,Formula 1 Eyetime Grosser Preis von Osterreich 2018,Race,71,306.452,4.318
+2018,10,2018-07-08,Great Britain,Silverstone,Formula 1 2018 Rolex British Grand Prix,Race,52,306.198,5.891
+2018,11,2018-07-22,Germany,Hockenheimring,Formula 1 Emirates Grosser Preis von Deutschland 2018,Race,67,306.458,4.574
+2018,12,2018-07-29,Hungary,Hungaroring,Formula 1 Rolex Magyar Nagydij 2018,Race,70,306.63,4.381
+2018,13,2018-08-26,Belgium,Spa-Francorchamps,Formula 1 2018 Johnnie Walker Belgian Grand Prix,Race,44,308.052,7.004
+2018,14,2018-09-02,Italy,Monza,Formula 1 Gran Premio Heineken d'Italia 2018,Race,53,306.72,5.793
+2018,15,2018-09-16,Singapore,Marina Bay,Formula 1 2018 Singapore Airlines Singapore Grand Prix,Street,61,308.706,5.063
+2018,16,2018-09-30,Russia,Sochi,Formula 1 2018 VTB Russian Grand Prix,Road,53,309.745,5.848
+2018,17,2018-10-07,Japan,Suzuka,Formula 1 2018 Honda Japanese Grand Prix,Race,53,307.471,5.807
+2018,18,2018-10-21,United States,Austin,Formula 1 Pirelli 2018 United States Grand Prix,Race,56,308.405,5.513
+2018,19,2018-10-28,Mexico,Mexico City,Formula 1 Gran Premio de Mexico 2018,Race,71,305.354,4.304
+2018,20,2018-11-11,Brazil,Interlagos,Formula 1 Grande Premio Heineken do Brasil 2018,Race,71,305.909,4.309
+2018,21,2018-11-25,Abu Dhabi,Yas Marina,Formula 1 2018 Etihad Airways Abu Dhabi Grand Prix,Race,55,305.355,5.554
+2019,1,2019-03-17,Australia,Melbourne,Formula 1 Rolex Australian Grand Prix 2019,Street,58,307.574,5.303
+2019,2,2019-03-31,Bahrain,Bahrain,Formula 1 Gulf Air Bahrain Grand Prix 2019,Race,57,308.238,5.412
+2019,3,2019-04-14,China,Shanghai,Formula 1 Heineken Chinese Grand Prix 2019,Race,56,305.066,5.451
+2019,4,2019-04-28,Azerbaijan,Baku,Formula 1 SOCAR Azerbaijan Grand Prix 2019,Street,51,306.049,6.003
+2019,5,2019-05-12,Spain,Catalunya,Formula 1 Emirates Gran Premio de Espana 2019,Race,66,307.104,4.655
+2019,6,2019-05-26,Monaco,Monaco,Formula 1 Grand Prix de Monaco 2019,Street,78,260.286,3.337
+2019,7,2019-06-09,Canada,Montreal,Formula 1 Pirelli Grand Prix du Canada 2019,Street,70,305.27,4.361
+2019,8,2019-06-23,France,Paul Ricard,Formula 1 Pirelli Grand Prix de France 2019,Race,53,309.69,5.842
+2019,9,2019-06-30,Austria,Spielberg,Formula 1 myWorld Grosser Preis von Osterreich 2019,Race,71,306.452,4.318
+2019,10,2019-07-14,Great Britain,Silverstone,Formula 1 Rolex British Grand Prix 2019,Race,52,306.198,5.891
+2019,11,2019-07-28,Germany,Hockenheimring,Formula 1 Mercedes-Benz Grosser Preis von Deutschland 2019,Race,64,292.736,4.574
+2019,12,2019-08-04,Hungary,Hungaroring,Formula 1 Rolex Magyar Nagydij 2019,Race,70,306.63,4.381
+2019,13,2019-09-01,Belgium,Spa-Francorchamps,Formula 1 Johnnie Walker Belgian Grand Prix 2019,Race,44,308.052,7.004
+2019,14,2019-09-08,Italy,Monza,Formula 1 Gran Premio Heineken d'Italia 2019,Race,53,306.72,5.793
+2019,15,2019-09-22,Singapore,Marina Bay,Formula 1 Singapore Airlines Singapore Grand Prix 2019,Street,61,308.706,5.063
+2019,16,2019-09-29,Russia,Sochi,Formula 1 VTB Russian Grand Prix 2019,Road,53,309.745,5.848
+2019,17,2019-10-13,Japan,Suzuka,Formula 1 Japanese Grand Prix 2019,Race,52,301.664,5.807
+2019,18,2019-10-27,Mexico,Mexico City,Formula 1 Gran Premio de Mexico 2019,Race,71,305.354,4.304
+2019,19,2019-11-03,United States,Austin,Formula 1 Emirates United States Grand Prix 2019,Race,56,308.405,5.513
+2019,20,2019-11-17,Brazil,Interlagos,Formula 1 Heineken Grande Premio do Brasil 2019,Race,71,305.909,4.309
+2019,21,2019-12-01,Abu Dhabi,Yas Marina,Formula 1 Etihad Airways Abu Dhabi Grand Prix 2019,Race,55,305.355,5.554
+2020,1,2020-07-05,Austria,Spielberg,Formula 1 Rolex Grosser Preis von Osterreich 2020,Race,71,306.452,4.318
+2020,2,2020-07-12,Styria,Spielberg,Formula 1 Pirelli Grosser Preis der Steiermark 2020,Race,71,306.452,4.318
+2020,3,2020-07-19,Hungary,Hungaroring,Formula 1 Aramco Magyar Nagydij 2020,Race,70,306.63,4.381
+2020,4,2020-08-02,Great Britain,Silverstone,Formula 1 Pirelli British Grand Prix 2020,Race,52,306.198,5.891
+2020,5,2020-08-09,70Th Anniversary,Silverstone,Emirates Formula 1 70th Anniversary Grand Prix 2020,Race,52,306.198,5.891
+2020,6,2020-08-16,Spain,Catalunya,Formula 1 Aramco Gran Premio de Espana 2020,Race,66,307.104,4.655
+2020,7,2020-08-30,Belgium,Spa-Francorchamps,Formula 1 Rolex Belgian Grand Prix 2020,Race,44,308.052,7.004
+2020,8,2020-09-06,Italy,Monza,Formula 1 Gran Premio Heineken d'Italia 2020,Race,53,306.72,5.793
+2020,9,2020-09-13,Tuscany,Mugello,Formula 1 Gran Premio Della Toscana Ferrari 1000 2020,Race,59,309.455,5.245
+2020,10,2020-09-27,Russia,Sochi,Formula 1 VTB Russian Grand Prix 2020,Road,53,309.745,5.848
+2020,11,2020-10-11,Eifel,Nurburgring,Formula 1 Aramco Grosser Preis der Eifel 2020,Race,60,308.623,5.148
+2020,12,2020-10-25,Portugal,Portimao,Formula 1 Heineken Grande Premio de Portugal 2020,Race,66,308.877,4.684
+2020,13,2020-11-01,Emilia-Romagna,Imola,Formula 1 Emirates Gran Premio dell'Emilia Romagna 2020,Race,63,309.05,4.909
+2020,14,2020-11-15,Turkey,Istanbul,Formula 1 DHL Turkish Grand Prix 2020,Race,58,309.396,5.338
+2020,15,2020-11-29,Bahrain,Bahrain,Formula 1 Gulf Air Bahrain Grand Prix 2020,Race,57,308.238,5.412
+2020,16,2020-12-06,Sakhir,Bahrain,Formula 1 Rolex Sakhir Grand Prix 2020,Race,87,307.995,3.543
+2020,17,2020-12-13,Abu Dhabi,Yas Marina,Formula 1 Etihad Airways Abu Dhabi Grand Prix 2020,Race,55,305.355,5.554
+2021,1,2021-03-28,Bahrain,Bahrain,Formula 1 Gulf Air Bahrain Grand Prix 2021,Race,57,308.238,5.412
+2021,2,2021-04-18,Emilia-Romagna,Imola,Formula 1 Pirelli Gran Premio del Made in Italy e dell'Emilia Romagna 2021,Race,63,309.05,4.909
+2021,3,2021-05-02,Portugal,Portimao,Formula 1 Heineken Grande Premio de Portugal 2021,Race,66,308.877,4.684
+2021,4,2021-05-09,Spain,Catalunya,Formula 1 Aramco Gran Premio de Espana 2021,Race,66,307.104,4.655
+2021,5,2021-05-23,Monaco,Monaco,Formula 1 Grand Prix de Monaco 2021,Street,78,260.286,3.337
+2021,6,2021-06-06,Azerbaijan,Baku,Formula 1 Azerbaijan Grand Prix 2021,Street,51,306.049,6.003
+2021,7,2021-06-20,France,Paul Ricard,Formula 1 Emirates Grand Prix de France 2021,Race,53,309.69,5.842
+2021,8,2021-06-27,Styria,Spielberg,Formula 1 BWT Grosser Preis der Steiermark 2021,Race,71,306.452,4.318
+2021,9,2021-07-04,Austria,Spielberg,Formula 1 BWT Grosser Preis von Osterreich 2021,Race,71,306.452,4.318
+2021,10,2021-07-18,Great Britain,Silverstone,Formula 1 Pirelli British Grand Prix 2021,Race,52,306.198,5.891
+2021,11,2021-08-01,Hungary,Hungaroring,Formula 1 Rolex Magyar Nagydij 2021,Race,70,306.63,4.381
+2021,12,2021-08-29,Belgium,Spa-Francorchamps,Formula 1 Rolex Belgian Grand Prix 2021,Race,1,6.88,7.004
+2021,13,2021-09-05,Netherlands,Zandvoort,Formula 1 Heineken Dutch Grand Prix 2021,Race,72,306.648,4.259
+2021,14,2021-09-12,Italy,Monza,Formula 1 Heineken Gran Premio d'Italia 2021,Race,53,306.72,5.793
+2021,15,2021-09-26,Russia,Sochi,Formula 1 VTB Russian Grand Prix 2021,Road,53,309.745,5.848
+2021,16,2021-10-03,Turkey,Istanbul,Formula 1 Rolex Turkish Grand Prix 2021,Race,58,309.396,5.338
+2021,17,2021-10-24,United States,Austin,Formula 1 Aramco United States Grand Prix 2021,Race,56,308.405,5.513
+2021,18,2021-11-07,Mexico,Mexico City,Formula 1 Gran Premio de la Ciudad de Mexico 2021,Race,71,305.354,4.304
+2021,19,2021-11-14,Sao Paulo,Interlagos,Formula 1 Heineken Grande Premio de Sao Paulo 2021,Race,71,305.909,4.309
+2021,20,2021-11-21,Qatar,Losail,Formula 1 Ooredoo Qatar Grand Prix 2021,Race,57,306.669,5.38
+2021,21,2021-12-05,Saudi Arabia,Jeddah,Formula 1 stc Saudi Arabian Grand Prix 2021,Street,50,308.45,6.174
+2021,22,2021-12-12,Abu Dhabi,Yas Marina,Formula 1 Etihad Airways Abu Dhabi Grand Prix 2021,Race,58,306.183,5.281
+2022,1,2022-03-20,Bahrain,Bahrain,Formula 1 Gulf Air Bahrain Grand Prix 2022,Race,57,308.238,5.412
+2022,2,2022-03-27,Saudi Arabia,Jeddah,Formula 1 stc Saudi Arabian Grand Prix 2022,Street,50,308.45,6.174
+2022,3,2022-04-10,Australia,Melbourne,Formula 1 Heineken Australian Grand Prix 2022,Street,58,307.574,5.303
+2022,4,2022-04-24,Emilia-Romagna,Imola,Formula 1 Rolex Gran Premio dell'Emilia Romagna 2022,Race,63,309.049,4.909
+2022,5,2022-05-08,Miami,Miami,Formula 1 Crypto.com Miami Grand Prix 2022,Street,57,308.37,5.41
+2022,6,2022-05-22,Spain,Catalunya,Formula 1 Pirelli Gran Premio de Espana 2022,Race,66,308.424,4.675
+2022,7,2022-05-29,Monaco,Monaco,Formula 1 Grand Prix de Monaco 2022,Street,64,213.568,3.337
+2022,8,2022-06-12,Azerbaijan,Baku,Formula 1 Azerbaijan Grand Prix 2022,Street,51,306.049,6.003
+2022,9,2022-06-19,Canada,Montreal,Formula 1 Grand Prix du Canada 2022,Street,70,305.27,4.361
+2022,10,2022-07-03,Great Britain,Silverstone,Formula 1 Lenovo British Grand Prix 2022,Race,52,306.198,5.891
+2022,11,2022-07-10,Austria,Spielberg,Formula 1 Grosser Preis von Osterreich 2022,Race,71,306.452,4.318
+2022,12,2022-07-24,France,Paul Ricard,Formula 1 Lenovo Grand Prix de France 2022,Race,53,309.69,5.842
+2022,13,2022-07-31,Hungary,Hungaroring,Formula 1 Aramco Magyar Nagydij 2022,Race,70,306.63,4.381
+2022,14,2022-08-28,Belgium,Spa-Francorchamps,Formula 1 Rolex Belgian Grand Prix 2022,Race,44,308.052,7.004
+2022,15,2022-09-04,Netherlands,Zandvoort,Formula 1 Heineken Dutch Grand Prix 2022,Race,72,306.587,4.259
+2022,16,2022-09-11,Italy,Monza,Formula 1 Pirelli Gran Premio d'Italia 2022,Race,53,306.72,5.793
+2022,17,2022-10-02,Singapore,Marina Bay,Formula 1 Singapore Airlines Singapore Grand Prix 2022,Street,59,298.58,5.063
+2022,18,2022-10-09,Japan,Suzuka,Formula 1 Honda Japanese Grand Prix 2022,Race,28,162.296,5.807
+2022,19,2022-10-23,United States,Austin,Formula 1 Aramco United States Grand Prix 2022,Race,56,308.405,5.513
+2022,20,2022-10-30,Mexico,Mexico City,Formula 1 Heineken Gran Premio de la Ciudad de Mexico 2022,Race,71,305.354,4.304
+2022,21,2022-11-13,Sao Paulo,Interlagos,Formula 1 Heineken Grande Premio de Sao Paulo 2022,Race,71,305.879,4.309
+2022,22,2022-11-20,Abu Dhabi,Yas Marina,Formula 1 Etihad Airways Abu Dhabi Grand Prix 2022,Race,58,306.183,5.281
+2023,1,2023-03-05,Bahrain,Bahrain,Formula 1 Gulf Air Bahrain Grand Prix 2023,Race,57,308.238,5.412
+2023,2,2023-03-19,Saudi Arabia,Jeddah,Formula 1 stc Saudi Arabian Grand Prix 2023,Street,50,308.45,6.174
+2023,3,2023-04-02,Australia,Melbourne,Formula 1 Rolex Australian Grand Prix 2023,Street,58,307.574,5.303
+2023,4,2023-04-30,Azerbaijan,Baku,Formula 1 Azerbaijan Grand Prix 2023,Street,51,306.049,6.003
+2023,5,2023-05-07,Miami,Miami,Formula 1 Crypto.com Miami Grand Prix 2023,Street,57,308.37,5.41
+2023,6,2023-05-28,Monaco,Monaco,Formula 1 Grand Prix de Monaco 2023,Street,78,260.286,3.337
+2023,7,2023-06-04,Spain,Catalunya,Formula 1 AWS Gran Premio de Espana 2023,Race,66,308.424,4.675
+2023,8,2023-06-18,Canada,Montreal,Formula 1 Pirelli Grand Prix du Canada 2023,Street,70,305.27,4.361
+2023,9,2023-07-02,Austria,Spielberg,Formula 1 Rolex Grosser Preis von Osterreich 2023,Race,71,306.452,4.318
+2023,10,2023-07-09,Great Britain,Silverstone,Formula 1 Aramco British Grand Prix 2023,Race,52,306.198,5.891
+2023,11,2023-07-23,Hungary,Hungaroring,Formula 1 Qatar Airways Hungarian Grand Prix 2023,Race,70,306.63,4.381
+2023,12,2023-07-30,Belgium,Spa-Francorchamps,Formula 1 MSC Cruises Belgian Grand Prix 2023,Race,44,308.052,7.004
+2023,13,2023-08-27,Netherlands,Zandvoort,Formula 1 Heineken Dutch Grand Prix 2023,Race,72,306.587,4.259
+2023,14,2023-09-03,Italy,Monza,Formula 1 Pirelli Gran Premio d'Italia 2023,Race,51,295.134,5.793
+2023,15,2023-09-17,Singapore,Marina Bay,Formula 1 Singapore Airlines Singapore Grand Prix 2023,Street,62,306.143,4.94
+2023,16,2023-09-24,Japan,Suzuka,Formula 1 Lenovo Japanese Grand Prix 2023,Race,53,307.471,5.807
+2023,17,2023-10-08,Qatar,Losail,Formula 1 Qatar Airways Qatar Grand Prix 2023,Race,57,306.669,5.38
+2023,18,2023-10-22,United States,Austin,Formula 1 Lenovo United States Grand Prix 2023,Race,56,308.405,5.513
+2023,19,2023-10-29,Mexico,Mexico City,Formula 1 Gran Premio de la Ciudad de Mexico 2023,Race,71,305.354,4.304
+2023,20,2023-11-05,Sao Paulo,Interlagos,Formula 1 Rolex Grande Premio de Sao Paulo 2023,Race,71,305.879,4.309
+2023,21,2023-11-18,Las Vegas,Las Vegas,Formula 1 Heineken Silver Las Vegas Grand Prix 2023,Street,50,305.8,6.116
+2023,22,2023-11-26,Abu Dhabi,Yas Marina,Formula 1 Etihad Airways Abu Dhabi Grand Prix 2023,Race,58,306.183,5.281
+2024,1,2024-03-02,Bahrain,Bahrain,Formula 1 Gulf Air Bahrain Grand Prix 2024,Race,57,308.238,5.412
+2024,2,2024-03-09,Saudi Arabia,Jeddah,Formula 1 stc Saudi Arabian Grand Prix 2024,Street,50,308.45,6.174
+2024,3,2024-03-24,Australia,Melbourne,Formula 1 Rolex Australian Grand Prix 2024,Street,58,306.124,5.278
+2024,4,2024-04-07,Japan,Suzuka,Formula 1 MSC Cruises Japanese Grand Prix 2024,Race,53,307.471,5.807
+2024,5,2024-04-21,China,Shanghai,Formula 1 Lenovo Chinese Grand Prix 2024,Race,56,305.066,5.451
+2024,6,2024-05-05,Miami,Miami,Formula 1 Crypto.com Miami Grand Prix 2024,Street,57,308.326,5.412
+2024,7,2024-05-19,Emilia-Romagna,Imola,Formula 1 MSC Cruises Gran Premio dell'Emilia Romagna 2024,Race,63,309.049,4.909
+2024,8,2024-05-26,Monaco,Monaco,Formula 1 Grand Prix de Monaco 2024,Street,78,260.286,3.337
+2024,9,2024-06-09,Canada,Montreal,Formula 1 Grand Prix du Canada 2024,Street,70,305.27,4.361
+2024,10,2024-06-23,Spain,Catalunya,Formula 1 Aramco Gran Premio de Espana 2024,Race,66,307.236,4.657
+2024,11,2024-06-30,Austria,Spielberg,Formula 1 Qatar Airways Austrian Grand Prix 2024,Race,71,306.452,4.318
+2024,12,2024-07-07,Great Britain,Silverstone,Formula 1 Qatar Airways British Grand Prix 2024,Race,52,306.198,5.891
+2024,13,2024-07-21,Hungary,Hungaroring,Formula 1 Hungarian Grand Prix 2024,Race,70,306.63,4.381
+2024,14,2024-07-28,Belgium,Spa-Francorchamps,Formula 1 Rolex Belgian Grand Prix 2024,Race,44,308.052,7.004
+2024,15,2024-08-25,Netherlands,Zandvoort,Formula 1 Heineken Dutch Grand Prix 2024,Race,72,306.587,4.259
+2024,16,2024-09-01,Italy,Monza,Formula 1 Pirelli Gran Premio d'Italia 2024,Race,53,306.72,5.793
+2024,17,2024-09-15,Azerbaijan,Baku,Formula 1 Qatar Airways Azerbaijan Grand Prix 2024,Street,51,306.049,6.003
+2024,18,2024-09-22,Singapore,Marina Bay,Formula 1 Singapore Airlines Singapore Grand Prix 2024,Street,62,306.143,4.94
+2024,19,2024-10-20,United States,Austin,Formula 1 Pirelli United States Grand Prix 2024,Race,56,308.405,5.513
+2024,20,2024-10-27,Mexico,Mexico City,Formula 1 Gran Premio de la Ciudad de Mexico 2024,Race,71,305.354,4.304
+2024,21,2024-11-03,Sao Paulo,Interlagos,Formula 1 Lenovo Grande Premio de Sao Paulo 2024,Race,69,297.261,4.309
+2024,22,2024-11-24,Las Vegas,Las Vegas,Formula 1 Heineken Silver Las Vegas Grand Prix 2024,Street,50,309.958,6.201
+2024,23,2024-12-01,Qatar,Losail,Formula 1 Qatar Airways Qatar Grand Prix 2024,Race,57,308.611,5.419
+2024,24,2024-12-08,Abu Dhabi,Yas Marina,Formula 1 Etihad Airways Abu Dhabi Grand Prix 2024,Race,58,306.183,5.281

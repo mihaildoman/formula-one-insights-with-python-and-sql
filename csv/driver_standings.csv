@@ -1,0 +1,1636 @@
+Season,Position,Driver,Country,Constructor,Points
+1950,1.0,Nino Farina,Italy,Alfa Romeo,30.0
+1950,2.0,Juan Manuel Fangio,Argentina,Alfa Romeo,27.0
+1950,3.0,Luigi Fagioli,Italy,Alfa Romeo,24.0
+1950,4.0,Louis Rosier,France,Talbot-Lago,13.0
+1950,5.0,Alberto Ascari,Italy,,11.0
+1950,6.0,Johnnie Parsons,United States of America,Kurtis Kraft,9.0
+1950,7.0,Bill Holland,United States of America,Deidt,6.0
+1950,8.0,Prince Bira,Thailand,Maserati,5.0
+1950,9.0,Reg Parnell,United Kingdom,Maserati,4.0
+1950,9.0,Louis Chiron,Monaco,Maserati,4.0
+1950,9.0,Mauri Rose,United States of America,Deidt,4.0
+1950,9.0,Peter Whitehead,United Kingdom,Ferrari,4.0
+1950,13.0,Yves Giraud-Cabantous,France,Talbot-Lago,3.0
+1950,13.0,Raymond Sommer,France,Talbot-Lago,3.0
+1950,13.0,Cecil Green,United States of America,Kurtis Kraft,3.0
+1950,13.0,Robert Manzon,France,Simca-Gordini,3.0
+1950,13.0,Dorino Serafini,Italy,,3.0
+1950,13.0,Philippe Etancelin,France,,3.0
+1950,19.0,Felice Bonetto,Italy,Milano,2.0
+1950,20.0,Tony Bettenhausen,United States of America,Deidt,1.0
+1950,20.0,Joie Chitwood,United States of America,Kurtis Kraft,1.0
+1950,20.0,Eugene Chaboud,France,,1.0
+1951,1.0,Juan Manuel Fangio,Argentina,Alfa Romeo,31.0
+1951,2.0,Alberto Ascari,Italy,Ferrari,25.0
+1951,3.0,Jose Froilan Gonzalez,Argentina,,24.0
+1951,4.0,Nino Farina,Italy,Alfa Romeo,19.0
+1951,5.0,Luigi Villoresi,Italy,Ferrari,15.0
+1951,6.0,Piero Taruffi,Italy,Ferrari,10.0
+1951,7.0,Lee Wallard,United States of America,Kurtis Kraft,9.0
+1951,8.0,Felice Bonetto,Italy,Alfa Romeo,7.0
+1951,9.0,Mike Nazaruk,United States of America,Kurtis Kraft,6.0
+1951,10.0,Reg Parnell,United Kingdom,BRM,5.0
+1951,11.0,Luigi Fagioli,Italy,Alfa Romeo,4.0
+1951,12.0,Consalvo Sanesi,Italy,Alfa Romeo,3.0
+1951,12.0,Andy Linden,United States of America,Sherman,3.0
+1951,12.0,Louis Rosier,France,,3.0
+1951,15.0,Toulo de Graffenried,Switzerland,Alfa Romeo,2.0
+1951,15.0,Manny Ayulo,United States of America,Kurtis Kraft,2.0
+1951,15.0,Bobby Ball,United States of America,Schroeder,2.0
+1951,15.0,Jack McGrath,United States of America,Kurtis Kraft,2.0
+1951,15.0,Yves Giraud-Cabantous,France,,2.0
+1952,1.0,Alberto Ascari,Italy,Ferrari,36.0
+1952,2.0,Nino Farina,Italy,Ferrari,24.0
+1952,3.0,Piero Taruffi,Italy,Ferrari,22.0
+1952,4.0,Rudi Fischer,Switzerland,Ferrari,10.0
+1952,4.0,Mike Hawthorn,United Kingdom,Cooper,10.0
+1952,6.0,Robert Manzon,France,Gordini,9.0
+1952,7.0,Troy Ruttman,United States of America,Kuzma,8.0
+1952,7.0,Luigi Villoresi,Italy,Ferrari,8.0
+1952,9.0,Jose Froilan Gonzalez,Argentina,Maserati,6.5
+1952,10.0,Jim Rathmann,United States of America,Kurtis Kraft,6.0
+1952,10.0,Jean Behra,France,Gordini,6.0
+1952,12.0,Sam Hanks,United States of America,Kurtis Kraft,4.0
+1952,13.0,Ken Wharton,United Kingdom,,3.0
+1952,13.0,Duane Carter,United States of America,Lesovsky,3.0
+1952,13.0,Dennis Poore,United Kingdom,Connaught,3.0
+1952,16.0,Alan Brown,United Kingdom,Cooper,2.0
+1952,16.0,Art Cross,United States of America,Kurtis Kraft,2.0
+1952,16.0,Paul Frere,Belgium,Simca-Gordini,2.0
+1952,16.0,Maurice Trintignant,France,Gordini,2.0
+1952,16.0,Eric Thompson,United Kingdom,Connaught,2.0
+1952,16.0,Felice Bonetto,Italy,Maserati,2.0
+1952,22.0,Bill Vukovich,United States of America,Kurtis Kraft,1.0
+1953,1.0,Alberto Ascari,Italy,Ferrari,34.5
+1953,2.0,Juan Manuel Fangio,Argentina,Maserati,27.5
+1953,3.0,Nino Farina,Italy,Ferrari,26.0
+1953,4.0,Mike Hawthorn,United Kingdom,Ferrari,19.0
+1953,5.0,Luigi Villoresi,Italy,Ferrari,17.0
+1953,6.0,Jose Froilan Gonzalez,Argentina,Maserati,13.5
+1953,7.0,Bill Vukovich,United States of America,Kurtis Kraft,9.0
+1953,8.0,Toulo de Graffenried,Switzerland,Maserati,7.0
+1953,9.0,Felice Bonetto,Italy,Maserati,6.5
+1953,10.0,Art Cross,United States of America,Kurtis Kraft,6.0
+1953,11.0,Onofre Marimon,Argentina,Maserati,4.0
+1953,11.0,Maurice Trintignant,France,Gordini,4.0
+1953,13.0,Oscar Alfredo Galvez,Argentina,Maserati,2.0
+1953,13.0,Sam Hanks,United States of America,Kurtis Kraft,2.0
+1953,13.0,Duane Carter,United States of America,Kurtis Kraft,2.0
+1953,13.0,Jack McGrath,United States of America,Kurtis Kraft,2.0
+1953,13.0,Hermann Lang,Germany,Maserati,2.0
+1953,18.0,Fred Agabashian,United States of America,Kurtis Kraft,1.5
+1953,18.0,Paul Russo,United States of America,Kurtis Kraft,1.5
+1954,1.0,Juan Manuel Fangio,Argentina,Mercedes,42.0
+1954,2.0,Jose Froilan Gonzalez,Argentina,Ferrari,25.1
+1954,3.0,Mike Hawthorn,United Kingdom,Ferrari,24.6
+1954,4.0,Maurice Trintignant,France,Ferrari,17.0
+1954,5.0,Karl Kling,Germany,Mercedes,12.0
+1954,6.0,Bill Vukovich,United States of America,Kurtis Kraft,8.0
+1954,6.0,Hans Herrmann,Germany,Mercedes,8.0
+1954,8.0,Nino Farina,Italy,Ferrari,6.0
+1954,8.0,Jimmy Bryan,United States of America,Kuzma,6.0
+1954,8.0,Luigi Musso,Italy,Maserati,6.0
+1954,8.0,Roberto Mieres,Argentina,Maserati,6.0
+1954,12.0,Jack McGrath,United States of America,Kurtis Kraft,5.0
+1954,13.0,Stirling Moss,United Kingdom,Maserati,4.1
+1954,13.0,Onofre Marimon,Argentina,Maserati,4.1
+1954,15.0,Robert Manzon,France,Ferrari,4.0
+1954,15.0,Sergio Mantovani,Italy,Maserati,4.0
+1954,17.0,Prince Bira,Thailand,Maserati,3.0
+1954,18.0,Elie Bayol,France,Gordini,2.0
+1954,18.0,Mike Nazaruk,United States of America,Kurtis Kraft,2.0
+1954,18.0,Andre Pilette,Belgium,Gordini,2.0
+1954,18.0,Luigi Villoresi,Italy,Lancia,2.0
+1954,18.0,Umberto Maglioli,Italy,Ferrari,2.0
+1954,23.0,Troy Ruttman,United States of America,Kurtis Kraft,1.5
+1954,23.0,Duane Carter,United States of America,Kurtis Kraft,1.5
+1954,25.0,Alberto Ascari,Italy,Lancia,1.1
+1954,26.0,Jean Behra,France,Gordini,0.1
+1955,1.0,Juan Manuel Fangio,Argentina,Mercedes,40.0
+1955,2.0,Stirling Moss,United Kingdom,Mercedes,23.0
+1955,3.0,Eugenio Castellotti,Italy,Ferrari,12.0
+1955,4.0,Maurice Trintignant,France,Ferrari,11.3
+1955,5.0,Nino Farina,Italy,Ferrari,10.3
+1955,6.0,Piero Taruffi,Italy,Mercedes,9.0
+1955,7.0,Bob Sweikert,United States of America,Kurtis Kraft,8.0
+1955,8.0,Roberto Mieres,Argentina,Maserati,7.0
+1955,9.0,Luigi Musso,Italy,Maserati,6.0
+1955,9.0,Jean Behra,France,Maserati,6.0
+1955,11.0,Karl Kling,Germany,Mercedes,5.0
+1955,12.0,Jimmy Davies,United States of America,Kurtis Kraft,4.0
+1955,13.0,Paul Russo,United States of America,Kurtis Kraft,3.0
+1955,13.0,Tony Bettenhausen,United States of America,Kurtis Kraft,3.0
+1955,13.0,Johnny Thomson,United States of America,Kuzma,3.0
+1955,13.0,Paul Frere,Belgium,Ferrari,3.0
+1955,17.0,Jose Froilan Gonzalez,Argentina,Ferrari,2.0
+1955,17.0,Cesare Perdisa,Italy,Maserati,2.0
+1955,17.0,Luigi Villoresi,Italy,Lancia,2.0
+1955,17.0,Carlos Menditeguy,Argentina,Maserati,2.0
+1955,21.0,Umberto Maglioli,Italy,Ferrari,1.3
+1955,22.0,Hans Herrmann,Germany,Mercedes,1.0
+1955,22.0,Walt Faulkner,United States of America,Kurtis Kraft,1.0
+1955,22.0,Bill Homeier,United States of America,Kurtis Kraft,1.0
+1955,22.0,Bill Vukovich,United States of America,Kurtis Kraft,1.0
+1956,1.0,Juan Manuel Fangio,Argentina,Ferrari,30.0
+1956,2.0,Stirling Moss,United Kingdom,Maserati,27.0
+1956,3.0,Peter Collins,United Kingdom,Ferrari,25.0
+1956,4.0,Jean Behra,France,Maserati,22.0
+1956,5.0,Pat Flaherty,United States of America,Watson,8.0
+1956,6.0,Eugenio Castellotti,Italy,Ferrari,7.5
+1956,7.0,Sam Hanks,United States of America,Kurtis Kraft,6.0
+1956,7.0,Paul Frere,Belgium,Ferrari,6.0
+1956,7.0,Paco Godia,Spain,Maserati,6.0
+1956,10.0,Jack Fairman,United Kingdom,Connaught,5.0
+1956,11.0,Mike Hawthorn,United Kingdom,BRM,4.0
+1956,11.0,Luigi Musso,Italy,Ferrari,4.0
+1956,11.0,Don Freeland,United States of America,Phillips,4.0
+1956,11.0,Ron Flockhart,United Kingdom,Connaught,4.0
+1956,15.0,Johnnie Parsons,United States of America,Kuzma,3.0
+1956,15.0,Harry Schell,United States of America,Vanwall,3.0
+1956,15.0,Alfonso de Portago,Spain,Ferrari,3.0
+1956,15.0,Cesare Perdisa,Italy,Maserati,3.0
+1956,19.0,Olivier Gendebien,Belgium,Ferrari,2.0
+1956,19.0,Hermano da Silva Ramos,Brazil,Gordini,2.0
+1956,19.0,Dick Rathmann,United States of America,Kurtis Kraft,2.0
+1956,19.0,Luigi Villoresi,Italy,Maserati,2.0
+1956,19.0,Horace Gould,United Kingdom,Maserati,2.0
+1956,19.0,Louis Rosier,France,Maserati,2.0
+1956,25.0,Gerino Gerini,Italy,Maserati,1.5
+1956,25.0,Chico Landi,Brazil,Maserati,1.5
+1956,27.0,Paul Russo,United States of America,Kurtis Kraft,1.0
+1957,1.0,Juan Manuel Fangio,Argentina,Maserati,40.0
+1957,2.0,Stirling Moss,United Kingdom,Vanwall,25.0
+1957,3.0,Luigi Musso,Italy,Ferrari,16.0
+1957,4.0,Mike Hawthorn,United Kingdom,Ferrari,13.0
+1957,5.0,Tony Brooks,United Kingdom,Vanwall,11.0
+1957,6.0,Masten Gregory,United States of America,Maserati,10.0
+1957,6.0,Harry Schell,United States of America,Maserati,10.0
+1957,8.0,Sam Hanks,United States of America,Epperly,8.0
+1957,8.0,Peter Collins,United Kingdom,Ferrari,8.0
+1957,10.0,Jim Rathmann,United States of America,Epperly,7.0
+1957,11.0,Jean Behra,France,Maserati,6.0
+1957,12.0,Stuart Lewis-Evans,United Kingdom,Vanwall,5.0
+1957,12.0,Maurice Trintignant,France,Ferrari,5.0
+1957,14.0,Carlos Menditeguy,Argentina,Maserati,4.0
+1957,14.0,Jimmy Bryan,United States of America,Kuzma,4.0
+1957,14.0,Wolfgang von Trips,Germany,Ferrari,4.0
+1957,17.0,Paul Russo,United States of America,Kurtis Kraft,3.0
+1957,18.0,Andy Linden,United States of America,Kurtis Kraft,2.0
+1957,18.0,Roy Salvadori,United Kingdom,Cooper,2.0
+1957,20.0,Alfonso de Portago,Spain,Ferrari,1.0
+1957,20.0,Jose Froilan Gonzalez,Argentina,Ferrari,1.0
+1957,20.0,Giorgio Scarlatti,Italy,Maserati,1.0
+1958,1.0,Mike Hawthorn,United Kingdom,Ferrari,42.0
+1958,2.0,Stirling Moss,United Kingdom,Vanwall,41.0
+1958,3.0,Tony Brooks,United Kingdom,Vanwall,24.0
+1958,4.0,Roy Salvadori,United Kingdom,Cooper,15.0
+1958,5.0,Peter Collins,United Kingdom,Ferrari,14.0
+1958,5.0,Harry Schell,United States of America,BRM,14.0
+1958,7.0,Maurice Trintignant,France,Cooper,12.0
+1958,7.0,Luigi Musso,Italy,Ferrari,12.0
+1958,9.0,Stuart Lewis-Evans,United Kingdom,Vanwall,11.0
+1958,10.0,Phil Hill,United States of America,Ferrari,9.0
+1958,10.0,Jean Behra,France,BRM,9.0
+1958,10.0,Wolfgang von Trips,Germany,Ferrari,9.0
+1958,13.0,Jimmy Bryan,United States of America,Epperly,8.0
+1958,14.0,Juan Manuel Fangio,Argentina,Maserati,7.0
+1958,15.0,George Amick,United States of America,Epperly,6.0
+1958,16.0,Tony Bettenhausen,United States of America,Epperly,4.0
+1958,16.0,Johnny Boyd,United States of America,Kurtis Kraft,4.0
+1958,18.0,Jack Brabham,Australia,Cooper,3.0
+1958,18.0,Cliff Allison,United Kingdom,Lotus,3.0
+1958,18.0,Jo Bonnier,Sweden,BRM,3.0
+1958,21.0,Jim Rathmann,United States of America,Epperly,2.0
+1959,1.0,Jack Brabham,Australia,Cooper,31.0
+1959,2.0,Tony Brooks,United Kingdom,Ferrari,27.0
+1959,3.0,Stirling Moss,United Kingdom,Cooper,25.5
+1959,4.0,Phil Hill,United States of America,Ferrari,20.0
+1959,5.0,Maurice Trintignant,France,Cooper,19.0
+1959,6.0,Bruce McLaren,New Zealand,Cooper,16.5
+1959,7.0,Dan Gurney,United States of America,Ferrari,13.0
+1959,8.0,Jo Bonnier,Sweden,BRM,10.0
+1959,8.0,Masten Gregory,United States of America,Cooper,10.0
+1959,10.0,Rodger Ward,United States of America,Kurtis Kraft,8.0
+1959,11.0,Jim Rathmann,United States of America,Watson,6.0
+1959,12.0,Johnny Thomson,United States of America,Lesovsky,5.0
+1959,12.0,Innes Ireland,United Kingdom,Lotus,5.0
+1959,12.0,Harry Schell,United States of America,Cooper,5.0
+1959,15.0,Tony Bettenhausen,United States of America,Epperly,3.0
+1959,15.0,Olivier Gendebien,Belgium,Ferrari,3.0
+1959,17.0,Paul Goldsmith,United States of America,Epperly,2.0
+1959,17.0,Jean Behra,France,Ferrari,2.0
+1959,17.0,Cliff Allison,United Kingdom,Ferrari,2.0
+1960,1.0,Jack Brabham,Australia,Cooper,43.0
+1960,2.0,Bruce McLaren,New Zealand,Cooper,34.0
+1960,3.0,Stirling Moss,United Kingdom,Lotus,19.0
+1960,4.0,Innes Ireland,United Kingdom,Lotus,18.0
+1960,5.0,Phil Hill,United States of America,Cooper,16.0
+1960,6.0,Olivier Gendebien,Belgium,Cooper,10.0
+1960,6.0,Wolfgang von Trips,Germany,Cooper,10.0
+1960,8.0,Jim Rathmann,United States of America,Watson,8.0
+1960,8.0,Richie Ginther,United States of America,Ferrari,8.0
+1960,8.0,Jim Clark,United Kingdom,Lotus,8.0
+1960,11.0,Tony Brooks,United Kingdom,Cooper,7.0
+1960,12.0,Cliff Allison,United Kingdom,Ferrari,6.0
+1960,12.0,Rodger Ward,United States of America,Watson,6.0
+1960,12.0,John Surtees,United Kingdom,Lotus,6.0
+1960,15.0,Paul Goldsmith,United States of America,Epperly,4.0
+1960,15.0,Graham Hill,United Kingdom,BRM,4.0
+1960,15.0,Willy Mairesse,Belgium,Ferrari,4.0
+1960,15.0,Jo Bonnier,Sweden,BRM,4.0
+1960,19.0,Carlos Menditeguy,Argentina,Cooper,3.0
+1960,19.0,Don Branson,United States of America,Phillips,3.0
+1960,19.0,Henry Taylor,United Kingdom,Cooper,3.0
+1960,19.0,Giulio Cabianca,Italy,Cooper,3.0
+1960,23.0,Johnny Thomson,United States of America,Lesovsky,2.0
+1960,24.0,Eddie Johnson,United States of America,Trevis,1.0
+1960,24.0,Lucien Bianchi,Belgium,Cooper,1.0
+1960,24.0,Ron Flockhart,United Kingdom,Cooper,1.0
+1960,24.0,Hans Herrmann,Germany,Porsche,1.0
+1961,1.0,Phil Hill,United States of America,Ferrari,34.0
+1961,2.0,Wolfgang von Trips,Germany,Ferrari,33.0
+1961,3.0,Stirling Moss,United Kingdom,Lotus,21.0
+1961,3.0,Dan Gurney,United States of America,Porsche,21.0
+1961,5.0,Richie Ginther,United States of America,Ferrari,16.0
+1961,6.0,Innes Ireland,United Kingdom,Lotus,12.0
+1961,7.0,Jim Clark,United Kingdom,Lotus,11.0
+1961,7.0,Bruce McLaren,New Zealand,Cooper,11.0
+1961,9.0,Giancarlo Baghetti,Italy,Ferrari,9.0
+1961,10.0,Tony Brooks,United Kingdom,BRM,6.0
+1961,11.0,Jack Brabham,Australia,Cooper,4.0
+1961,11.0,John Surtees,United Kingdom,Cooper,4.0
+1961,13.0,Olivier Gendebien,Belgium,Lotus,3.0
+1961,13.0,Jackie Lewis,United Kingdom,Cooper,3.0
+1961,13.0,Jo Bonnier,Sweden,Porsche,3.0
+1961,13.0,Graham Hill,United Kingdom,BRM,3.0
+1961,17.0,Roy Salvadori,United Kingdom,Cooper,2.0
+1962,1.0,Graham Hill,United Kingdom,BRM,42.0
+1962,2.0,Jim Clark,United Kingdom,Lotus,30.0
+1962,3.0,Bruce McLaren,New Zealand,Cooper,27.0
+1962,4.0,John Surtees,United Kingdom,Lola,19.0
+1962,5.0,Dan Gurney,United States of America,Porsche,15.0
+1962,6.0,Phil Hill,United States of America,Ferrari,14.0
+1962,7.0,Tony Maggs,South Africa,Cooper,13.0
+1962,8.0,Richie Ginther,United States of America,BRM,10.0
+1962,9.0,Jack Brabham,Australia,Brabham,9.0
+1962,10.0,Trevor Taylor,United Kingdom,Lotus,6.0
+1962,11.0,Giancarlo Baghetti,Italy,Ferrari,5.0
+1962,12.0,Lorenzo Bandini,Italy,Ferrari,4.0
+1962,12.0,Ricardo Rodriguez,Mexico,Ferrari,4.0
+1962,14.0,Willy Mairesse,Belgium,Ferrari,3.0
+1962,14.0,Jo Bonnier,Sweden,Porsche,3.0
+1962,16.0,Innes Ireland,United Kingdom,Lotus,2.0
+1962,16.0,Carel Godin de Beaufort,Netherlands,Porsche,2.0
+1962,18.0,Masten Gregory,United States of America,Lotus,1.0
+1962,18.0,Neville Lederle,South Africa,Lotus,1.0
+1963,1.0,Jim Clark,United Kingdom,Lotus,54.0
+1963,2.0,Graham Hill,United Kingdom,BRM,29.0
+1963,2.0,Richie Ginther,United States of America,BRM,29.0
+1963,4.0,John Surtees,United Kingdom,Ferrari,22.0
+1963,5.0,Dan Gurney,United States of America,Brabham,19.0
+1963,6.0,Bruce McLaren,New Zealand,Cooper,17.0
+1963,7.0,Jack Brabham,Australia,Brabham,14.0
+1963,8.0,Tony Maggs,South Africa,Cooper,9.0
+1963,9.0,Innes Ireland,United Kingdom,BRP,6.0
+1963,9.0,Lorenzo Bandini,Italy,Ferrari,6.0
+1963,9.0,Jo Bonnier,Sweden,Cooper,6.0
+1963,12.0,Gerhard Mitter,Germany,Porsche,3.0
+1963,12.0,Jim Hall,United States of America,Lotus,3.0
+1963,14.0,Carel Godin de Beaufort,Netherlands,Porsche,2.0
+1963,15.0,Trevor Taylor,United Kingdom,Lotus,1.0
+1963,15.0,Ludovico Scarfiotti,Italy,Ferrari,1.0
+1963,15.0,Jo Siffert,Switzerland,Lotus,1.0
+1964,1.0,John Surtees,United Kingdom,Ferrari,40.0
+1964,2.0,Graham Hill,United Kingdom,BRM,39.0
+1964,3.0,Jim Clark,United Kingdom,Lotus,32.0
+1964,4.0,Lorenzo Bandini,Italy,Ferrari,23.0
+1964,4.0,Richie Ginther,United States of America,BRM,23.0
+1964,6.0,Dan Gurney,United States of America,Brabham,19.0
+1964,7.0,Bruce McLaren,New Zealand,Cooper,13.0
+1964,8.0,Peter Arundell,United Kingdom,Lotus,11.0
+1964,8.0,Jack Brabham,Australia,Brabham,11.0
+1964,10.0,Jo Siffert,Switzerland,Brabham,7.0
+1964,11.0,Bob Anderson,United Kingdom,Brabham,5.0
+1964,12.0,Tony Maggs,South Africa,BRM,4.0
+1964,12.0,Mike Spence,United Kingdom,Lotus,4.0
+1964,12.0,Innes Ireland,United Kingdom,BRP,4.0
+1964,15.0,Jo Bonnier,Sweden,Brabham,3.0
+1964,16.0,Chris Amon,New Zealand,Lotus,2.0
+1964,16.0,Maurice Trintignant,France,BRM,2.0
+1964,16.0,Walt Hansgen,United States of America,Lotus,2.0
+1964,19.0,Mike Hailwood,United Kingdom,Lotus,1.0
+1964,19.0,Phil Hill,United States of America,Cooper,1.0
+1964,19.0,Trevor Taylor,United Kingdom,BRP,1.0
+1964,19.0,Pedro Rodriguez,Mexico,Ferrari,1.0
+1965,1.0,Jim Clark,United Kingdom,Lotus,54.0
+1965,2.0,Graham Hill,United Kingdom,BRM,40.0
+1965,3.0,Jackie Stewart,United Kingdom,BRM,33.0
+1965,4.0,Dan Gurney,United States of America,Brabham,25.0
+1965,5.0,John Surtees,United Kingdom,Ferrari,17.0
+1965,6.0,Lorenzo Bandini,Italy,Ferrari,13.0
+1965,7.0,Richie Ginther,United States of America,Honda,11.0
+1965,8.0,Mike Spence,United Kingdom,Lotus,10.0
+1965,8.0,Bruce McLaren,New Zealand,Cooper,10.0
+1965,10.0,Jack Brabham,Australia,Brabham,9.0
+1965,11.0,Denny Hulme,New Zealand,Brabham,5.0
+1965,11.0,Jo Siffert,Switzerland,Brabham,5.0
+1965,13.0,Jochen Rindt,Austria,Cooper,4.0
+1965,14.0,Pedro Rodriguez,Mexico,Ferrari,2.0
+1965,14.0,Ronnie Bucknum,United States of America,Honda,2.0
+1965,14.0,Richard Attwood,United Kingdom,Lotus,2.0
+1966,1.0,Jack Brabham,Australia,Brabham,42.0
+1966,2.0,John Surtees,United Kingdom,Cooper,28.0
+1966,3.0,Jochen Rindt,Austria,Cooper,22.0
+1966,4.0,Denny Hulme,New Zealand,Brabham,18.0
+1966,5.0,Graham Hill,United Kingdom,BRM,17.0
+1966,6.0,Jim Clark,United Kingdom,Lotus,16.0
+1966,7.0,Jackie Stewart,United Kingdom,BRM,14.0
+1966,8.0,Mike Parkes,United Kingdom,Ferrari,12.0
+1966,8.0,Lorenzo Bandini,Italy,Ferrari,12.0
+1966,10.0,Ludovico Scarfiotti,Italy,Ferrari,9.0
+1966,11.0,Richie Ginther,United States of America,Honda,5.0
+1966,12.0,Dan Gurney,United States of America,Eagle,4.0
+1966,12.0,Mike Spence,United Kingdom,Lotus,4.0
+1966,14.0,Bob Bondurant,United States of America,Eagle,3.0
+1966,14.0,Jo Siffert,Switzerland,Cooper,3.0
+1966,14.0,Bruce McLaren,New Zealand,McLaren,3.0
+1966,17.0,John Taylor,United Kingdom,Brabham,1.0
+1966,17.0,Bob Anderson,United Kingdom,Brabham,1.0
+1966,17.0,Peter Arundell,United Kingdom,Lotus,1.0
+1966,17.0,Jo Bonnier,Sweden,Cooper,1.0
+1967,1.0,Denny Hulme,New Zealand,Brabham,51.0
+1967,2.0,Jack Brabham,Australia,Brabham,46.0
+1967,3.0,Jim Clark,United Kingdom,Lotus,41.0
+1967,4.0,John Surtees,United Kingdom,Honda,20.0
+1967,4.0,Chris Amon,New Zealand,Ferrari,20.0
+1967,6.0,Pedro Rodriguez,Mexico,Cooper,15.0
+1967,6.0,Graham Hill,United Kingdom,Lotus,15.0
+1967,8.0,Dan Gurney,United States of America,Eagle,13.0
+1967,9.0,Jackie Stewart,United Kingdom,BRM,10.0
+1967,10.0,Mike Spence,United Kingdom,BRM,9.0
+1967,11.0,John Love,Rhodesia,Cooper,6.0
+1967,11.0,Jochen Rindt,Austria,Cooper,6.0
+1967,11.0,Jo Siffert,Switzerland,Cooper,6.0
+1967,14.0,Bruce McLaren,New Zealand,McLaren,3.0
+1967,14.0,Jo Bonnier,Sweden,Cooper,3.0
+1967,16.0,Bob Anderson,United Kingdom,Brabham,2.0
+1967,16.0,Mike Parkes,United Kingdom,Ferrari,2.0
+1967,16.0,Chris Irwin,United Kingdom,BRM,2.0
+1967,19.0,Ludovico Scarfiotti,Italy,Eagle,1.0
+1967,19.0,Guy Ligier,France,Brabham,1.0
+1967,19.0,Jacky Ickx,Belgium,Cooper,1.0
+1968,1.0,Graham Hill,United Kingdom,Lotus,48.0
+1968,2.0,Jackie Stewart,United Kingdom,Matra,36.0
+1968,3.0,Denny Hulme,New Zealand,McLaren,33.0
+1968,4.0,Jacky Ickx,Belgium,Ferrari,27.0
+1968,5.0,Bruce McLaren,New Zealand,McLaren,22.0
+1968,6.0,Pedro Rodriguez,Mexico,BRM,18.0
+1968,7.0,Jo Siffert,Switzerland,Lotus,12.0
+1968,7.0,John Surtees,United Kingdom,Honda,12.0
+1968,9.0,Jean-Pierre Beltoise,France,Matra,11.0
+1968,10.0,Chris Amon,New Zealand,Ferrari,10.0
+1968,11.0,Jim Clark,United Kingdom,Lotus,9.0
+1968,12.0,Jochen Rindt,Austria,Brabham,8.0
+1968,13.0,Richard Attwood,United Kingdom,BRM,6.0
+1968,13.0,Johnny Servoz-Gavin,France,Matra,6.0
+1968,13.0,Jackie Oliver,United Kingdom,Lotus,6.0
+1968,13.0,Ludovico Scarfiotti,Italy,Cooper,6.0
+1968,17.0,Lucien Bianchi,Belgium,Cooper,5.0
+1968,17.0,Vic Elford,United Kingdom,Cooper,5.0
+1968,19.0,Brian Redman,United Kingdom,Cooper,4.0
+1968,19.0,Piers Courage,United Kingdom,BRM,4.0
+1968,21.0,Dan Gurney,United States of America,McLaren,3.0
+1968,21.0,Jo Bonnier,Sweden,Honda,3.0
+1968,23.0,Silvio Moser,Switzerland,Brabham,2.0
+1968,23.0,Jack Brabham,Australia,Brabham,2.0
+1969,1.0,Jackie Stewart,United Kingdom,Matra,63.0
+1969,2.0,Jacky Ickx,Belgium,Brabham,37.0
+1969,3.0,Bruce McLaren,New Zealand,McLaren,26.0
+1969,4.0,Jochen Rindt,Austria,Lotus,22.0
+1969,5.0,Jean-Pierre Beltoise,France,Matra,21.0
+1969,6.0,Denny Hulme,New Zealand,McLaren,20.0
+1969,7.0,Graham Hill,United Kingdom,Lotus,19.0
+1969,8.0,Piers Courage,United Kingdom,Brabham,16.0
+1969,9.0,Jo Siffert,Switzerland,Lotus,15.0
+1969,10.0,Jack Brabham,Australia,Brabham,14.0
+1969,11.0,John Surtees,United Kingdom,BRM,6.0
+1969,12.0,Chris Amon,New Zealand,Ferrari,4.0
+1969,13.0,Richard Attwood,United Kingdom,Brabham,3.0
+1969,13.0,Vic Elford,United Kingdom,McLaren,3.0
+1969,13.0,Pedro Rodriguez,Mexico,Ferrari,3.0
+1969,16.0,Johnny Servoz-Gavin,France,Matra,1.0
+1969,16.0,Silvio Moser,Switzerland,Brabham,1.0
+1969,16.0,Jackie Oliver,United Kingdom,BRM,1.0
+1970,1.0,Jochen Rindt,Austria,Lotus,45.0
+1970,2.0,Jacky Ickx,Belgium,Ferrari,40.0
+1970,3.0,Clay Regazzoni,Switzerland,Ferrari,33.0
+1970,4.0,Denny Hulme,New Zealand,McLaren,27.0
+1970,5.0,Jack Brabham,Australia,Brabham,25.0
+1970,5.0,Jackie Stewart,United Kingdom,Tyrrell,25.0
+1970,7.0,Pedro Rodriguez,Mexico,BRM,23.0
+1970,7.0,Chris Amon,New Zealand,March,23.0
+1970,9.0,Jean-Pierre Beltoise,France,Matra,16.0
+1970,10.0,Emerson Fittipaldi,Brazil,Lotus,12.0
+1970,11.0,Rolf Stommelen,Germany,Brabham,10.0
+1970,12.0,Henri Pescarolo,France,Matra,8.0
+1970,13.0,Graham Hill,United Kingdom,Lotus,7.0
+1970,14.0,Bruce McLaren,New Zealand,McLaren,6.0
+1970,15.0,Mario Andretti,United States of America,March,4.0
+1970,15.0,Reine Wisell,Sweden,Lotus,4.0
+1970,17.0,Ignazio Giunti,Italy,Ferrari,3.0
+1970,17.0,John Surtees,United Kingdom,Surtees,3.0
+1970,19.0,John Miles,United Kingdom,Lotus,2.0
+1970,19.0,Johnny Servoz-Gavin,France,March,2.0
+1970,19.0,Jackie Oliver,United Kingdom,BRM,2.0
+1970,22.0,Dan Gurney,United States of America,McLaren,1.0
+1970,22.0,Francois Cevert,France,March,1.0
+1970,22.0,Peter Gethin,United Kingdom,McLaren,1.0
+1970,22.0,Derek Bell,United Kingdom,Surtees,1.0
+1971,1.0,Jackie Stewart,United Kingdom,Tyrrell,62.0
+1971,2.0,Ronnie Peterson,Sweden,March,33.0
+1971,3.0,Francois Cevert,France,Tyrrell,26.0
+1971,4.0,Jacky Ickx,Belgium,Ferrari,19.0
+1971,4.0,Jo Siffert,Switzerland,BRM,19.0
+1971,6.0,Emerson Fittipaldi,Brazil,Lotus,16.0
+1971,7.0,Clay Regazzoni,Switzerland,Ferrari,13.0
+1971,8.0,Mario Andretti,United States of America,Ferrari,12.0
+1971,9.0,Peter Gethin,United Kingdom,BRM,9.0
+1971,9.0,Pedro Rodriguez,Mexico,BRM,9.0
+1971,9.0,Chris Amon,New Zealand,Matra,9.0
+1971,9.0,Reine Wisell,Sweden,Lotus,9.0
+1971,9.0,Denny Hulme,New Zealand,McLaren,9.0
+1971,14.0,Tim Schenken,Australia,Brabham,5.0
+1971,14.0,Howden Ganley,New Zealand,BRM,5.0
+1971,16.0,Mark Donohue,United States of America,,4.0
+1971,16.0,Henri Pescarolo,France,March,4.0
+1971,18.0,Mike Hailwood,United Kingdom,Surtees,3.0
+1971,18.0,John Surtees,United Kingdom,Surtees,3.0
+1971,18.0,Rolf Stommelen,Germany,Surtees,3.0
+1971,21.0,Graham Hill,United Kingdom,Brabham,2.0
+1971,22.0,Jean-Pierre Beltoise,France,Matra,1.0
+1972,1.0,Emerson Fittipaldi,Brazil,Lotus,61.0
+1972,2.0,Jackie Stewart,United Kingdom,Tyrrell,45.0
+1972,3.0,Denny Hulme,New Zealand,McLaren,39.0
+1972,4.0,Jacky Ickx,Belgium,Ferrari,27.0
+1972,5.0,Peter Revson,United States of America,McLaren,23.0
+1972,6.0,Francois Cevert,France,Tyrrell,15.0
+1972,6.0,Clay Regazzoni,Switzerland,Ferrari,15.0
+1972,8.0,Mike Hailwood,United Kingdom,Surtees,13.0
+1972,9.0,Ronnie Peterson,Sweden,March,12.0
+1972,9.0,Chris Amon,New Zealand,Matra,12.0
+1972,11.0,Jean-Pierre Beltoise,France,BRM,9.0
+1972,12.0,Mario Andretti,United States of America,Ferrari,4.0
+1972,12.0,Howden Ganley,New Zealand,BRM,4.0
+1972,12.0,Brian Redman,United Kingdom,BRM,4.0
+1972,12.0,Graham Hill,United Kingdom,Brabham,4.0
+1972,16.0,Andrea de Adamich,Italy,Surtees,3.0
+1972,16.0,Carlos Reutemann,Argentina,Brabham,3.0
+1972,16.0,Carlos Pace,Brazil,March,3.0
+1972,19.0,Tim Schenken,Australia,Surtees,2.0
+1972,20.0,Arturo Merzario,Italy,Ferrari,1.0
+1972,20.0,Peter Gethin,United Kingdom,BRM,1.0
+1973,1.0,Jackie Stewart,United Kingdom,Tyrrell,71.0
+1973,2.0,Emerson Fittipaldi,Brazil,Lotus,55.0
+1973,3.0,Ronnie Peterson,Sweden,Lotus,52.0
+1973,4.0,Francois Cevert,France,Tyrrell,47.0
+1973,5.0,Peter Revson,United States of America,McLaren,38.0
+1973,6.0,Denny Hulme,New Zealand,McLaren,26.0
+1973,7.0,Carlos Reutemann,Argentina,Brabham,16.0
+1973,8.0,James Hunt,United Kingdom,March,14.0
+1973,9.0,Jacky Ickx,Belgium,Williams,12.0
+1973,10.0,Jean-Pierre Beltoise,France,BRM,9.0
+1973,11.0,Carlos Pace,Brazil,Surtees,7.0
+1973,12.0,Arturo Merzario,Italy,Ferrari,6.0
+1973,13.0,George Follmer,United States of America,Shadow,5.0
+1973,14.0,Jackie Oliver,United Kingdom,Shadow,4.0
+1973,15.0,Andrea de Adamich,Italy,Brabham,3.0
+1973,15.0,Wilson Fittipaldi,Brazil,Brabham,3.0
+1973,17.0,Niki Lauda,Austria,BRM,2.0
+1973,17.0,Clay Regazzoni,Switzerland,BRM,2.0
+1973,19.0,Chris Amon,New Zealand,Tyrrell,1.0
+1973,19.0,Gijs van Lennep,Netherlands,Williams,1.0
+1973,19.0,Howden Ganley,New Zealand,Williams,1.0
+1974,1.0,Emerson Fittipaldi,Brazil,McLaren,55.0
+1974,2.0,Clay Regazzoni,Switzerland,Ferrari,52.0
+1974,3.0,Jody Scheckter,South Africa,Tyrrell,45.0
+1974,4.0,Niki Lauda,Austria,Ferrari,38.0
+1974,5.0,Ronnie Peterson,Sweden,Lotus,35.0
+1974,6.0,Carlos Reutemann,Argentina,Brabham,32.0
+1974,7.0,Denny Hulme,New Zealand,McLaren,20.0
+1974,8.0,James Hunt,United Kingdom,Hesketh,15.0
+1974,9.0,Patrick Depailler,France,Tyrrell,14.0
+1974,10.0,Jacky Ickx,Belgium,Lotus,12.0
+1974,10.0,Mike Hailwood,United Kingdom,McLaren,12.0
+1974,12.0,Carlos Pace,Brazil,Brabham,11.0
+1974,13.0,Jean-Pierre Beltoise,France,BRM,10.0
+1974,14.0,Jean-Pierre Jarier,France,Shadow,6.0
+1974,14.0,John Watson,United Kingdom,Brabham,6.0
+1974,16.0,Hans-Joachim Stuck,Germany,March,5.0
+1974,17.0,Arturo Merzario,Italy,Williams,4.0
+1974,18.0,Graham Hill,United Kingdom,Lola,1.0
+1974,18.0,Tom Pryce,United Kingdom,Shadow,1.0
+1974,18.0,Vittorio Brambilla,Italy,March,1.0
+1975,1.0,Niki Lauda,Austria,Ferrari,64.5
+1975,2.0,Emerson Fittipaldi,Brazil,McLaren,45.0
+1975,3.0,Carlos Reutemann,Argentina,Brabham,37.0
+1975,4.0,James Hunt,United Kingdom,Hesketh,33.0
+1975,5.0,Clay Regazzoni,Switzerland,Ferrari,25.0
+1975,6.0,Carlos Pace,Brazil,Brabham,24.0
+1975,7.0,Jody Scheckter,South Africa,Tyrrell,20.0
+1975,7.0,Jochen Mass,Germany,McLaren,20.0
+1975,9.0,Patrick Depailler,France,Tyrrell,12.0
+1975,10.0,Tom Pryce,United Kingdom,Shadow,8.0
+1975,11.0,Vittorio Brambilla,Italy,March,6.5
+1975,12.0,Jacques Laffite,France,Williams,6.0
+1975,12.0,Ronnie Peterson,Sweden,Lotus,6.0
+1975,14.0,Mario Andretti,United States of America,Parnelli,5.0
+1975,15.0,Mark Donohue,United States of America,March,4.0
+1975,16.0,Jacky Ickx,Belgium,Lotus,3.0
+1975,17.0,Alan Jones,Australia,Hill,2.0
+1975,18.0,Jean-Pierre Jarier,France,Shadow,1.5
+1975,19.0,Tony Brise,United Kingdom,Hill,1.0
+1975,19.0,Gijs van Lennep,Netherlands,Ensign,1.0
+1975,21.0,Lella Lombardi,Italy,Williams,0.5
+1976,1.0,James Hunt,United Kingdom,McLaren,69.0
+1976,2.0,Niki Lauda,Austria,Ferrari,68.0
+1976,3.0,Jody Scheckter,South Africa,Tyrrell,49.0
+1976,4.0,Patrick Depailler,France,Tyrrell,39.0
+1976,5.0,Clay Regazzoni,Switzerland,Ferrari,31.0
+1976,6.0,Mario Andretti,United States of America,Lotus,22.0
+1976,7.0,John Watson,United Kingdom,Penske,20.0
+1976,7.0,Jacques Laffite,France,Ligier,20.0
+1976,9.0,Jochen Mass,Germany,McLaren,19.0
+1976,10.0,Gunnar Nilsson,Sweden,Lotus,11.0
+1976,11.0,Ronnie Peterson,Sweden,March,10.0
+1976,11.0,Tom Pryce,United Kingdom,Shadow,10.0
+1976,13.0,Hans-Joachim Stuck,Germany,March,8.0
+1976,14.0,Carlos Pace,Brazil,Brabham,7.0
+1976,14.0,Alan Jones,Australia,Surtees,7.0
+1976,16.0,Carlos Reutemann,Argentina,Ferrari,3.0
+1976,16.0,Emerson Fittipaldi,Brazil,Fittipaldi,3.0
+1976,18.0,Chris Amon,New Zealand,Williams,2.0
+1976,19.0,Rolf Stommelen,Germany,Brabham,1.0
+1976,19.0,Vittorio Brambilla,Italy,March,1.0
+1977,1.0,Niki Lauda,Austria,Ferrari,72.0
+1977,2.0,Jody Scheckter,South Africa,Wolf,55.0
+1977,3.0,Mario Andretti,United States of America,Lotus,47.0
+1977,4.0,Carlos Reutemann,Argentina,Ferrari,42.0
+1977,5.0,James Hunt,United Kingdom,McLaren,40.0
+1977,6.0,Jochen Mass,Germany,McLaren,25.0
+1977,7.0,Alan Jones,Australia,Shadow,22.0
+1977,8.0,Gunnar Nilsson,Sweden,Lotus,20.0
+1977,8.0,Patrick Depailler,France,Tyrrell,20.0
+1977,10.0,Jacques Laffite,France,Ligier,18.0
+1977,11.0,Hans-Joachim Stuck,Germany,Brabham,12.0
+1977,12.0,Emerson Fittipaldi,Brazil,Fittipaldi,11.0
+1977,13.0,John Watson,United Kingdom,Brabham,9.0
+1977,14.0,Ronnie Peterson,Sweden,Tyrrell,7.0
+1977,15.0,Carlos Pace,Brazil,Brabham,6.0
+1977,15.0,Vittorio Brambilla,Italy,Surtees,6.0
+1977,17.0,Patrick Tambay,France,Ensign,5.0
+1977,17.0,Clay Regazzoni,Switzerland,Ensign,5.0
+1977,19.0,Renzo Zorzi,Italy,Shadow,1.0
+1977,19.0,Jean-Pierre Jarier,France,Ligier,1.0
+1977,19.0,Riccardo Patrese,Italy,Shadow,1.0
+1978,1.0,Mario Andretti,United States of America,Lotus,64.0
+1978,2.0,Ronnie Peterson,Sweden,Lotus,51.0
+1978,3.0,Carlos Reutemann,Argentina,Ferrari,48.0
+1978,4.0,Niki Lauda,Austria,Brabham,44.0
+1978,5.0,Patrick Depailler,France,Tyrrell,34.0
+1978,6.0,John Watson,United Kingdom,Brabham,25.0
+1978,7.0,Jody Scheckter,South Africa,Wolf,24.0
+1978,8.0,Jacques Laffite,France,Ligier,19.0
+1978,9.0,Gilles Villeneuve,Canada,Ferrari,17.0
+1978,9.0,Emerson Fittipaldi,Brazil,Fittipaldi,17.0
+1978,11.0,Alan Jones,Australia,Williams,11.0
+1978,11.0,Riccardo Patrese,Italy,Arrows,11.0
+1978,13.0,James Hunt,United Kingdom,McLaren,8.0
+1978,13.0,Patrick Tambay,France,McLaren,8.0
+1978,15.0,Didier Pironi,France,Tyrrell,7.0
+1978,16.0,Clay Regazzoni,Switzerland,Shadow,4.0
+1978,17.0,Jean-Pierre Jabouille,France,Renault,3.0
+1978,18.0,Hans-Joachim Stuck,Germany,Shadow,2.0
+1978,19.0,Hector Rebaque,Mexico,Lotus,1.0
+1978,19.0,Vittorio Brambilla,Italy,Surtees,1.0
+1978,19.0,Derek Daly,Ireland,Ensign,1.0
+1979,1.0,Jody Scheckter,South Africa,Ferrari,51.0
+1979,2.0,Gilles Villeneuve,Canada,Ferrari,47.0
+1979,3.0,Alan Jones,Australia,Williams,40.0
+1979,4.0,Jacques Laffite,France,Ligier,36.0
+1979,5.0,Clay Regazzoni,Switzerland,Williams,29.0
+1979,6.0,Patrick Depailler,France,Ligier,20.0
+1979,6.0,Carlos Reutemann,Argentina,Lotus,20.0
+1979,8.0,Rene Arnoux,France,Renault,17.0
+1979,9.0,John Watson,United Kingdom,McLaren,15.0
+1979,10.0,Didier Pironi,France,Tyrrell,14.0
+1979,10.0,Jean-Pierre Jarier,France,Tyrrell,14.0
+1979,10.0,Mario Andretti,United States of America,Lotus,14.0
+1979,13.0,Jean-Pierre Jabouille,France,Renault,9.0
+1979,14.0,Niki Lauda,Austria,Brabham,4.0
+1979,15.0,Nelson Piquet,Brazil,Brabham,3.0
+1979,15.0,Elio de Angelis,Italy,Shadow,3.0
+1979,15.0,Jacky Ickx,Belgium,Ligier,3.0
+1979,15.0,Jochen Mass,Germany,Arrows,3.0
+1979,19.0,Riccardo Patrese,Italy,Arrows,2.0
+1979,19.0,Hans-Joachim Stuck,Germany,ATS,2.0
+1979,21.0,Emerson Fittipaldi,Brazil,Fittipaldi,1.0
+1980,1.0,Alan Jones,Australia,Williams,67.0
+1980,2.0,Nelson Piquet,Brazil,Brabham,54.0
+1980,3.0,Carlos Reutemann,Argentina,Williams,42.0
+1980,4.0,Jacques Laffite,France,Ligier,34.0
+1980,5.0,Didier Pironi,France,Ligier,32.0
+1980,6.0,Rene Arnoux,France,Renault,29.0
+1980,7.0,Elio de Angelis,Italy,Lotus,13.0
+1980,8.0,Jean-Pierre Jabouille,France,Renault,9.0
+1980,9.0,Riccardo Patrese,Italy,Arrows,7.0
+1980,10.0,Keke Rosberg,Finland,Fittipaldi,6.0
+1980,10.0,Derek Daly,Ireland,Tyrrell,6.0
+1980,10.0,John Watson,United Kingdom,McLaren,6.0
+1980,10.0,Jean-Pierre Jarier,France,Tyrrell,6.0
+1980,10.0,Gilles Villeneuve,Canada,Ferrari,6.0
+1980,15.0,Emerson Fittipaldi,Brazil,Fittipaldi,5.0
+1980,15.0,Alain Prost,France,McLaren,5.0
+1980,17.0,Jochen Mass,Germany,Arrows,4.0
+1980,17.0,Bruno Giacomelli,Italy,Alfa Romeo,4.0
+1980,19.0,Jody Scheckter,South Africa,Ferrari,2.0
+1980,20.0,Hector Rebaque,Mexico,Brabham,1.0
+1980,20.0,Mario Andretti,United States of America,Lotus,1.0
+1981,1.0,Nelson Piquet,Brazil,Brabham,50.0
+1981,2.0,Carlos Reutemann,Argentina,Williams,49.0
+1981,3.0,Alan Jones,Australia,Williams,46.0
+1981,4.0,Jacques Laffite,France,Ligier,44.0
+1981,5.0,Alain Prost,France,Renault,43.0
+1981,6.0,John Watson,United Kingdom,McLaren,27.0
+1981,7.0,Gilles Villeneuve,Canada,Ferrari,25.0
+1981,8.0,Elio de Angelis,Italy,Lotus,14.0
+1981,9.0,Rene Arnoux,France,Renault,11.0
+1981,9.0,Hector Rebaque,Mexico,Brabham,11.0
+1981,11.0,Riccardo Patrese,Italy,Arrows,10.0
+1981,11.0,Eddie Cheever,United States of America,Tyrrell,10.0
+1981,13.0,Didier Pironi,France,Ferrari,9.0
+1981,14.0,Nigel Mansell,United Kingdom,Lotus,8.0
+1981,15.0,Bruno Giacomelli,Italy,Alfa Romeo,7.0
+1981,16.0,Marc Surer,Switzerland,Theodore,4.0
+1981,17.0,Mario Andretti,United States of America,Alfa Romeo,3.0
+1981,18.0,Patrick Tambay,France,Ligier,1.0
+1981,18.0,Andrea de Cesaris,Italy,McLaren,1.0
+1981,18.0,Slim Borgudd,Sweden,ATS,1.0
+1981,18.0,Eliseo Salazar,Chile,Ensign,1.0
+1982,1.0,Keke Rosberg,Finland,Williams,44.0
+1982,2.0,Didier Pironi,France,Ferrari,39.0
+1982,2.0,John Watson,United Kingdom,McLaren,39.0
+1982,4.0,Alain Prost,France,Renault,34.0
+1982,5.0,Niki Lauda,Austria,McLaren,30.0
+1982,6.0,Rene Arnoux,France,Renault,28.0
+1982,7.0,Patrick Tambay,France,Ferrari,25.0
+1982,7.0,Michele Alboreto,Italy,Tyrrell,25.0
+1982,9.0,Elio de Angelis,Italy,Lotus,23.0
+1982,10.0,Riccardo Patrese,Italy,Brabham,21.0
+1982,11.0,Nelson Piquet,Brazil,Brabham,20.0
+1982,12.0,Eddie Cheever,United States of America,Ligier,15.0
+1982,13.0,Derek Daly,Ireland,Williams,8.0
+1982,14.0,Nigel Mansell,United Kingdom,Lotus,7.0
+1982,15.0,Carlos Reutemann,Argentina,Williams,6.0
+1982,15.0,Gilles Villeneuve,Canada,Ferrari,6.0
+1982,17.0,Andrea de Cesaris,Italy,Alfa Romeo,5.0
+1982,17.0,Jacques Laffite,France,Ligier,5.0
+1982,19.0,Mario Andretti,United States of America,Ferrari,4.0
+1982,20.0,Jean-Pierre Jarier,France,Osella,3.0
+1982,20.0,Marc Surer,Switzerland,Arrows,3.0
+1982,22.0,Manfred Winkelhock,Germany,ATS,2.0
+1982,22.0,Eliseo Salazar,Chile,ATS,2.0
+1982,22.0,Bruno Giacomelli,Italy,Alfa Romeo,2.0
+1982,22.0,Mauro Baldi,Italy,Arrows,2.0
+1982,26.0,Chico Serra,Brazil,Fittipaldi,1.0
+1983,1.0,Nelson Piquet,Brazil,Brabham,59.0
+1983,2.0,Alain Prost,France,Renault,57.0
+1983,3.0,Rene Arnoux,France,Ferrari,49.0
+1983,4.0,Patrick Tambay,France,Ferrari,40.0
+1983,5.0,Keke Rosberg,Finland,Williams,27.0
+1983,6.0,John Watson,United Kingdom,McLaren,22.0
+1983,7.0,Eddie Cheever,United States of America,Renault,22.0
+1983,8.0,Andrea de Cesaris,Italy,Alfa Romeo,15.0
+1983,9.0,Riccardo Patrese,Italy,Brabham,13.0
+1983,10.0,Niki Lauda,Austria,McLaren,12.0
+1983,11.0,Jacques Laffite,France,Williams,11.0
+1983,12.0,Michele Alboreto,Italy,Tyrrell,10.0
+1983,13.0,Nigel Mansell,United Kingdom,Lotus,10.0
+1983,14.0,Derek Warwick,United Kingdom,Toleman,9.0
+1983,15.0,Marc Surer,Switzerland,Arrows,4.0
+1983,16.0,Mauro Baldi,Italy,Alfa Romeo,3.0
+1983,17.0,Elio de Angelis,Italy,Lotus,2.0
+1983,18.0,Danny Sullivan,United States of America,Tyrrell,2.0
+1983,19.0,Bruno Giacomelli,Italy,Toleman,1.0
+1983,20.0,Johnny Cecotto,Venezuela,Theodore,1.0
+1984,1.0,Niki Lauda,Austria,McLaren,72.0
+1984,2.0,Alain Prost,France,McLaren,71.5
+1984,3.0,Elio de Angelis,Italy,Lotus,34.0
+1984,4.0,Michele Alboreto,Italy,Ferrari,30.5
+1984,5.0,Nelson Piquet,Brazil,Brabham,29.0
+1984,6.0,Rene Arnoux,France,Ferrari,27.0
+1984,7.0,Derek Warwick,United Kingdom,Renault,23.0
+1984,8.0,Keke Rosberg,Finland,Williams,20.5
+1984,9.0,Ayrton Senna,Brazil,Toleman,13.0
+1984,10.0,Nigel Mansell,United Kingdom,Lotus,13.0
+1984,11.0,Patrick Tambay,France,Renault,11.0
+1984,12.0,Teo Fabi,Italy,Brabham,9.0
+1984,13.0,Riccardo Patrese,Italy,Alfa Romeo,8.0
+1984,14.0,Jacques Laffite,France,Williams,5.0
+1984,15.0,Thierry Boutsen,Belgium,Arrows,5.0
+1984,16.0,Eddie Cheever,United States of America,Alfa Romeo,3.0
+1984,17.0,Stefan Johansson,Sweden,Toleman,3.0
+1984,18.0,Andrea de Cesaris,Italy,Ligier,3.0
+1984,19.0,Piercarlo Ghinzani,Italy,Osella,2.0
+1984,20.0,Marc Surer,Switzerland,Arrows,1.0
+1985,1.0,Alain Prost,France,McLaren,73.0
+1985,2.0,Michele Alboreto,Italy,Ferrari,53.0
+1985,3.0,Keke Rosberg,Finland,Williams,40.0
+1985,4.0,Ayrton Senna,Brazil,Lotus,38.0
+1985,5.0,Elio de Angelis,Italy,Lotus,33.0
+1985,6.0,Nigel Mansell,United Kingdom,Williams,31.0
+1985,7.0,Stefan Johansson,Sweden,Ferrari,26.0
+1985,8.0,Nelson Piquet,Brazil,Brabham,21.0
+1985,9.0,Jacques Laffite,France,Ligier,16.0
+1985,10.0,Niki Lauda,Austria,McLaren,14.0
+1985,11.0,Thierry Boutsen,Belgium,Arrows,11.0
+1985,12.0,Patrick Tambay,France,Renault,11.0
+1985,13.0,Marc Surer,Switzerland,Brabham,5.0
+1985,14.0,Derek Warwick,United Kingdom,Renault,5.0
+1985,15.0,Philippe Streiff,France,Ligier,4.0
+1985,16.0,Stefan Bellof,Germany,Tyrrell,4.0
+1985,17.0,Andrea de Cesaris,Italy,Ligier,3.0
+1985,18.0,Rene Arnoux,France,Ferrari,3.0
+1985,19.0,Ivan Capelli,Italy,Tyrrell,3.0
+1985,20.0,Gerhard Berger,Austria,Arrows,3.0
+1986,1.0,Alain Prost,France,McLaren,72.0
+1986,2.0,Nigel Mansell,United Kingdom,Williams,70.0
+1986,3.0,Nelson Piquet,Brazil,Williams,69.0
+1986,4.0,Ayrton Senna,Brazil,Lotus,55.0
+1986,5.0,Stefan Johansson,Sweden,Ferrari,23.0
+1986,6.0,Keke Rosberg,Finland,McLaren,22.0
+1986,7.0,Gerhard Berger,Austria,Benetton,17.0
+1986,8.0,Jacques Laffite,France,Ligier,14.0
+1986,9.0,Michele Alboreto,Italy,Ferrari,14.0
+1986,10.0,Rene Arnoux,France,Ligier,14.0
+1986,11.0,Martin Brundle,United Kingdom,Tyrrell,8.0
+1986,12.0,Alan Jones,Australia,Lola,4.0
+1986,13.0,Johnny Dumfries,United Kingdom,Lotus,3.0
+1986,14.0,Philippe Streiff,France,Tyrrell,3.0
+1986,15.0,Teo Fabi,Italy,Benetton,2.0
+1986,16.0,Patrick Tambay,France,Lola,2.0
+1986,17.0,Riccardo Patrese,Italy,Brabham,2.0
+1986,18.0,Philippe Alliot,France,Ligier,1.0
+1986,19.0,Christian Danner,Germany,Arrows,1.0
+1987,1.0,Nelson Piquet,Brazil,Williams,73.0
+1987,2.0,Nigel Mansell,United Kingdom,Williams,61.0
+1987,3.0,Ayrton Senna,Brazil,Lotus,57.0
+1987,4.0,Alain Prost,France,McLaren,46.0
+1987,5.0,Gerhard Berger,Austria,Ferrari,36.0
+1987,6.0,Stefan Johansson,Sweden,McLaren,30.0
+1987,7.0,Michele Alboreto,Italy,Ferrari,17.0
+1987,8.0,Thierry Boutsen,Belgium,Benetton,16.0
+1987,9.0,Teo Fabi,Italy,Benetton,12.0
+1987,10.0,Eddie Cheever,United States of America,Arrows,8.0
+1987,11.0,Jonathan Palmer,United Kingdom,Tyrrell,7.0
+1987,12.0,Satoru Nakajima,Japan,Lotus,7.0
+1987,13.0,Riccardo Patrese,Italy,Williams,6.0
+1987,14.0,Andrea de Cesaris,Italy,Brabham,4.0
+1987,15.0,Philippe Streiff,France,Tyrrell,4.0
+1987,16.0,Derek Warwick,United Kingdom,Arrows,3.0
+1987,17.0,Philippe Alliot,France,Lola,3.0
+1987,18.0,Martin Brundle,United Kingdom,Zakspeed,2.0
+1987,19.0,Rene Arnoux,France,Ligier,1.0
+1987,20.0,Ivan Capelli,Italy,March,1.0
+1987,21.0,Roberto Moreno,Brazil,AGS,1.0
+1988,1.0,Ayrton Senna,Brazil,McLaren,90.0
+1988,2.0,Alain Prost,France,McLaren,87.0
+1988,3.0,Gerhard Berger,Austria,Ferrari,41.0
+1988,4.0,Thierry Boutsen,Belgium,Benetton,27.0
+1988,5.0,Michele Alboreto,Italy,Ferrari,24.0
+1988,6.0,Nelson Piquet,Brazil,Lotus,22.0
+1988,7.0,Ivan Capelli,Italy,March,17.0
+1988,8.0,Derek Warwick,United Kingdom,Arrows,17.0
+1988,9.0,Nigel Mansell,United Kingdom,Williams,12.0
+1988,10.0,Alessandro Nannini,Italy,Benetton,12.0
+1988,11.0,Riccardo Patrese,Italy,Williams,8.0
+1988,12.0,Eddie Cheever,United States of America,Arrows,6.0
+1988,13.0,Mauricio Gugelmin,Brazil,March,5.0
+1988,14.0,Jonathan Palmer,United Kingdom,Tyrrell,5.0
+1988,15.0,Andrea de Cesaris,Italy,Rial,3.0
+1988,16.0,Pierluigi Martini,Italy,Minardi,1.0
+1988,17.0,Satoru Nakajima,Japan,Lotus,1.0
+1989,1.0,Alain Prost,France,McLaren,76.0
+1989,2.0,Ayrton Senna,Brazil,McLaren,60.0
+1989,3.0,Riccardo Patrese,Italy,Williams,40.0
+1989,4.0,Nigel Mansell,United Kingdom,Ferrari,38.0
+1989,5.0,Thierry Boutsen,Belgium,Williams,37.0
+1989,6.0,Alessandro Nannini,Italy,Benetton,32.0
+1989,7.0,Gerhard Berger,Austria,Ferrari,21.0
+1989,8.0,Nelson Piquet,Brazil,Lotus,12.0
+1989,9.0,Jean Alesi,France,Tyrrell,8.0
+1989,10.0,Derek Warwick,United Kingdom,Arrows,7.0
+1989,11.0,Stefan Johansson,Sweden,Onyx,6.0
+1989,11.0,Michele Alboreto,Italy,Lola,6.0
+1989,11.0,Eddie Cheever,United States of America,Arrows,6.0
+1989,14.0,Johnny Herbert,United Kingdom,Tyrrell,5.0
+1989,15.0,Pierluigi Martini,Italy,Minardi,5.0
+1989,16.0,Andrea de Cesaris,Italy,Dallara,4.0
+1989,16.0,Mauricio Gugelmin,Brazil,March,4.0
+1989,16.0,Stefano Modena,Italy,Brabham,4.0
+1989,19.0,Alex Caffi,Italy,Dallara,4.0
+1989,20.0,Martin Brundle,United Kingdom,Brabham,4.0
+1989,21.0,Christian Danner,Germany,Rial,3.0
+1989,21.0,Satoru Nakajima,Japan,Lotus,3.0
+1989,23.0,Rene Arnoux,France,Ligier,2.0
+1989,23.0,Emanuele Pirro,Italy,Benetton,2.0
+1989,25.0,Jonathan Palmer,United Kingdom,Tyrrell,2.0
+1989,26.0,Gabriele Tarquini,Italy,AGS,1.0
+1989,26.0,Philippe Alliot,France,Lola,1.0
+1989,26.0,Olivier Grouillard,France,Ligier,1.0
+1989,26.0,Luis Perez-Sala,Spain,Minardi,1.0
+1990,1.0,Ayrton Senna,Brazil,McLaren,78.0
+1990,2.0,Alain Prost,France,Ferrari,71.0
+1990,3.0,Nelson Piquet,Brazil,Benetton,43.0
+1990,3.0,Gerhard Berger,Austria,McLaren,43.0
+1990,5.0,Nigel Mansell,United Kingdom,Ferrari,37.0
+1990,6.0,Thierry Boutsen,Belgium,Williams,34.0
+1990,7.0,Riccardo Patrese,Italy,Williams,23.0
+1990,8.0,Alessandro Nannini,Italy,Benetton,21.0
+1990,9.0,Jean Alesi,France,Tyrrell,13.0
+1990,10.0,Ivan Capelli,Italy,Leyton House,6.0
+1990,10.0,Roberto Moreno,Brazil,Benetton,6.0
+1990,12.0,Aguri Suzuki,Japan,Lola,6.0
+1990,13.0,Eric Bernard,France,Lola,5.0
+1990,14.0,Derek Warwick,United Kingdom,Lotus,3.0
+1990,15.0,Satoru Nakajima,Japan,Tyrrell,3.0
+1990,16.0,Alex Caffi,Italy,Arrows,2.0
+1990,16.0,Stefano Modena,Italy,Brabham,2.0
+1990,18.0,Mauricio Gugelmin,Brazil,Leyton House,1.0
+1991,1.0,Ayrton Senna,Brazil,McLaren,96.0
+1991,2.0,Nigel Mansell,United Kingdom,Williams,72.0
+1991,3.0,Riccardo Patrese,Italy,Williams,53.0
+1991,4.0,Gerhard Berger,Austria,McLaren,43.0
+1991,5.0,Alain Prost,France,Ferrari,34.0
+1991,6.0,Nelson Piquet,Brazil,Benetton,26.5
+1991,7.0,Jean Alesi,France,Ferrari,21.0
+1991,8.0,Stefano Modena,Italy,Tyrrell,10.0
+1991,9.0,Andrea de Cesaris,Italy,Jordan,9.0
+1991,10.0,Roberto Moreno,Brazil,Minardi,8.0
+1991,11.0,Pierluigi Martini,Italy,Minardi,6.0
+1991,12.0,Jyrki Jarvilehto,Finland,Dallara,4.0
+1991,12.0,Bertrand Gachot,France,Jordan,4.0
+1991,12.0,Michael Schumacher,Germany,Benetton,4.0
+1991,15.0,Mika Hakkinen,Finland,Lotus,2.0
+1991,15.0,Martin Brundle,United Kingdom,Brabham,2.0
+1991,15.0,Satoru Nakajima,Japan,Tyrrell,2.0
+1991,18.0,Julian Bailey,United Kingdom,Lotus,1.0
+1991,18.0,Eric Bernard,France,Lola,1.0
+1991,18.0,Ivan Capelli,Italy,Leyton House,1.0
+1991,18.0,Aguri Suzuki,Japan,Lola,1.0
+1991,18.0,Emanuele Pirro,Italy,Dallara,1.0
+1991,18.0,Mark Blundell,United Kingdom,Brabham,1.0
+1991,24.0,Gianni Morbidelli,Italy,Ferrari,0.5
+1992,1.0,Nigel Mansell,United Kingdom,Williams,108.0
+1992,2.0,Riccardo Patrese,Italy,Williams,56.0
+1992,3.0,Michael Schumacher,Germany,Benetton,53.0
+1992,4.0,Ayrton Senna,Brazil,McLaren,50.0
+1992,5.0,Gerhard Berger,Austria,McLaren,49.0
+1992,6.0,Martin Brundle,United Kingdom,Benetton,38.0
+1992,7.0,Jean Alesi,France,Ferrari,18.0
+1992,8.0,Mika Hakkinen,Finland,Lotus,11.0
+1992,9.0,Andrea de Cesaris,Italy,Tyrrell,8.0
+1992,10.0,Michele Alboreto,Italy,Arrows,6.0
+1992,11.0,Erik Comas,France,Ligier,4.0
+1992,12.0,Karl Wendlinger,Austria,March,3.0
+1992,12.0,Ivan Capelli,Italy,Ferrari,3.0
+1992,14.0,Thierry Boutsen,Belgium,Ligier,2.0
+1992,15.0,Pierluigi Martini,Italy,Dallara,2.0
+1992,16.0,Johnny Herbert,United Kingdom,Lotus,2.0
+1992,17.0,Stefano Modena,Italy,Jordan,1.0
+1992,18.0,Christian Fittipaldi,Brazil,Minardi,1.0
+1992,19.0,Bertrand Gachot,France,Venturi,1.0
+1993,1.0,Alain Prost,France,Williams,99.0
+1993,2.0,Ayrton Senna,Brazil,McLaren,73.0
+1993,3.0,Damon Hill,United Kingdom,Williams,69.0
+1993,4.0,Michael Schumacher,Germany,Benetton,52.0
+1993,5.0,Riccardo Patrese,Italy,Benetton,20.0
+1993,6.0,Jean Alesi,France,Ferrari,16.0
+1993,7.0,Martin Brundle,United Kingdom,Ligier,13.0
+1993,8.0,Gerhard Berger,Austria,Ferrari,12.0
+1993,9.0,Johnny Herbert,United Kingdom,Lotus,11.0
+1993,10.0,Mark Blundell,United Kingdom,Ligier,10.0
+1993,11.0,Michael Andretti,United States of America,McLaren,7.0
+1993,12.0,Karl Wendlinger,Austria,Sauber,7.0
+1993,13.0,Christian Fittipaldi,Brazil,Minardi,5.0
+1993,13.0,Jyrki Jarvilehto,Finland,Sauber,5.0
+1993,15.0,Mika Hakkinen,Finland,McLaren,4.0
+1993,16.0,Derek Warwick,United Kingdom,Arrows,4.0
+1993,17.0,Philippe Alliot,France,Larrousse,2.0
+1993,17.0,Rubens Barrichello,Brazil,Jordan,2.0
+1993,19.0,Fabrizio Barbazza,Italy,Minardi,2.0
+1993,20.0,Alessandro Zanardi,Italy,Lotus,1.0
+1993,20.0,Erik Comas,France,Larrousse,1.0
+1993,20.0,Eddie Irvine,United Kingdom,Jordan,1.0
+1994,1.0,Michael Schumacher,Germany,Benetton,92.0
+1994,2.0,Damon Hill,United Kingdom,Williams,91.0
+1994,3.0,Gerhard Berger,Austria,Ferrari,41.0
+1994,4.0,Mika Hakkinen,Finland,McLaren,26.0
+1994,5.0,Jean Alesi,France,Ferrari,24.0
+1994,6.0,Rubens Barrichello,Brazil,Jordan,19.0
+1994,7.0,Martin Brundle,United Kingdom,McLaren,16.0
+1994,8.0,David Coulthard,United Kingdom,Williams,14.0
+1994,9.0,Nigel Mansell,United Kingdom,Williams,13.0
+1994,10.0,Jos Verstappen,Netherlands,Benetton,10.0
+1994,11.0,Olivier Panis,France,Ligier,9.0
+1994,12.0,Mark Blundell,United Kingdom,Tyrrell,8.0
+1994,13.0,Heinz-Harald Frentzen,Germany,Sauber,7.0
+1994,14.0,Nicola Larini,Italy,Ferrari,6.0
+1994,15.0,Christian Fittipaldi,Brazil,Arrows,6.0
+1994,16.0,Eddie Irvine,United Kingdom,Jordan,6.0
+1994,17.0,Ukyo Katayama,Japan,Tyrrell,5.0
+1994,18.0,Eric Bernard,France,Lotus,4.0
+1994,19.0,Karl Wendlinger,Austria,Sauber,4.0
+1994,20.0,Andrea de Cesaris,Italy,Sauber,4.0
+1994,21.0,Pierluigi Martini,Italy,Minardi,4.0
+1994,22.0,Gianni Morbidelli,Italy,Arrows,3.0
+1994,23.0,Erik Comas,France,Larrousse,2.0
+1994,24.0,Michele Alboreto,Italy,Minardi,1.0
+1994,25.0,Jyrki Jarvilehto,Finland,Sauber,1.0
+1995,1.0,Michael Schumacher,Germany,Benetton,102.0
+1995,2.0,Damon Hill,United Kingdom,Williams,69.0
+1995,3.0,David Coulthard,United Kingdom,Williams,49.0
+1995,4.0,Johnny Herbert,United Kingdom,Benetton,45.0
+1995,5.0,Jean Alesi,France,Ferrari,42.0
+1995,6.0,Gerhard Berger,Austria,Ferrari,31.0
+1995,7.0,Mika Hakkinen,Finland,McLaren,17.0
+1995,8.0,Olivier Panis,France,Ligier,16.0
+1995,9.0,Heinz-Harald Frentzen,Germany,Sauber,15.0
+1995,10.0,Mark Blundell,United Kingdom,McLaren,13.0
+1995,11.0,Rubens Barrichello,Brazil,Jordan,11.0
+1995,12.0,Eddie Irvine,United Kingdom,Jordan,10.0
+1995,13.0,Martin Brundle,United Kingdom,Ligier,7.0
+1995,14.0,Gianni Morbidelli,Italy,Arrows,5.0
+1995,15.0,Mika Salo,Finland,Tyrrell,5.0
+1995,16.0,Jean-Christophe Boullion,France,Sauber,3.0
+1995,17.0,Aguri Suzuki,Japan,Ligier,1.0
+1995,18.0,Pedro Lamy,Portugal,Minardi,1.0
+1996,1.0,Damon Hill,United Kingdom,Williams,97.0
+1996,2.0,Jacques Villeneuve,Canada,Williams,78.0
+1996,3.0,Michael Schumacher,Germany,Ferrari,59.0
+1996,4.0,Jean Alesi,France,Benetton,47.0
+1996,5.0,Mika Hakkinen,Finland,McLaren,31.0
+1996,6.0,Gerhard Berger,Austria,Benetton,21.0
+1996,7.0,David Coulthard,United Kingdom,McLaren,18.0
+1996,8.0,Rubens Barrichello,Brazil,Jordan,14.0
+1996,9.0,Olivier Panis,France,Ligier,13.0
+1996,10.0,Eddie Irvine,United Kingdom,Ferrari,11.0
+1996,11.0,Martin Brundle,United Kingdom,Jordan,8.0
+1996,12.0,Heinz-Harald Frentzen,Germany,Sauber,7.0
+1996,13.0,Mika Salo,Finland,Tyrrell,5.0
+1996,14.0,Johnny Herbert,United Kingdom,Sauber,4.0
+1996,15.0,Pedro Diniz,Brazil,Ligier,2.0
+1996,16.0,Jos Verstappen,Netherlands,Arrows,1.0
+1997,1.0,Jacques Villeneuve,Canada,Williams,81.0
+1997,2.0,Heinz-Harald Frentzen,Germany,Williams,42.0
+1997,3.0,David Coulthard,United Kingdom,McLaren,36.0
+1997,4.0,Jean Alesi,France,Benetton,36.0
+1997,5.0,Gerhard Berger,Austria,Benetton,27.0
+1997,6.0,Mika Hakkinen,Finland,McLaren,27.0
+1997,7.0,Eddie Irvine,United Kingdom,Ferrari,24.0
+1997,8.0,Giancarlo Fisichella,Italy,Jordan,20.0
+1997,9.0,Olivier Panis,France,Prost,16.0
+1997,10.0,Johnny Herbert,United Kingdom,Sauber,15.0
+1997,11.0,Ralf Schumacher,Germany,Jordan,13.0
+1997,12.0,Damon Hill,United Kingdom,Arrows,7.0
+1997,13.0,Rubens Barrichello,Brazil,Stewart,6.0
+1997,14.0,Alexander Wurz,Austria,Benetton,4.0
+1997,15.0,Jarno Trulli,Italy,Prost,3.0
+1997,16.0,Mika Salo,Finland,Tyrrell,2.0
+1997,17.0,Pedro Diniz,Brazil,Arrows,2.0
+1997,18.0,Shinji Nakano,Japan,Prost,2.0
+1997,19.0,Nicola Larini,Italy,Sauber,1.0
+1997,,Michael Schumacher,Germany,Ferrari,78.0
+1998,1.0,Mika Hakkinen,Finland,McLaren,100.0
+1998,2.0,Michael Schumacher,Germany,Ferrari,86.0
+1998,3.0,David Coulthard,United Kingdom,McLaren,56.0
+1998,4.0,Eddie Irvine,United Kingdom,Ferrari,47.0
+1998,5.0,Jacques Villeneuve,Canada,Williams,21.0
+1998,6.0,Damon Hill,United Kingdom,Jordan,20.0
+1998,7.0,Heinz-Harald Frentzen,Germany,Williams,17.0
+1998,8.0,Alexander Wurz,Austria,Benetton,17.0
+1998,9.0,Giancarlo Fisichella,Italy,Benetton,16.0
+1998,10.0,Ralf Schumacher,Germany,Jordan,14.0
+1998,11.0,Jean Alesi,France,Sauber,9.0
+1998,12.0,Rubens Barrichello,Brazil,Stewart,4.0
+1998,13.0,Mika Salo,Finland,Arrows,3.0
+1998,14.0,Pedro Diniz,Brazil,Arrows,3.0
+1998,15.0,Johnny Herbert,United Kingdom,Sauber,1.0
+1998,16.0,Jan Magnussen,Denmark,Stewart,1.0
+1998,17.0,Jarno Trulli,Italy,Prost,1.0
+1998,18.0,Ricardo Rosset,Brazil,Tyrrell,0.0
+1998,19.0,Olivier Panis,France,Prost,0.0
+1998,20.0,Toranosuke Takagi,Japan,Tyrrell,0.0
+1998,21.0,Shinji Nakano,Japan,Minardi,0.0
+1998,22.0,Esteban Tuero,Argentina,Minardi,0.0
+1998,23.0,Jos Verstappen,Netherlands,Stewart,0.0
+1999,1.0,Mika Hakkinen,Finland,McLaren,76.0
+1999,2.0,Eddie Irvine,United Kingdom,Ferrari,74.0
+1999,3.0,Heinz-Harald Frentzen,Germany,Jordan,54.0
+1999,4.0,David Coulthard,United Kingdom,McLaren,48.0
+1999,5.0,Michael Schumacher,Germany,Ferrari,44.0
+1999,6.0,Ralf Schumacher,Germany,Williams,35.0
+1999,7.0,Rubens Barrichello,Brazil,Stewart,21.0
+1999,8.0,Johnny Herbert,United Kingdom,Stewart,15.0
+1999,9.0,Giancarlo Fisichella,Italy,Benetton,13.0
+1999,10.0,Mika Salo,Finland,Ferrari,10.0
+1999,11.0,Jarno Trulli,Italy,Prost,7.0
+1999,12.0,Damon Hill,United Kingdom,Jordan,7.0
+1999,13.0,Alexander Wurz,Austria,Benetton,3.0
+1999,14.0,Pedro Diniz,Brazil,Sauber,3.0
+1999,15.0,Olivier Panis,France,Prost,2.0
+1999,16.0,Jean Alesi,France,Sauber,2.0
+1999,17.0,Pedro de la Rosa,Spain,Arrows,1.0
+1999,18.0,Marc Gene,Spain,Minardi,1.0
+2000,1.0,Michael Schumacher,Germany,Ferrari,108.0
+2000,2.0,Mika Hakkinen,Finland,McLaren,89.0
+2000,3.0,David Coulthard,United Kingdom,McLaren,73.0
+2000,4.0,Rubens Barrichello,Brazil,Ferrari,62.0
+2000,5.0,Ralf Schumacher,Germany,Williams,24.0
+2000,6.0,Giancarlo Fisichella,Italy,Benetton,18.0
+2000,7.0,Jacques Villeneuve,Canada,BAR,17.0
+2000,8.0,Jenson Button,United Kingdom,Williams,12.0
+2000,9.0,Heinz-Harald Frentzen,Germany,Jordan,11.0
+2000,10.0,Jarno Trulli,Italy,Jordan,6.0
+2000,11.0,Mika Salo,Finland,Sauber,6.0
+2000,12.0,Jos Verstappen,Netherlands,Arrows,5.0
+2000,13.0,Eddie Irvine,United Kingdom,Jaguar,4.0
+2000,14.0,Ricardo Zonta,Brazil,BAR,3.0
+2000,15.0,Alexander Wurz,Austria,Benetton,2.0
+2000,16.0,Pedro de la Rosa,Spain,Arrows,2.0
+2000,17.0,Pedro Diniz,Brazil,Sauber,0.0
+2000,18.0,Johnny Herbert,United Kingdom,Jaguar,0.0
+2000,19.0,Marc Gene,Spain,Minardi,0.0
+2000,20.0,Gaston Mazzacane,Argentina,Minardi,0.0
+2000,21.0,Nick Heidfeld,Germany,Prost,0.0
+2000,22.0,Jean Alesi,France,Prost,0.0
+2000,23.0,Luciano Burti,Brazil,Jaguar,0.0
+2001,1.0,Michael Schumacher,Germany,Ferrari,123.0
+2001,2.0,David Coulthard,United Kingdom,McLaren,65.0
+2001,3.0,Rubens Barrichello,Brazil,Ferrari,56.0
+2001,4.0,Ralf Schumacher,Germany,Williams,49.0
+2001,5.0,Mika Hakkinen,Finland,McLaren,37.0
+2001,6.0,Juan Pablo Montoya,Colombia,Williams,31.0
+2001,7.0,Jacques Villeneuve,Canada,BAR,12.0
+2001,8.0,Nick Heidfeld,Germany,Sauber,12.0
+2001,9.0,Jarno Trulli,Italy,Jordan,12.0
+2001,10.0,Kimi Raikkonen,Finland,Sauber,9.0
+2001,11.0,Giancarlo Fisichella,Italy,Benetton,8.0
+2001,12.0,Eddie Irvine,United Kingdom,Jaguar,6.0
+2001,13.0,Heinz-Harald Frentzen,Germany,Prost,6.0
+2001,14.0,Olivier Panis,France,BAR,5.0
+2001,15.0,Jean Alesi,France,Jordan,5.0
+2001,16.0,Pedro de la Rosa,Spain,Jaguar,3.0
+2001,17.0,Jenson Button,United Kingdom,Benetton,2.0
+2001,18.0,Jos Verstappen,Netherlands,Arrows,1.0
+2002,1.0,Michael Schumacher,Germany,Ferrari,144.0
+2002,2.0,Rubens Barrichello,Brazil,Ferrari,77.0
+2002,3.0,Juan Pablo Montoya,Colombia,Williams,50.0
+2002,4.0,Ralf Schumacher,Germany,Williams,42.0
+2002,5.0,David Coulthard,United Kingdom,McLaren,41.0
+2002,6.0,Kimi Raikkonen,Finland,McLaren,24.0
+2002,7.0,Jenson Button,United Kingdom,Renault,14.0
+2002,8.0,Jarno Trulli,Italy,Renault,9.0
+2002,9.0,Eddie Irvine,United Kingdom,Jaguar,8.0
+2002,10.0,Nick Heidfeld,Germany,Sauber,7.0
+2002,11.0,Giancarlo Fisichella,Italy,Jordan,7.0
+2002,12.0,Jacques Villeneuve,Canada,BAR,4.0
+2002,13.0,Felipe Massa,Brazil,Sauber,4.0
+2002,14.0,Olivier Panis,France,BAR,3.0
+2002,15.0,Takuma Sato,Japan,Jordan,2.0
+2002,16.0,Mark Webber,Australia,Minardi,2.0
+2002,17.0,Mika Salo,Finland,Toyota,2.0
+2002,18.0,Heinz-Harald Frentzen,Germany,Sauber,2.0
+2002,19.0,Allan McNish,United Kingdom,Toyota,0.0
+2002,20.0,Alex Yoong,Malaysia,Minardi,0.0
+2002,21.0,Pedro de la Rosa,Spain,Jaguar,0.0
+2002,22.0,Enrique Bernoldi,Brazil,Arrows,0.0
+2003,1.0,Michael Schumacher,Germany,Ferrari,93.0
+2003,2.0,Kimi Raikkonen,Finland,McLaren,91.0
+2003,3.0,Juan Pablo Montoya,Colombia,Williams,82.0
+2003,4.0,Rubens Barrichello,Brazil,Ferrari,65.0
+2003,5.0,Ralf Schumacher,Germany,Williams,58.0
+2003,6.0,Fernando Alonso,Spain,Renault,55.0
+2003,7.0,David Coulthard,United Kingdom,McLaren,51.0
+2003,8.0,Jarno Trulli,Italy,Renault,33.0
+2003,9.0,Jenson Button,United Kingdom,BAR,17.0
+2003,10.0,Mark Webber,Australia,Jaguar,17.0
+2003,11.0,Heinz-Harald Frentzen,Germany,Sauber,13.0
+2003,12.0,Giancarlo Fisichella,Italy,Jordan,12.0
+2003,13.0,Cristiano da Matta,Brazil,Toyota,10.0
+2003,14.0,Nick Heidfeld,Germany,Sauber,6.0
+2003,15.0,Olivier Panis,France,Toyota,6.0
+2003,16.0,Jacques Villeneuve,Canada,BAR,6.0
+2003,17.0,Marc Gene,Spain,Williams,4.0
+2003,18.0,Takuma Sato,Japan,BAR,3.0
+2003,19.0,Ralph Firman,Ireland,Jordan,1.0
+2003,20.0,Justin Wilson,United Kingdom,Jaguar,1.0
+2003,21.0,Antonio Pizzonia,Brazil,Jaguar,0.0
+2003,22.0,Jos Verstappen,Netherlands,Minardi,0.0
+2003,23.0,Nicolas Kiesa,Denmark,Minardi,0.0
+2003,24.0,Zsolt Baumgartner,Hungary,Jordan,0.0
+2004,1.0,Michael Schumacher,Germany,Ferrari,148.0
+2004,2.0,Rubens Barrichello,Brazil,Ferrari,114.0
+2004,3.0,Jenson Button,United Kingdom,BAR,85.0
+2004,4.0,Fernando Alonso,Spain,Renault,59.0
+2004,5.0,Juan Pablo Montoya,Colombia,Williams,58.0
+2004,6.0,Jarno Trulli,Italy,Toyota,46.0
+2004,7.0,Kimi Raikkonen,Finland,McLaren,45.0
+2004,8.0,Takuma Sato,Japan,BAR,34.0
+2004,9.0,Ralf Schumacher,Germany,Williams,24.0
+2004,10.0,David Coulthard,United Kingdom,McLaren,24.0
+2004,11.0,Giancarlo Fisichella,Italy,Sauber,22.0
+2004,12.0,Felipe Massa,Brazil,Sauber,12.0
+2004,13.0,Mark Webber,Australia,Jaguar,7.0
+2004,14.0,Olivier Panis,France,Toyota,6.0
+2004,15.0,Antonio Pizzonia,Brazil,Williams,6.0
+2004,16.0,Christian Klien,Austria,Jaguar,3.0
+2004,17.0,Cristiano da Matta,Brazil,Toyota,3.0
+2004,18.0,Nick Heidfeld,Germany,Jordan,3.0
+2004,19.0,Timo Glock,Germany,Jordan,2.0
+2004,20.0,Zsolt Baumgartner,Hungary,Minardi,1.0
+2004,21.0,Jacques Villeneuve,Canada,Renault,0.0
+2004,22.0,Ricardo Zonta,Brazil,Toyota,0.0
+2004,23.0,Marc Gene,Spain,Williams,0.0
+2004,24.0,Giorgio Pantano,Italy,Jordan,0.0
+2004,25.0,Gianmaria Bruni,Italy,Minardi,0.0
+2005,1.0,Fernando Alonso,Spain,Renault,133.0
+2005,2.0,Kimi Raikkonen,Finland,McLaren,112.0
+2005,3.0,Michael Schumacher,Germany,Ferrari,62.0
+2005,4.0,Juan Pablo Montoya,Colombia,McLaren,60.0
+2005,5.0,Giancarlo Fisichella,Italy,Renault,58.0
+2005,6.0,Ralf Schumacher,Germany,Toyota,45.0
+2005,7.0,Jarno Trulli,Italy,Toyota,43.0
+2005,8.0,Rubens Barrichello,Brazil,Ferrari,38.0
+2005,9.0,Jenson Button,United Kingdom,BAR,37.0
+2005,10.0,Mark Webber,Australia,Williams,36.0
+2005,11.0,Nick Heidfeld,Germany,Williams,28.0
+2005,12.0,David Coulthard,United Kingdom,Red Bull,24.0
+2005,13.0,Felipe Massa,Brazil,Sauber,11.0
+2005,14.0,Jacques Villeneuve,Canada,Sauber,9.0
+2005,15.0,Christian Klien,Austria,Red Bull,9.0
+2005,16.0,Tiago Monteiro,Portugal,Jordan,7.0
+2005,17.0,Alexander Wurz,Austria,McLaren,6.0
+2005,18.0,Narain Karthikeyan,India,Jordan,5.0
+2005,19.0,Christijan Albers,Netherlands,Minardi,4.0
+2005,20.0,Pedro de la Rosa,Spain,McLaren,4.0
+2005,21.0,Patrick Friesacher,Austria,Minardi,3.0
+2005,22.0,Antonio Pizzonia,Brazil,Williams,2.0
+2005,23.0,Takuma Sato,Japan,BAR,1.0
+2005,24.0,Vitantonio Liuzzi,Italy,Red Bull,1.0
+2005,25.0,Robert Doornbos,Monaco,Minardi,0.0
+2006,1.0,Fernando Alonso,Spain,Renault,134.0
+2006,2.0,Michael Schumacher,Germany,Ferrari,121.0
+2006,3.0,Felipe Massa,Brazil,Ferrari,80.0
+2006,4.0,Giancarlo Fisichella,Italy,Renault,72.0
+2006,5.0,Kimi Raikkonen,Finland,McLaren,65.0
+2006,6.0,Jenson Button,United Kingdom,Honda,56.0
+2006,7.0,Rubens Barrichello,Brazil,Honda,30.0
+2006,8.0,Juan Pablo Montoya,Colombia,McLaren,26.0
+2006,9.0,Nick Heidfeld,Germany,Sauber,23.0
+2006,10.0,Ralf Schumacher,Germany,Toyota,20.0
+2006,11.0,Pedro de la Rosa,Spain,McLaren,19.0
+2006,12.0,Jarno Trulli,Italy,Toyota,15.0
+2006,13.0,David Coulthard,United Kingdom,Red Bull,14.0
+2006,14.0,Mark Webber,Australia,Williams,7.0
+2006,15.0,Jacques Villeneuve,Canada,Sauber,7.0
+2006,16.0,Robert Kubica,Poland,Sauber,6.0
+2006,17.0,Nico Rosberg,Germany,Williams,4.0
+2006,18.0,Christian Klien,Austria,Red Bull,2.0
+2006,19.0,Vitantonio Liuzzi,Italy,Toro Rosso,1.0
+2006,20.0,Scott Speed,United States of America,Toro Rosso,0.0
+2006,21.0,Tiago Monteiro,Portugal,Midland,0.0
+2006,22.0,Christijan Albers,Netherlands,Midland,0.0
+2006,23.0,Takuma Sato,Japan,Super Aguri,0.0
+2006,24.0,Robert Doornbos,Netherlands,Red Bull,0.0
+2006,25.0,Yuji Ide,Japan,Super Aguri,0.0
+2006,26.0,Sakon Yamamoto,Japan,Super Aguri,0.0
+2006,27.0,Franck Montagny,France,Super Aguri,0.0
+2007,1.0,Kimi Raikkonen,Finland,Ferrari,110.0
+2007,2.0,Lewis Hamilton,United Kingdom,McLaren,109.0
+2007,3.0,Fernando Alonso,Spain,McLaren,109.0
+2007,4.0,Felipe Massa,Brazil,Ferrari,94.0
+2007,5.0,Nick Heidfeld,Germany,Sauber,61.0
+2007,6.0,Robert Kubica,Poland,Sauber,39.0
+2007,7.0,Heikki Kovalainen,Finland,Renault,30.0
+2007,8.0,Giancarlo Fisichella,Italy,Renault,21.0
+2007,9.0,Nico Rosberg,Germany,Williams,20.0
+2007,10.0,David Coulthard,United Kingdom,Red Bull,14.0
+2007,11.0,Alexander Wurz,Austria,Williams,13.0
+2007,12.0,Mark Webber,Australia,Red Bull,10.0
+2007,13.0,Jarno Trulli,Italy,Toyota,8.0
+2007,14.0,Sebastian Vettel,Germany,Toro Rosso,6.0
+2007,15.0,Jenson Button,United Kingdom,Honda,6.0
+2007,16.0,Ralf Schumacher,Germany,Toyota,5.0
+2007,17.0,Takuma Sato,Japan,Super Aguri,4.0
+2007,18.0,Vitantonio Liuzzi,Italy,Toro Rosso,3.0
+2007,19.0,Adrian Sutil,Germany,Spyker,1.0
+2007,20.0,Rubens Barrichello,Brazil,Honda,0.0
+2007,21.0,Scott Speed,United States of America,Toro Rosso,0.0
+2007,22.0,Kazuki Nakajima,Japan,Williams,0.0
+2007,23.0,Anthony Davidson,United Kingdom,Super Aguri,0.0
+2007,24.0,Sakon Yamamoto,Japan,Spyker,0.0
+2007,25.0,Christijan Albers,Netherlands,Spyker,0.0
+2008,1.0,Lewis Hamilton,United Kingdom,McLaren,98.0
+2008,2.0,Felipe Massa,Brazil,Ferrari,97.0
+2008,3.0,Kimi Raikkonen,Finland,Ferrari,75.0
+2008,4.0,Robert Kubica,Poland,Sauber,75.0
+2008,5.0,Fernando Alonso,Spain,Renault,61.0
+2008,6.0,Nick Heidfeld,Germany,Sauber,60.0
+2008,7.0,Heikki Kovalainen,Finland,McLaren,53.0
+2008,8.0,Sebastian Vettel,Germany,Toro Rosso,35.0
+2008,9.0,Jarno Trulli,Italy,Toyota,31.0
+2008,10.0,Timo Glock,Germany,Toyota,25.0
+2008,11.0,Mark Webber,Australia,Red Bull,21.0
+2008,12.0,Nelson Piquet,Brazil,Renault,19.0
+2008,13.0,Nico Rosberg,Germany,Williams,17.0
+2008,14.0,Rubens Barrichello,Brazil,Honda,11.0
+2008,15.0,Kazuki Nakajima,Japan,Williams,9.0
+2008,16.0,David Coulthard,United Kingdom,Red Bull,8.0
+2008,17.0,Sebastien Bourdais,France,Toro Rosso,4.0
+2008,18.0,Jenson Button,United Kingdom,Honda,3.0
+2008,19.0,Giancarlo Fisichella,Italy,Force India,0.0
+2008,20.0,Adrian Sutil,Germany,Force India,0.0
+2008,21.0,Takuma Sato,Japan,Super Aguri,0.0
+2008,22.0,Anthony Davidson,United Kingdom,Super Aguri,0.0
+2009,1.0,Jenson Button,United Kingdom,Brawn,95.0
+2009,2.0,Sebastian Vettel,Germany,Red Bull,84.0
+2009,3.0,Rubens Barrichello,Brazil,Brawn,77.0
+2009,4.0,Mark Webber,Australia,Red Bull,69.5
+2009,5.0,Lewis Hamilton,United Kingdom,McLaren,49.0
+2009,6.0,Kimi Raikkonen,Finland,Ferrari,48.0
+2009,7.0,Nico Rosberg,Germany,Williams,34.5
+2009,8.0,Jarno Trulli,Italy,Toyota,32.5
+2009,9.0,Fernando Alonso,Spain,Renault,26.0
+2009,10.0,Timo Glock,Germany,Toyota,24.0
+2009,11.0,Felipe Massa,Brazil,Ferrari,22.0
+2009,12.0,Heikki Kovalainen,Finland,McLaren,22.0
+2009,13.0,Nick Heidfeld,Germany,Sauber,19.0
+2009,14.0,Robert Kubica,Poland,Sauber,17.0
+2009,15.0,Giancarlo Fisichella,Italy,Ferrari,8.0
+2009,16.0,Sebastien Buemi,Switzerland,Toro Rosso,6.0
+2009,17.0,Adrian Sutil,Germany,Force India,5.0
+2009,18.0,Kamui Kobayashi,Japan,Toyota,3.0
+2009,19.0,Sebastien Bourdais,France,Toro Rosso,2.0
+2009,20.0,Kazuki Nakajima,Japan,Williams,0.0
+2009,21.0,Nelson Piquet,Brazil,Renault,0.0
+2009,22.0,Vitantonio Liuzzi,Italy,Force India,0.0
+2009,23.0,Romain Grosjean,France,Renault,0.0
+2009,24.0,Jaime Alguersuari,Spain,Toro Rosso,0.0
+2009,25.0,Luca Badoer,Italy,Ferrari,0.0
+2010,1.0,Sebastian Vettel,Germany,Red Bull,256.0
+2010,2.0,Fernando Alonso,Spain,Ferrari,252.0
+2010,3.0,Mark Webber,Australia,Red Bull,242.0
+2010,4.0,Lewis Hamilton,United Kingdom,McLaren,240.0
+2010,5.0,Jenson Button,United Kingdom,McLaren,214.0
+2010,6.0,Felipe Massa,Brazil,Ferrari,144.0
+2010,7.0,Nico Rosberg,Germany,Mercedes,142.0
+2010,8.0,Robert Kubica,Poland,Renault,136.0
+2010,9.0,Michael Schumacher,Germany,Mercedes,72.0
+2010,10.0,Rubens Barrichello,Brazil,Williams,47.0
+2010,11.0,Adrian Sutil,Germany,Force India,47.0
+2010,12.0,Kamui Kobayashi,Japan,Sauber,32.0
+2010,13.0,Vitaly Petrov,Russia,Renault,27.0
+2010,14.0,Nico Hulkenberg,Germany,Williams,22.0
+2010,15.0,Vitantonio Liuzzi,Italy,Force India,21.0
+2010,16.0,Sebastien Buemi,Switzerland,Toro Rosso,8.0
+2010,17.0,Pedro de la Rosa,Spain,Sauber,6.0
+2010,18.0,Nick Heidfeld,Germany,Sauber,6.0
+2010,19.0,Jaime Alguersuari,Spain,Toro Rosso,5.0
+2010,20.0,Heikki Kovalainen,Finland,Caterham,0.0
+2010,21.0,Jarno Trulli,Italy,Caterham,0.0
+2010,22.0,Karun Chandhok,India,HRT,0.0
+2010,23.0,Bruno Senna,Brazil,HRT,0.0
+2010,24.0,Lucas di Grassi,Brazil,Virgin,0.0
+2010,25.0,Timo Glock,Germany,Virgin,0.0
+2010,26.0,Sakon Yamamoto,Japan,HRT,0.0
+2010,27.0,Christian Klien,Austria,HRT,0.0
+2011,1.0,Sebastian Vettel,Germany,Red Bull,392.0
+2011,2.0,Jenson Button,United Kingdom,McLaren,270.0
+2011,3.0,Mark Webber,Australia,Red Bull,258.0
+2011,4.0,Fernando Alonso,Spain,Ferrari,257.0
+2011,5.0,Lewis Hamilton,United Kingdom,McLaren,227.0
+2011,6.0,Felipe Massa,Brazil,Ferrari,118.0
+2011,7.0,Nico Rosberg,Germany,Mercedes,89.0
+2011,8.0,Michael Schumacher,Germany,Mercedes,76.0
+2011,9.0,Adrian Sutil,Germany,Force India,42.0
+2011,10.0,Vitaly Petrov,Russia,Renault,37.0
+2011,11.0,Nick Heidfeld,Germany,Renault,34.0
+2011,12.0,Kamui Kobayashi,Japan,Sauber,30.0
+2011,13.0,Paul di Resta,United Kingdom,Force India,27.0
+2011,14.0,Jaime Alguersuari,Spain,Toro Rosso,26.0
+2011,15.0,Sebastien Buemi,Switzerland,Toro Rosso,15.0
+2011,16.0,Sergio Perez,Mexico,Sauber,14.0
+2011,17.0,Rubens Barrichello,Brazil,Williams,4.0
+2011,18.0,Bruno Senna,Brazil,Renault,2.0
+2011,19.0,Pastor Maldonado,Venezuela,Williams,1.0
+2011,20.0,Pedro de la Rosa,Spain,Sauber,0.0
+2011,21.0,Jarno Trulli,Italy,Lotus,0.0
+2011,22.0,Heikki Kovalainen,Finland,Lotus,0.0
+2011,23.0,Vitantonio Liuzzi,Italy,HRT,0.0
+2011,24.0,Jerome d'Ambrosio,Belgium,Virgin,0.0
+2011,25.0,Timo Glock,Germany,Virgin,0.0
+2011,26.0,Narain Karthikeyan,India,HRT,0.0
+2011,27.0,Daniel Ricciardo,Australia,HRT,0.0
+2011,28.0,Karun Chandhok,India,Lotus,0.0
+2012,1.0,Sebastian Vettel,Germany,Red Bull,281.0
+2012,2.0,Fernando Alonso,Spain,Ferrari,278.0
+2012,3.0,Kimi Raikkonen,Finland,Lotus,207.0
+2012,4.0,Lewis Hamilton,United Kingdom,McLaren,190.0
+2012,5.0,Jenson Button,United Kingdom,McLaren,188.0
+2012,6.0,Mark Webber,Australia,Red Bull,179.0
+2012,7.0,Felipe Massa,Brazil,Ferrari,122.0
+2012,8.0,Romain Grosjean,France,Lotus,96.0
+2012,9.0,Nico Rosberg,Germany,Mercedes,93.0
+2012,10.0,Sergio Perez,Mexico,Sauber,66.0
+2012,11.0,Nico Hulkenberg,Germany,Force India,63.0
+2012,12.0,Kamui Kobayashi,Japan,Sauber,60.0
+2012,13.0,Michael Schumacher,Germany,Mercedes,49.0
+2012,14.0,Paul di Resta,United Kingdom,Force India,46.0
+2012,15.0,Pastor Maldonado,Venezuela,Williams,45.0
+2012,16.0,Bruno Senna,Brazil,Williams,31.0
+2012,17.0,Jean-Eric Vergne,France,Toro Rosso,16.0
+2012,18.0,Daniel Ricciardo,Australia,Toro Rosso,10.0
+2012,19.0,Vitaly Petrov,Russia,Caterham,0.0
+2012,20.0,Timo Glock,Germany,Marussia,0.0
+2012,21.0,Charles Pic,France,Marussia,0.0
+2012,22.0,Heikki Kovalainen,Finland,Caterham,0.0
+2012,23.0,Jerome d'Ambrosio,Belgium,Lotus,0.0
+2012,24.0,Narain Karthikeyan,India,HRT,0.0
+2012,25.0,Pedro de la Rosa,Spain,HRT,0.0
+2013,1.0,Sebastian Vettel,Germany,Red Bull,397.0
+2013,2.0,Fernando Alonso,Spain,Ferrari,242.0
+2013,3.0,Mark Webber,Australia,Red Bull,199.0
+2013,4.0,Lewis Hamilton,United Kingdom,Mercedes,189.0
+2013,5.0,Kimi Raikkonen,Finland,Lotus,183.0
+2013,6.0,Nico Rosberg,Germany,Mercedes,171.0
+2013,7.0,Romain Grosjean,France,Lotus,132.0
+2013,8.0,Felipe Massa,Brazil,Ferrari,112.0
+2013,9.0,Jenson Button,United Kingdom,McLaren,73.0
+2013,10.0,Nico Hulkenberg,Germany,Sauber,51.0
+2013,11.0,Sergio Perez,Mexico,McLaren,49.0
+2013,12.0,Paul di Resta,United Kingdom,Force India,48.0
+2013,13.0,Adrian Sutil,Germany,Force India,29.0
+2013,14.0,Daniel Ricciardo,Australia,Toro Rosso,20.0
+2013,15.0,Jean-Eric Vergne,France,Toro Rosso,13.0
+2013,16.0,Esteban Gutierrez,Mexico,Sauber,6.0
+2013,17.0,Valtteri Bottas,Finland,Williams,4.0
+2013,18.0,Pastor Maldonado,Venezuela,Williams,1.0
+2013,19.0,Jules Bianchi,France,Marussia,0.0
+2013,20.0,Charles Pic,France,Caterham,0.0
+2013,21.0,Heikki Kovalainen,Finland,Lotus,0.0
+2013,22.0,Giedo van der Garde,Netherlands,Caterham,0.0
+2013,23.0,Max Chilton,United Kingdom,Marussia,0.0
+2014,1.0,Lewis Hamilton,United Kingdom,Mercedes,384.0
+2014,2.0,Nico Rosberg,Germany,Mercedes,317.0
+2014,3.0,Daniel Ricciardo,Australia,Red Bull,238.0
+2014,4.0,Valtteri Bottas,Finland,Williams,186.0
+2014,5.0,Sebastian Vettel,Germany,Red Bull,167.0
+2014,6.0,Fernando Alonso,Spain,Ferrari,161.0
+2014,7.0,Felipe Massa,Brazil,Williams,134.0
+2014,8.0,Jenson Button,United Kingdom,McLaren,126.0
+2014,9.0,Nico Hulkenberg,Germany,Force India,96.0
+2014,10.0,Sergio Perez,Mexico,Force India,59.0
+2014,11.0,Kevin Magnussen,Denmark,McLaren,55.0
+2014,12.0,Kimi Raikkonen,Finland,Ferrari,55.0
+2014,13.0,Jean-Eric Vergne,France,Toro Rosso,22.0
+2014,14.0,Romain Grosjean,France,Lotus,8.0
+2014,15.0,Daniil Kvyat,Russia,Toro Rosso,8.0
+2014,16.0,Pastor Maldonado,Venezuela,Lotus,2.0
+2014,17.0,Jules Bianchi,France,Marussia,2.0
+2014,18.0,Adrian Sutil,Germany,Sauber,0.0
+2014,19.0,Marcus Ericsson,Sweden,Caterham,0.0
+2014,20.0,Esteban Gutierrez,Mexico,Sauber,0.0
+2014,21.0,Max Chilton,United Kingdom,Marussia,0.0
+2014,22.0,Kamui Kobayashi,Japan,Caterham,0.0
+2014,23.0,Will Stevens,United Kingdom,Caterham,0.0
+2015,1.0,Lewis Hamilton,United Kingdom,Mercedes,381.0
+2015,2.0,Nico Rosberg,Germany,Mercedes,322.0
+2015,3.0,Sebastian Vettel,Germany,Ferrari,278.0
+2015,4.0,Kimi Raikkonen,Finland,Ferrari,150.0
+2015,5.0,Valtteri Bottas,Finland,Williams,136.0
+2015,6.0,Felipe Massa,Brazil,Williams,121.0
+2015,7.0,Daniil Kvyat,Russia,Red Bull,95.0
+2015,8.0,Daniel Ricciardo,Australia,Red Bull,92.0
+2015,9.0,Sergio Perez,Mexico,Force India,78.0
+2015,10.0,Nico Hulkenberg,Germany,Force India,58.0
+2015,11.0,Romain Grosjean,France,Lotus,51.0
+2015,12.0,Max Verstappen,Netherlands,Toro Rosso,49.0
+2015,13.0,Felipe Nasr,Brazil,Sauber,27.0
+2015,14.0,Pastor Maldonado,Venezuela,Lotus,27.0
+2015,15.0,Carlos Sainz,Spain,Toro Rosso,18.0
+2015,16.0,Jenson Button,United Kingdom,McLaren,16.0
+2015,17.0,Fernando Alonso,Spain,McLaren,11.0
+2015,18.0,Marcus Ericsson,Sweden,Sauber,9.0
+2015,19.0,Roberto Merhi,Spain,Marussia,0.0
+2015,20.0,Alexander Rossi,United States of America,Marussia,0.0
+2015,21.0,Will Stevens,United Kingdom,Marussia,0.0
+2016,1.0,Nico Rosberg,Germany,Mercedes,385.0
+2016,2.0,Lewis Hamilton,United Kingdom,Mercedes,380.0
+2016,3.0,Daniel Ricciardo,Australia,Red Bull,256.0
+2016,4.0,Sebastian Vettel,Germany,Ferrari,212.0
+2016,5.0,Max Verstappen,Netherlands,Red Bull,204.0
+2016,6.0,Kimi Raikkonen,Finland,Ferrari,186.0
+2016,7.0,Sergio Perez,Mexico,Force India,101.0
+2016,8.0,Valtteri Bottas,Finland,Williams,85.0
+2016,9.0,Nico Hulkenberg,Germany,Force India,72.0
+2016,10.0,Fernando Alonso,Spain,McLaren,54.0
+2016,11.0,Felipe Massa,Brazil,Williams,53.0
+2016,12.0,Carlos Sainz,Spain,Toro Rosso,46.0
+2016,13.0,Romain Grosjean,France,Haas,29.0
+2016,14.0,Daniil Kvyat,Russia,Toro Rosso,25.0
+2016,15.0,Jenson Button,United Kingdom,McLaren,21.0
+2016,16.0,Kevin Magnussen,Denmark,Renault,7.0
+2016,17.0,Felipe Nasr,Brazil,Sauber,2.0
+2016,18.0,Jolyon Palmer,United Kingdom,Renault,1.0
+2016,19.0,Pascal Wehrlein,Germany,Marussia,1.0
+2016,20.0,Stoffel Vandoorne,Belgium,McLaren,1.0
+2016,21.0,Esteban Gutierrez,Mexico,Haas,0.0
+2016,22.0,Marcus Ericsson,Sweden,Sauber,0.0
+2016,23.0,Esteban Ocon,France,Marussia,0.0
+2016,24.0,Rio Haryanto,Indonesia,Marussia,0.0
+2017,1.0,Lewis Hamilton,United Kingdom,Mercedes,363.0
+2017,2.0,Sebastian Vettel,Germany,Ferrari,317.0
+2017,3.0,Valtteri Bottas,Finland,Mercedes,305.0
+2017,4.0,Kimi Raikkonen,Finland,Ferrari,205.0
+2017,5.0,Daniel Ricciardo,Australia,Red Bull,200.0
+2017,6.0,Max Verstappen,Netherlands,Red Bull,168.0
+2017,7.0,Sergio Perez,Mexico,Force India,100.0
+2017,8.0,Esteban Ocon,France,Force India,87.0
+2017,9.0,Carlos Sainz,Spain,Renault,54.0
+2017,10.0,Nico Hulkenberg,Germany,Renault,43.0
+2017,11.0,Felipe Massa,Brazil,Williams,43.0
+2017,12.0,Lance Stroll,Canada,Williams,40.0
+2017,13.0,Romain Grosjean,France,Haas,28.0
+2017,14.0,Kevin Magnussen,Denmark,Haas,19.0
+2017,15.0,Fernando Alonso,Spain,McLaren,17.0
+2017,16.0,Stoffel Vandoorne,Belgium,McLaren,13.0
+2017,17.0,Jolyon Palmer,United Kingdom,Renault,8.0
+2017,18.0,Pascal Wehrlein,Germany,Sauber,5.0
+2017,19.0,Daniil Kvyat,Russia,Toro Rosso,5.0
+2017,20.0,Marcus Ericsson,Sweden,Sauber,0.0
+2017,21.0,Pierre Gasly,France,Toro Rosso,0.0
+2017,22.0,Antonio Giovinazzi,Italy,Sauber,0.0
+2017,23.0,Brendon Hartley,New Zealand,Toro Rosso,0.0
+2018,1.0,Lewis Hamilton,United Kingdom,Mercedes,408.0
+2018,2.0,Sebastian Vettel,Germany,Ferrari,320.0
+2018,3.0,Kimi Raikkonen,Finland,Ferrari,251.0
+2018,4.0,Max Verstappen,Netherlands,Red Bull,249.0
+2018,5.0,Valtteri Bottas,Finland,Mercedes,247.0
+2018,6.0,Daniel Ricciardo,Australia,Red Bull,170.0
+2018,7.0,Nico Hulkenberg,Germany,Renault,69.0
+2018,8.0,Sergio Perez,Mexico,Force India,62.0
+2018,9.0,Kevin Magnussen,Denmark,Haas,56.0
+2018,10.0,Carlos Sainz,Spain,Renault,53.0
+2018,11.0,Fernando Alonso,Spain,McLaren,50.0
+2018,12.0,Esteban Ocon,France,Force India,49.0
+2018,13.0,Charles Leclerc,Monaco,Sauber,39.0
+2018,14.0,Romain Grosjean,France,Haas,37.0
+2018,15.0,Pierre Gasly,France,Toro Rosso,29.0
+2018,16.0,Stoffel Vandoorne,Belgium,McLaren,12.0
+2018,17.0,Marcus Ericsson,Sweden,Sauber,9.0
+2018,18.0,Lance Stroll,Canada,Williams,6.0
+2018,19.0,Brendon Hartley,New Zealand,Toro Rosso,4.0
+2018,20.0,Sergey Sirotkin,Russia,Williams,1.0
+2019,1.0,Lewis Hamilton,United Kingdom,Mercedes,413.0
+2019,2.0,Valtteri Bottas,Finland,Mercedes,326.0
+2019,3.0,Max Verstappen,Netherlands,Red Bull,278.0
+2019,4.0,Charles Leclerc,Monaco,Ferrari,264.0
+2019,5.0,Sebastian Vettel,Germany,Ferrari,240.0
+2019,6.0,Carlos Sainz,Spain,McLaren,96.0
+2019,7.0,Pierre Gasly,France,Toro Rosso,95.0
+2019,8.0,Alexander Albon,Thailand,Red Bull,92.0
+2019,9.0,Daniel Ricciardo,Australia,Renault,54.0
+2019,10.0,Sergio Perez,Mexico,Force India,52.0
+2019,11.0,Lando Norris,United Kingdom,McLaren,49.0
+2019,12.0,Kimi Raikkonen,Finland,Sauber,43.0
+2019,13.0,Daniil Kvyat,Russia,Toro Rosso,37.0
+2019,14.0,Nico Hulkenberg,Germany,Renault,37.0
+2019,15.0,Lance Stroll,Canada,Force India,21.0
+2019,16.0,Kevin Magnussen,Denmark,Haas,20.0
+2019,17.0,Antonio Giovinazzi,Italy,Sauber,14.0
+2019,18.0,Romain Grosjean,France,Haas,8.0
+2019,19.0,Robert Kubica,Poland,Williams,1.0
+2019,20.0,George Russell,United Kingdom,Williams,0.0
+2020,1.0,Lewis Hamilton,United Kingdom,Mercedes,347.0
+2020,2.0,Valtteri Bottas,Finland,Mercedes,223.0
+2020,3.0,Max Verstappen,Netherlands,Red Bull,214.0
+2020,4.0,Sergio Perez,Mexico,Force India,125.0
+2020,5.0,Daniel Ricciardo,Australia,Renault,119.0
+2020,6.0,Carlos Sainz,Spain,McLaren,105.0
+2020,7.0,Alexander Albon,Thailand,Red Bull,105.0
+2020,8.0,Charles Leclerc,Monaco,Ferrari,98.0
+2020,9.0,Lando Norris,United Kingdom,McLaren,97.0
+2020,10.0,Pierre Gasly,France,Toro Rosso,75.0
+2020,11.0,Lance Stroll,Canada,Force India,75.0
+2020,12.0,Esteban Ocon,France,Renault,62.0
+2020,13.0,Sebastian Vettel,Germany,Ferrari,33.0
+2020,14.0,Daniil Kvyat,Russia,Toro Rosso,32.0
+2020,15.0,Nico Hulkenberg,Germany,Force India,10.0
+2020,16.0,Kimi Raikkonen,Finland,Sauber,4.0
+2020,17.0,Antonio Giovinazzi,Italy,Sauber,4.0
+2020,18.0,George Russell,United Kingdom,Williams,3.0
+2020,19.0,Romain Grosjean,France,Haas,2.0
+2020,20.0,Kevin Magnussen,Denmark,Haas,1.0
+2020,21.0,Nicholas Latifi,Canada,Williams,0.0
+2020,22.0,Jack Aitken,United Kingdom,Williams,0.0
+2020,23.0,Pietro Fittipaldi,Brazil,Haas,0.0
+2021,1.0,Max Verstappen,Netherlands,Red Bull,395.5
+2021,2.0,Lewis Hamilton,United Kingdom,Mercedes,387.5
+2021,3.0,Valtteri Bottas,Finland,Mercedes,226.0
+2021,4.0,Sergio Perez,Mexico,Red Bull,190.0
+2021,5.0,Carlos Sainz,Spain,Ferrari,164.5
+2021,6.0,Lando Norris,United Kingdom,McLaren,160.0
+2021,7.0,Charles Leclerc,Monaco,Ferrari,159.0
+2021,8.0,Daniel Ricciardo,Australia,McLaren,115.0
+2021,9.0,Pierre Gasly,France,Toro Rosso,110.0
+2021,10.0,Fernando Alonso,Spain,Renault,81.0
+2021,11.0,Esteban Ocon,France,Renault,74.0
+2021,12.0,Sebastian Vettel,Germany,Aston Martin,43.0
+2021,13.0,Lance Stroll,Canada,Aston Martin,34.0
+2021,14.0,Yuki Tsunoda,Japan,Toro Rosso,32.0
+2021,15.0,George Russell,United Kingdom,Williams,16.0
+2021,16.0,Kimi Raikkonen,Finland,Sauber,10.0
+2021,17.0,Nicholas Latifi,Canada,Williams,7.0
+2021,18.0,Antonio Giovinazzi,Italy,Sauber,3.0
+2021,19.0,Mick Schumacher,Germany,Haas,0.0
+2021,20.0,Robert Kubica,Poland,Sauber,0.0
+2021,21.0,Nikita Mazepin,Russia,Haas,0.0
+2022,1.0,Max Verstappen,Netherlands,Red Bull,454.0
+2022,2.0,Charles Leclerc,Monaco,Ferrari,308.0
+2022,3.0,Sergio Perez,Mexico,Red Bull,305.0
+2022,4.0,George Russell,United Kingdom,Mercedes,275.0
+2022,5.0,Carlos Sainz,Spain,Ferrari,246.0
+2022,6.0,Lewis Hamilton,United Kingdom,Mercedes,240.0
+2022,7.0,Lando Norris,United Kingdom,McLaren,122.0
+2022,8.0,Esteban Ocon,France,Renault,92.0
+2022,9.0,Fernando Alonso,Spain,Renault,81.0
+2022,10.0,Valtteri Bottas,Finland,Alfa Romeo,49.0
+2022,11.0,Daniel Ricciardo,Australia,McLaren,37.0
+2022,12.0,Sebastian Vettel,Germany,Aston Martin,37.0
+2022,13.0,Kevin Magnussen,Denmark,Haas,25.0
+2022,14.0,Pierre Gasly,France,Toro Rosso,23.0
+2022,15.0,Lance Stroll,Canada,Aston Martin,18.0
+2022,16.0,Mick Schumacher,Germany,Haas,12.0
+2022,17.0,Yuki Tsunoda,Japan,Toro Rosso,12.0
+2022,18.0,Guanyu Zhou,China,Alfa Romeo,6.0
+2022,19.0,Alexander Albon,Thailand,Williams,4.0
+2022,20.0,Nicholas Latifi,Canada,Williams,2.0
+2022,21.0,Nyck De Vries,Netherlands,Williams,2.0
+2022,22.0,Nico Hulkenberg,Germany,Aston Martin,0.0
+2023,1.0,Max Verstappen,Netherlands,Red Bull,575.0
+2023,2.0,Sergio Perez,Mexico,Red Bull,285.0
+2023,3.0,Lewis Hamilton,United Kingdom,Mercedes,234.0
+2023,4.0,Fernando Alonso,Spain,Aston Martin,206.0
+2023,5.0,Charles Leclerc,Monaco,Ferrari,206.0
+2023,6.0,Lando Norris,United Kingdom,McLaren,205.0
+2023,7.0,Carlos Sainz,Spain,Ferrari,200.0
+2023,8.0,George Russell,United Kingdom,Mercedes,175.0
+2023,9.0,Oscar Piastri,Australia,McLaren,97.0
+2023,10.0,Lance Stroll,Canada,Aston Martin,74.0
+2023,11.0,Pierre Gasly,France,Renault,62.0
+2023,12.0,Esteban Ocon,France,Renault,58.0
+2023,13.0,Alexander Albon,Thailand,Williams,27.0
+2023,14.0,Yuki Tsunoda,Japan,Toro Rosso,17.0
+2023,15.0,Valtteri Bottas,Finland,Alfa Romeo,10.0
+2023,16.0,Nico Hulkenberg,Germany,Haas,9.0
+2023,17.0,Daniel Ricciardo,Australia,Toro Rosso,6.0
+2023,18.0,Guanyu Zhou,China,Alfa Romeo,6.0
+2023,19.0,Kevin Magnussen,Denmark,Haas,3.0
+2023,20.0,Liam Lawson,New Zealand,Toro Rosso,2.0
+2023,21.0,Logan Sargeant,United States of America,Williams,1.0
+2023,22.0,Nyck De Vries,Netherlands,Toro Rosso,0.0
+2024,1.0,Max Verstappen,Netherlands,Red Bull,437.0
+2024,2.0,Lando Norris,United Kingdom,McLaren,374.0
+2024,3.0,Charles Leclerc,Monaco,Ferrari,356.0
+2024,4.0,Oscar Piastri,Australia,McLaren,292.0
+2024,5.0,Carlos Sainz,Spain,Ferrari,290.0
+2024,6.0,George Russell,United Kingdom,Mercedes,245.0
+2024,7.0,Lewis Hamilton,United Kingdom,Mercedes,223.0
+2024,8.0,Sergio Perez,Mexico,Red Bull,152.0
+2024,9.0,Fernando Alonso,Spain,Aston Martin,70.0
+2024,10.0,Pierre Gasly,France,Renault,42.0
+2024,11.0,Nico Hulkenberg,Germany,Haas,41.0
+2024,12.0,Yuki Tsunoda,Japan,Toro Rosso,30.0
+2024,13.0,Lance Stroll,Canada,Aston Martin,24.0
+2024,14.0,Esteban Ocon,France,Renault,23.0
+2024,15.0,Kevin Magnussen,Denmark,Haas,16.0
+2024,16.0,Alexander Albon,Thailand,Williams,12.0
+2024,17.0,Daniel Ricciardo,Australia,Toro Rosso,12.0
+2024,18.0,Oliver Bearman,United Kingdom,Haas,7.0
+2024,19.0,Franco Colapinto,Argentina,Williams,5.0
+2024,20.0,Guanyu Zhou,China,Sauber,4.0
+2024,21.0,Liam Lawson,New Zealand,Toro Rosso,4.0
+2024,22.0,Valtteri Bottas,Finland,Sauber,0.0
+2024,23.0,Logan Sargeant,United States of America,Williams,0.0
+2024,24.0,Jack Doohan,Australia,Renault,0.0
