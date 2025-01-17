@@ -1,0 +1,13 @@
+Era,DriversPerEra,ConstructorsPerEra,RoundsPerEra,OverallSafety,SpeedAndManeuverability
+1950-1957: Front-Engine / Factory Cars,23,21,8,1,1
+1958-1961: Rear-Mid Engine / British Teams,21,18,10,1,1
+1962-1967: 1.5L Engines / Anglophone Drivers,19,11,10,1,1
+1968-1976: 12-Cylinder Engines / Sponsors / Safety / Aerodynamics,21,14,13,1,2
+1977-1982: Ground-Effect,22,18,16,2,2
+1983-1988: 1.5L Turbocharged Engines,20,16,16,3,3
+1989-1994: 3.5L Naturally Aspirated Engines,23,17,16,3,3
+1995-1999: 3L Engines,19,12,16,4,4
+2000-2005: V10 Engines,23,10,17,4,4
+2006-2013: 2.4L V8 Engines,25,11,18,4,5
+2014-2021: 1.6L Turbocharged Engines,22,10,20,5,5
+2022-2025: Ground-Effect / Aero Changes,23,10,23,5,5
