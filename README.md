@@ -9,7 +9,7 @@ Over the decades, Formula One has captivated fans with legendary races, iconic d
 This analysis leverages Python and SQL to uncover key insights into the achievements of drivers and constructors throughout F1’s storied history.
 
 ## The repository includes the following components:
-- Five Jupyter Notebooks dedicated to retrieving, preprocessing, exploring, and visualizing Formula One data.
+- Five Jupyter Notebooks dedicated to retrieving, preprocessing, and visualizing Formula One data.
 - A PDF presentation offering an in-depth analysis and interpretation of the results.
 - Datasets sourced from the [formula1.com](https://formula1.com) website and [F1DB](https://github.com/f1db/f1db).
 - An SQLite database used to centralize the data for structured storage and efficient querying.
